@@ -23,9 +23,23 @@ buildFuture = false
   Title = "Part-Time Job Reviews You Can Trust"
   Content = "Real experiences, honest pay info, and practical tips for every part-time job out there."
 
-[[params.socialIcons]]
-  name = "email"
-  url = "mailto:contact@withintrend.org"
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  weight = 3
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
