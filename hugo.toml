@@ -4,6 +4,10 @@ title = "WithinTrend — Part-Time Job Reviews & Guides"
 theme = "PaperMod"
 buildFuture = false
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-LYGHJGWPR2"
+
 [params]
   description = "Honest part-time job reviews, pay info, and tips from real workers across the US."
   author = "WithinTrend"
