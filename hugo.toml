@@ -1,0 +1,32 @@
+baseURL = "https://withintrend.org/"
+languageCode = "en-us"
+title = "WithinTrend — Part-Time Job Reviews & Guides"
+theme = "PaperMod"
+buildFuture = false
+
+[params]
+  description = "Honest part-time job reviews, pay info, and tips from real workers across the US."
+  author = "WithinTrend"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  defaultTheme = "light"
+  ShowToc = true
+
+[params.homeInfoParams]
+  Title = "Part-Time Job Reviews You Can Trust"
+  Content = "Real experiences, honest pay info, and practical tips for every part-time job out there."
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:contact@withintrend.org"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
