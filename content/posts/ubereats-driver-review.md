@@ -1,5 +1,5 @@
 ---
-title: "Working as an UberEats Driver: An Honest Review"
+title: "Working as an UberEats Driver: Pay, Pros, Cons & What to Expect"
 date: 2026-03-08T10:00:00+09:00
 description: "What's it really like driving for UberEats? Pay, hours, pros, cons, and tips from real drivers."
 tags: ["ubereats", "delivery driver", "gig economy", "part-time jobs", "job reviews"]
@@ -8,6 +8,9 @@ draft: false
 ---
 
 UberEats is one of the biggest food delivery platforms in the world, and for many people, it represents the promise of the gig economy: make money on your own schedule, no boss, no uniform, no interview. Sounds ideal. But the reality of driving for UberEats involves a complicated math equation of base pay, tips, gas costs, and vehicle depreciation that most new drivers don't fully understand until they're already on the road. Is UberEats actually worth your time and gas? Keep reading.
+
+This guide is based on a comprehensive review of dozens of real employee experiences shared across job review sites, forums, and social media — not a single person's opinion, but a balanced summary of what actual workers report.
+
 
 ## What You'll Actually Do
 
