@@ -20,9 +20,7 @@
     "ross-stores-associate",
     "tj-maxx-associate",
     "panera-bread-associate",
-    "lowes-associate"
-  ],
-  "queue": [
+    "lowes-associate",
     "starbucks-shift-supervisor",
     "mcdonalds-manager",
     "mcdonalds-drive-thru",
@@ -32,7 +30,9 @@
     "walmart-stocker",
     "walmart-online-grocery-picker",
     "walmart-self-checkout-host",
-    "walmart-deli-associate",
+    "walmart-deli-associate"
+  ],
+  "queue": [
     "costco-food-court",
     "costco-cashier",
     "costco-stocker",
