@@ -30,9 +30,7 @@
     "walmart-stocker",
     "walmart-online-grocery-picker",
     "walmart-self-checkout-host",
-    "walmart-deli-associate"
-  ],
-  "queue": [
+    "walmart-deli-associate",
     "costco-food-court",
     "costco-cashier",
     "costco-stocker",
@@ -42,7 +40,9 @@
     "amazon-fresh-shopper",
     "chick-fil-a-drive-thru",
     "chick-fil-a-kitchen",
-    "home-depot-cashier",
+    "home-depot-cashier"
+  ],
+  "queue": [
     "home-depot-lot-associate",
     "home-depot-freight-team",
     "lowes-cashier",
