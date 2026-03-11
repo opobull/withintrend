@@ -40,9 +40,7 @@
     "amazon-fresh-shopper",
     "chick-fil-a-drive-thru",
     "chick-fil-a-kitchen",
-    "home-depot-cashier"
-  ],
-  "queue": [
+    "home-depot-cashier",
     "home-depot-lot-associate",
     "home-depot-freight-team",
     "lowes-cashier",
@@ -52,7 +50,9 @@
     "whole-foods-shopper",
     "whole-foods-cashier",
     "best-buy-sales-associate",
-    "best-buy-geek-squad",
+    "best-buy-geek-squad"
+  ],
+  "queue": [
     "best-buy-warehouse",
     "aldi-store-associate",
     "aldi-cashier",
