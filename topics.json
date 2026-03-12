@@ -50,9 +50,7 @@
     "whole-foods-shopper",
     "whole-foods-cashier",
     "best-buy-sales-associate",
-    "best-buy-geek-squad"
-  ],
-  "queue": [
+    "best-buy-geek-squad",
     "best-buy-warehouse",
     "aldi-store-associate",
     "aldi-cashier",
@@ -62,7 +60,9 @@
     "burger-king-crew-member",
     "burger-king-shift-coordinator",
     "taco-bell-team-member",
-    "taco-bell-shift-lead",
+    "taco-bell-shift-lead"
+  ],
+  "queue": [
     "five-guys-crew-member",
     "popeyes-crew-member",
     "popeyes-cook",
