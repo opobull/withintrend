@@ -60,9 +60,7 @@
     "burger-king-crew-member",
     "burger-king-shift-coordinator",
     "taco-bell-team-member",
-    "taco-bell-shift-lead"
-  ],
-  "queue": [
+    "taco-bell-shift-lead",
     "five-guys-crew-member",
     "popeyes-crew-member",
     "popeyes-cook",
@@ -72,7 +70,9 @@
     "panda-express-kitchen",
     "panda-express-front-counter",
     "in-n-out-associate",
-    "in-n-out-cook",
+    "in-n-out-cook"
+  ],
+  "queue": [
     "whataburger-team-member",
     "sonic-drive-in-carhop",
     "jack-in-the-box-crew",
