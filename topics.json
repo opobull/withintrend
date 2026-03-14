@@ -70,9 +70,7 @@
     "panda-express-kitchen",
     "panda-express-front-counter",
     "in-n-out-associate",
-    "in-n-out-cook"
-  ],
-  "queue": [
+    "in-n-out-cook",
     "whataburger-team-member",
     "sonic-drive-in-carhop",
     "jack-in-the-box-crew",
@@ -82,7 +80,9 @@
     "jimmy-johns-driver",
     "jimmy-johns-inshop",
     "pizza-hut-delivery-driver",
-    "pizza-hut-cook",
+    "pizza-hut-cook"
+  ],
+  "queue": [
     "papa-johns-delivery-driver",
     "papa-johns-instore",
     "little-caesars-crew",
