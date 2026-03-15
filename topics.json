@@ -80,9 +80,7 @@
     "jimmy-johns-driver",
     "jimmy-johns-inshop",
     "pizza-hut-delivery-driver",
-    "pizza-hut-cook"
-  ],
-  "queue": [
+    "pizza-hut-cook",
     "papa-johns-delivery-driver",
     "papa-johns-instore",
     "little-caesars-crew",
@@ -92,7 +90,9 @@
     "olive-garden-server",
     "olive-garden-host",
     "olive-garden-busser",
-    "applebees-server",
+    "applebees-server"
+  ],
+  "queue": [
     "applebees-bartender",
     "chilis-server",
     "chilis-host",
