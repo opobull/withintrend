@@ -90,9 +90,7 @@
     "olive-garden-server",
     "olive-garden-host",
     "olive-garden-busser",
-    "applebees-server"
-  ],
-  "queue": [
+    "applebees-server",
     "applebees-bartender",
     "chilis-server",
     "chilis-host",
@@ -102,7 +100,9 @@
     "waffle-house-cook",
     "red-lobster-server",
     "cheesecake-factory-server",
-    "cheesecake-factory-busser",
+    "cheesecake-factory-busser"
+  ],
+  "queue": [
     "buffalo-wild-wings-server",
     "texas-roadhouse-server",
     "cracker-barrel-server",
