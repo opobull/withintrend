@@ -100,9 +100,7 @@
     "waffle-house-cook",
     "red-lobster-server",
     "cheesecake-factory-server",
-    "cheesecake-factory-busser"
-  ],
-  "queue": [
+    "cheesecake-factory-busser",
     "buffalo-wild-wings-server",
     "texas-roadhouse-server",
     "cracker-barrel-server",
@@ -112,7 +110,9 @@
     "grubhub-driver",
     "shipt-shopper",
     "spark-driver-walmart",
-    "lyft-driver",
+    "lyft-driver"
+  ],
+  "queue": [
     "uber-driver",
     "gopuff-driver",
     "ups-package-handler",
