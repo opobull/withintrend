@@ -110,9 +110,7 @@
     "grubhub-driver",
     "shipt-shopper",
     "spark-driver-walmart",
-    "lyft-driver"
-  ],
-  "queue": [
+    "lyft-driver",
     "uber-driver",
     "gopuff-driver",
     "ups-package-handler",
@@ -122,7 +120,9 @@
     "usps-mail-carrier",
     "usps-clerk",
     "dollar-tree-associate",
-    "dollar-tree-cashier",
+    "dollar-tree-cashier"
+  ],
+  "queue": [
     "dollar-general-associate",
     "family-dollar-associate",
     "marshalls-associate",
