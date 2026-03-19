@@ -120,9 +120,7 @@
     "usps-mail-carrier",
     "usps-clerk",
     "dollar-tree-associate",
-    "dollar-tree-cashier"
-  ],
-  "queue": [
+    "dollar-tree-cashier",
     "dollar-general-associate",
     "family-dollar-associate",
     "marshalls-associate",
@@ -132,7 +130,9 @@
     "old-navy-cashier",
     "gap-associate",
     "kohls-associate",
-    "kohls-cashier",
+    "kohls-cashier"
+  ],
+  "queue": [
     "sephora-beauty-advisor",
     "sephora-cashier",
     "ulta-beauty-associate",
