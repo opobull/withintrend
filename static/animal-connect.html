@@ -6,14 +6,14 @@
 <title>Animal Connect</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
-body{background:#f9f9f9;display:flex;justify-content:center;padding:10px 0;font-family:sans-serif;user-select:none;}
+body{background:#1a1a2e;display:flex;justify-content:center;padding:10px 0;font-family:sans-serif;user-select:none;}
 #game-container{text-align:center;position:relative;}
-h1{color:#333;margin-bottom:6px;font-size:20px;}
+h1{color:#eee;margin-bottom:6px;font-size:20px;}
 #timer{font-size:24px;color:#4ecca3;margin-bottom:4px;font-weight:bold;}
 #timer.warning{color:#e94560;animation:pulse 0.5s ease-in-out infinite alternate;}
 @keyframes pulse{from{opacity:1}to{opacity:0.5}}
-#info{color:#666;margin-bottom:6px;font-size:14px;}
-canvas{border:2px solid #ddd;border-radius:6px;cursor:pointer;background:#fff;}
+#info{color:#aaa;margin-bottom:6px;font-size:14px;}
+canvas{border:2px solid #333;border-radius:6px;cursor:pointer;background:#16213e;}
 #controls{margin-top:8px;}
 button{padding:6px 16px;font-size:14px;border:none;border-radius:5px;cursor:pointer;background:#e94560;color:white;margin:0 3px;}
 button:hover{background:#c73e54;}
@@ -56,8 +56,8 @@ function playGameOver(){ensureAudio();var now=audioCtx.currentTime;var freqs=[40
 
 function draw(){
   ctx.clearRect(0,0,canvas.width,canvas.height);
-  for(var r=0;r<ROWS;r++){for(var c=0;c<COLS;c++){var x=c*CELL,y=r*CELL;ctx.fillStyle=(r+c)%2===0?'#fafafa':'#f0f0f0';ctx.fillRect(x,y,CELL,CELL);if(isSelected({col:c,row:r})){ctx.fillStyle='rgba(233,69,96,0.2)';ctx.fillRect(x,y,CELL,CELL);}if(grid[r]&&grid[r][c]){ctx.font=(CELL-10)+'px serif';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(grid[r][c],x+CELL/2,y+CELL/2+2);}}}
-  ctx.strokeStyle='#e0e0e0';ctx.lineWidth=1;
+  for(var r=0;r<ROWS;r++){for(var c=0;c<COLS;c++){var x=c*CELL,y=r*CELL;ctx.fillStyle=(r+c)%2===0?'#1a1a3e':'#16213e';ctx.fillRect(x,y,CELL,CELL);if(isSelected({col:c,row:r})){ctx.fillStyle='rgba(233,69,96,0.2)';ctx.fillRect(x,y,CELL,CELL);}if(grid[r]&&grid[r][c]){ctx.font=(CELL-10)+'px serif';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(grid[r][c],x+CELL/2,y+CELL/2+2);}}}
+  ctx.strokeStyle='#2a2a4e';ctx.lineWidth=1;
   for(var r=0;r<=ROWS;r++){ctx.beginPath();ctx.moveTo(0,r*CELL);ctx.lineTo(COLS*CELL,r*CELL);ctx.stroke();}
   for(var c=0;c<=COLS;c++){ctx.beginPath();ctx.moveTo(c*CELL,0);ctx.lineTo(c*CELL,ROWS*CELL);ctx.stroke();}
   if(selected.length>=2){ctx.strokeStyle='#e94560';ctx.lineWidth=3;ctx.lineCap='round';ctx.beginPath();ctx.moveTo(selected[0].col*CELL+CELL/2,selected[0].row*CELL+CELL/2);for(var i=1;i<selected.length;i++){ctx.lineTo(selected[i].col*CELL+CELL/2,selected[i].row*CELL+CELL/2);}ctx.stroke();}
