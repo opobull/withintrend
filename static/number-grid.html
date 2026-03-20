@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Number Grid Puzzle</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#1a1a2e;display:flex;justify-content:center;align-items:center;min-height:100vh;font-family:sans-serif;user-select:none;}
+#game-container{text-align:center;position:relative;}
+h1{color:#eee;margin-bottom:8px;font-size:22px;}
+#info{color:#aaa;margin-bottom:10px;font-size:15px;}
+#target-sum{color:#4ecca3;font-size:20px;font-weight:bold;margin-bottom:12px;}
+#grid{display:inline-grid;grid-template-columns:repeat(5,64px);gap:4px;margin-bottom:16px;}
+.cell{width:64px;height:64px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:bold;cursor:pointer;transition:background 0.15s,transform 0.1s;}
+.cell.fixed{background:#2a2a5e;color:#8888cc;cursor:default;}
+.cell.empty{background:#16213e;color:#eee;border:2px dashed #333;}
+.cell.empty:hover{background:#1e2d50;}
+.cell.filled{background:#1e3a5f;color:#4ecca3;border:2px solid #4ecca3;}
+.cell.selected{background:#2a4a6f;border:2px solid #e94560;transform:scale(1.05);}
+.cell.correct-line{box-shadow:0 0 8px rgba(78,204,163,0.5);}
+.cell.wrong-line{box-shadow:0 0 8px rgba(233,69,96,0.4);}
+#numpad{display:flex;gap:6px;justify-content:center;margin-bottom:12px;flex-wrap:wrap;}
+.num-btn{width:48px;height:48px;border-radius:8px;background:#2a2a5e;color:#eee;font-size:22px;font-weight:bold;border:none;cursor:pointer;transition:background 0.15s;}
+.num-btn:hover{background:#3a3a7e;}
+.num-btn.active{background:#e94560;color:white;}
+#controls{margin-bottom:10px;}
+button{padding:8px 20px;font-size:15px;border:none;border-radius:6px;cursor:pointer;background:#e94560;color:white;margin:0 4px;}
+button:hover{background:#c73e54;}
+#clear-btn{background:#555;}
+#clear-btn:hover{background:#777;}
+#sums-display{display:inline-grid;grid-template-columns:repeat(5,64px) 40px;gap:4px;margin-bottom:8px;color:#aaa;font-size:13px;}
+#message{color:#4ecca3;font-size:18px;font-weight:bold;margin-top:10px;min-height:28px;}
+#help-btn{background:#555;font-size:14px;width:30px;height:30px;border-radius:50%;padding:0;}
+#help-box{display:none;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.93);border-radius:10px;padding:20px;text-align:left;color:#eee;font-size:14px;line-height:1.8;max-width:350px;z-index:10;}
+.row-sum,.col-sum{display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold;width:64px;height:24px;}
+.sum-ok{color:#4ecca3;}
+.sum-bad{color:#e94560;}
+.sum-partial{color:#888;}
+#row-sums{position:absolute;right:-50px;top:0;display:flex;flex-direction:column;gap:4px;}
+.row-sum-cell{width:40px;height:64px;display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:bold;border-radius:6px;background:#111;}
+#col-sums{display:inline-grid;grid-template-columns:repeat(5,64px);gap:4px;margin-bottom:8px;}
+.col-sum-cell{width:64px;height:28px;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold;border-radius:4px;background:#111;}
+#grid-wrapper{display:inline-block;position:relative;}
+#diag-sums{position:absolute;display:flex;gap:10px;}
+</style>
+</head>
+<body>
+<div id="game-container">
+  <h1>🔢 Number Grid Puzzle</h1>
+  <div id="target-sum"></div>
+  <div id="info">빈칸을 채워서 모든 줄의 합을 맞추세요!</div>
+  <div id="grid-wrapper">
+    <div id="grid"></div>
+    <div id="row-sums"></div>
+  </div>
+  <div id="col-sums"></div>
+  <div id="numpad"></div>
+  <div id="controls">
+    <button id="new-btn">New Game</button>
+    <button id="clear-btn">Clear</button>
+    <button id="help-btn">?</button>
+  </div>
+  <div id="message"></div>
+  <div id="help-box">
+    <b>📖 규칙</b><br>
+    • 5×5 그리드의 빈칸에 숫자를 채우세요<br>
+    • 하단 숫자 버튼 선택 → 빈칸 클릭으로 배치<br>
+    • 배치된 숫자 클릭하면 제거됩니다<br>
+    • 가로 5줄, 세로 5줄, 대각선 2줄<br>
+    • <b>모든 줄의 합이 목표 숫자와 같으면 클리어!</b><br>
+    • 숫자 0~9 중복 사용 가능<br>
+    <br><button onclick="document.getElementById('help-box').style.display='none'" style="font-size:13px;padding:4px 12px;">닫기</button>
+  </div>
+</div>
+<script>
+var SIZE=5, grid=[], fixed=[], selectedNum=null, targetSum=0, solution=[];
+var AudioCtx=window.AudioContext||window.webkitAudioContext, audioCtx;
+function ensureAudio(){if(!audioCtx)audioCtx=new AudioCtx();}
+function playPlace(){ensureAudio();var now=audioCtx.currentTime;var o=audioCtx.createOscillator();var g=audioCtx.createGain();o.connect(g);g.connect(audioCtx.destination);o.type='sine';o.frequency.value=520;g.gain.setValueAtTime(0.08,now);g.gain.exponentialRampToValueAtTime(0.001,now+0.1);o.start(now);o.stop(now+0.1);}
+function playRemove(){ensureAudio();var now=audioCtx.currentTime;var o=audioCtx.createOscillator();var g=audioCtx.createGain();o.connect(g);g.connect(audioCtx.destination);o.type='sine';o.frequency.value=330;g.gain.setValueAtTime(0.06,now);g.gain.exponentialRampToValueAtTime(0.001,now+0.1);o.start(now);o.stop(now+0.1);}
+function playWin(){ensureAudio();var now=audioCtx.currentTime;var notes=[523,659,784,1047];for(var i=0;i<notes.length;i++){var o=audioCtx.createOscillator();var g=audioCtx.createGain();o.connect(g);g.connect(audioCtx.destination);o.type='sine';o.frequency.value=notes[i];g.gain.setValueAtTime(0.1,now+i*0.12);g.gain.exponentialRampToValueAtTime(0.001,now+i*0.12+0.3);o.start(now+i*0.12);o.stop(now+i*0.12+0.3);}}
+
+function generatePuzzle(){
+  // Generate a valid 5x5 grid where all rows, cols, diags sum to same value
+  // Strategy: pick target sum, fill with backtracking, digits 0-9
+  var attempts=0;
+  while(attempts<100){
+    attempts++;
+    // Pick target sum between 15 and 30
+    targetSum=15+Math.floor(Math.random()*16);
+    var sol=Array.from({length:SIZE},()=>Array(SIZE).fill(-1));
+    if(fillGrid(sol,0,targetSum)){
+      solution=sol;
+      // Pick 10 cells to reveal
+      var indices=[];
+      for(var i=0;i<25;i++)indices.push(i);
+      shuffle(indices);
+      fixed=Array.from({length:SIZE},()=>Array(SIZE).fill(false));
+      grid=Array.from({length:SIZE},()=>Array(SIZE).fill(null));
+      var revealed=indices.slice(0,10);
+      for(var k=0;k<revealed.length;k++){
+        var r=Math.floor(revealed[k]/SIZE),c=revealed[k]%SIZE;
+        grid[r][c]=solution[r][c];
+        fixed[r][c]=true;
+      }
+      return;
+    }
+  }
+}
+
+function fillGrid(g,pos,target){
+  if(pos===25){
+    // Verify diagonals
+    var d1=0,d2=0;
+    for(var i=0;i<SIZE;i++){d1+=g[i][i];d2+=g[i][SIZE-1-i];}
+    return d1===target&&d2===target;
+  }
+  var r=Math.floor(pos/SIZE),c=pos%SIZE;
+  var digits=[0,1,2,3,4,5,6,7,8,9];
+  shuffle(digits);
+  for(var di=0;di<digits.length;di++){
+    var d=digits[di];
+    g[r][c]=d;
+    // Check row complete
+    if(c===SIZE-1){var rs=0;for(var j=0;j<SIZE;j++)rs+=g[r][j];if(rs!==target){g[r][c]=-1;continue;}}
+    // Check col complete
+    if(r===SIZE-1){var cs=0;for(var j=0;j<SIZE;j++)cs+=g[j][c];if(cs!==target){g[r][c]=-1;continue;}}
+    // Pruning: partial row sum too high
+    if(c<SIZE-1){var prs=0;for(var j=0;j<=c;j++)prs+=g[r][j];if(prs>target){g[r][c]=-1;continue;}}
+    // Pruning: partial col sum too high
+    if(r<SIZE-1){var pcs=0;for(var j=0;j<=r;j++)pcs+=g[j][c];if(pcs>target){g[r][c]=-1;continue;}}
+    // Pruning: remaining cells can't reach target (row)
+    if(c<SIZE-1){var prs2=0;for(var j=0;j<=c;j++)prs2+=g[r][j];if(prs2+9*(SIZE-1-c)<target){g[r][c]=-1;continue;}}
+    // Pruning: remaining cells can't reach target (col)
+    if(r<SIZE-1){var pcs2=0;for(var j=0;j<=r;j++)pcs2+=g[j][c];if(pcs2+9*(SIZE-1-r)<target){g[r][c]=-1;continue;}}
+    if(fillGrid(g,pos+1,target))return true;
+    g[r][c]=-1;
+  }
+  return false;
+}
+
+function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t;}}
+
+function render(){
+  var gridEl=document.getElementById('grid');
+  gridEl.innerHTML='';
+  for(var r=0;r<SIZE;r++){
+    for(var c=0;c<SIZE;c++){
+      var cell=document.createElement('div');
+      cell.className='cell';
+      if(fixed[r][c]){
+        cell.classList.add('fixed');
+        cell.textContent=grid[r][c];
+      }else if(grid[r][c]!==null){
+        cell.classList.add('filled');
+        cell.textContent=grid[r][c];
+        cell.dataset.row=r;cell.dataset.col=c;
+        cell.addEventListener('click',function(){
+          var rr=parseInt(this.dataset.row),cc=parseInt(this.dataset.col);
+          grid[rr][cc]=null;playRemove();render();
+        });
+      }else{
+        cell.classList.add('empty');
+        cell.dataset.row=r;cell.dataset.col=c;
+        cell.addEventListener('click',function(){
+          if(selectedNum===null)return;
+          var rr=parseInt(this.dataset.row),cc=parseInt(this.dataset.col);
+          grid[rr][cc]=selectedNum;playPlace();render();checkWin();
+        });
+      }
+      gridEl.appendChild(cell);
+    }
+  }
+  renderSums();
+}
+
+function renderSums(){
+  // Row sums
+  var rowSumsEl=document.getElementById('row-sums');
+  rowSumsEl.innerHTML='';
+  for(var r=0;r<SIZE;r++){
+    var div=document.createElement('div');
+    div.className='row-sum-cell';
+    var sum=0,filled=true;
+    for(var c=0;c<SIZE;c++){if(grid[r][c]===null)filled=false;else sum+=grid[r][c];}
+    if(!filled){div.classList.add('sum-partial');div.textContent=sum+'?';}
+    else if(sum===targetSum){div.classList.add('sum-ok');div.textContent='✓'+sum;}
+    else{div.classList.add('sum-bad');div.textContent='✗'+sum;}
+    div.style.color=!filled?'#666':sum===targetSum?'#4ecca3':'#e94560';
+    rowSumsEl.appendChild(div);
+  }
+  // Col sums
+  var colSumsEl=document.getElementById('col-sums');
+  colSumsEl.innerHTML='';
+  for(var c=0;c<SIZE;c++){
+    var div=document.createElement('div');
+    div.className='col-sum-cell';
+    var sum=0,filled=true;
+    for(var r=0;r<SIZE;r++){if(grid[r][c]===null)filled=false;else sum+=grid[r][c];}
+    if(!filled){div.style.color='#666';div.textContent=sum+'?';}
+    else if(sum===targetSum){div.style.color='#4ecca3';div.textContent='✓'+sum;}
+    else{div.style.color='#e94560';div.textContent='✗'+sum;}
+    colSumsEl.appendChild(div);
+  }
+}
+
+function checkWin(){
+  // Check all cells filled
+  for(var r=0;r<SIZE;r++)for(var c=0;c<SIZE;c++)if(grid[r][c]===null)return;
+  // Check all rows
+  for(var r=0;r<SIZE;r++){var s=0;for(var c=0;c<SIZE;c++)s+=grid[r][c];if(s!==targetSum){document.getElementById('message').textContent='';return;}}
+  // Check all cols
+  for(var c=0;c<SIZE;c++){var s=0;for(var r=0;r<SIZE;r++)s+=grid[r][c];if(s!==targetSum){document.getElementById('message').textContent='';return;}}
+  // Check diags
+  var d1=0,d2=0;
+  for(var i=0;i<SIZE;i++){d1+=grid[i][i];d2+=grid[i][SIZE-1-i];}
+  if(d1!==targetSum||d2!==targetSum){document.getElementById('message').textContent='';return;}
+  // WIN!
+  document.getElementById('message').textContent='🎉 클리어! 모든 줄의 합이 '+targetSum+'!';
+  playWin();
+}
+
+function renderNumpad(){
+  var pad=document.getElementById('numpad');
+  pad.innerHTML='';
+  for(var i=0;i<=9;i++){
+    var btn=document.createElement('button');
+    btn.className='num-btn';
+    btn.textContent=i;
+    btn.dataset.num=i;
+    if(selectedNum===i)btn.classList.add('active');
+    btn.addEventListener('click',function(){
+      var n=parseInt(this.dataset.num);
+      selectedNum=(selectedNum===n)?null:n;
+      renderNumpad();
+    });
+    pad.appendChild(btn);
+  }
+}
+
+function newGame(){
+  selectedNum=null;
+  document.getElementById('message').textContent='';
+  generatePuzzle();
+  document.getElementById('target-sum').textContent='🎯 목표 합: '+targetSum;
+  render();
+  renderNumpad();
+}
+
+document.getElementById('new-btn').addEventListener('click',newGame);
+document.getElementById('clear-btn').addEventListener('click',function(){
+  for(var r=0;r<SIZE;r++)for(var c=0;c<SIZE;c++)if(!fixed[r][c])grid[r][c]=null;
+  document.getElementById('message').textContent='';
+  render();
+});
+document.getElementById('help-btn').addEventListener('click',function(){
+  var el=document.getElementById('help-box');
+  el.style.display=el.style.display==='none'||!el.style.display?'block':'none';
+});
+
+newGame();
+</script>
+</body>
+</html>
