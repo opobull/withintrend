@@ -5,34 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Animal Connect</title>
 <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { background: #1a1a2e; display: flex; justify-content: center; align-items: center; min-height: 100vh; font-family: sans-serif; user-select: none; }
-#game-container { text-align: center; }
-h1 { color: #eee; margin-bottom: 10px; font-size: 24px; }
-#info { color: #aaa; margin-bottom: 10px; font-size: 16px; }
-#timer { font-size: 28px; color: #4ecca3; margin-bottom: 8px; font-weight: bold; }
-#timer.warning { color: #e94560; animation: pulse 0.5s ease-in-out infinite alternate; }
-@keyframes pulse { from { opacity: 1; } to { opacity: 0.5; } }
-canvas { border: 2px solid #333; border-radius: 8px; cursor: pointer; background: #16213e; }
-#controls { margin-top: 12px; }
-button { padding: 8px 20px; font-size: 16px; border: none; border-radius: 6px; cursor: pointer; background: #e94560; color: white; margin: 0 5px; }
-button:hover { background: #c73e54; }
-#game-over { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.8); justify-content: center; align-items: center; flex-direction: column; z-index: 10; }
-#game-over.show { display: flex; }
-#game-over h2 { color: #eee; font-size: 36px; margin-bottom: 10px; }
-#game-over p { color: #aaa; font-size: 20px; margin-bottom: 20px; }
-#help-btn { position: fixed; top: 15px; right: 15px; width: 40px; height: 40px; border-radius: 50%; background: #333; color: #aaa; font-size: 22px; border: 2px solid #555; cursor: pointer; z-index: 5; }
-#help-btn:hover { background: #444; color: #eee; }
-#help-modal { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.85); justify-content: center; align-items: center; z-index: 20; }
-#help-modal.show { display: flex; }
-#help-content { background: #16213e; border-radius: 12px; padding: 30px; max-width: 500px; color: #ccc; line-height: 1.8; font-size: 15px; }
-#help-content h2 { color: #eee; margin-bottom: 15px; text-align: center; }
-#help-content ul { padding-left: 20px; }
-#help-content .close-help { margin-top: 15px; display: block; width: 100%; }
-#start-screen { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.9); display: flex; justify-content: center; align-items: center; flex-direction: column; z-index: 15; }
-#start-screen h1 { color: #eee; font-size: 48px; margin-bottom: 20px; }
-#start-screen p { color: #aaa; font-size: 18px; margin-bottom: 30px; }
-#start-screen.hide { display: none; }
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#f9f9f9;display:flex;justify-content:center;padding:10px 0;font-family:sans-serif;user-select:none;}
+#game-container{text-align:center;}
+h1{color:#333;margin-bottom:6px;font-size:20px;}
+#timer{font-size:24px;color:#4ecca3;margin-bottom:4px;font-weight:bold;}
+#timer.warning{color:#e94560;animation:pulse 0.5s ease-in-out infinite alternate;}
+@keyframes pulse{from{opacity:1}to{opacity:0.5}}
+#info{color:#666;margin-bottom:6px;font-size:14px;}
+canvas{border:2px solid #ddd;border-radius:6px;cursor:pointer;background:#fff;}
+#controls{margin-top:8px;}
+button{padding:6px 16px;font-size:14px;border:none;border-radius:5px;cursor:pointer;background:#e94560;color:white;margin:0 3px;}
+button:hover{background:#c73e54;}
+#help-btn{background:#555;font-size:14px;width:30px;height:30px;border-radius:50%;padding:0;}
+#help-box{display:none;margin-top:10px;background:#f0f0f0;border-radius:8px;padding:12px;text-align:left;color:#333;font-size:13px;line-height:1.7;max-width:700px;margin-left:auto;margin-right:auto;}
+#game-over-msg{display:none;margin-top:10px;font-size:18px;font-weight:bold;color:#e94560;}
 </style>
 </head>
 <body>
@@ -42,395 +29,75 @@ button:hover { background: #c73e54; }
   <div id="info">Score: <span id="score">0</span> | Remaining: <span id="remaining">0</span></div>
   <canvas id="canvas"></canvas>
   <div id="controls">
-    <button id="main-btn" onclick="newGame()">Start</button>
+    <button id="main-btn">Start</button>
+    <button id="help-btn">?</button>
   </div>
-</div>
-<button id="help-btn" onclick="toggleHelp()">?</button>
-<div id="help-modal" onclick="toggleHelp()">
-  <div id="help-content" onclick="event.stopPropagation()">
-    <h2>📖 게임 규칙</h2>
-    <ul>
-      <li>같은 동물 이모지를 드래그로 연결하세요</li>
-      <li><b>3개 이상</b> 연결해야 제거됩니다</li>
-      <li>연결 선은 <b>직선</b>이어야 합니다 (가로/세로/대각선/임의 기울기)</li>
-      <li>직선 경로에 <b>다른 동물이 있으면</b> 연결 불가</li>
-      <li>빈 칸은 통과 가능, 꺾기 가능</li>
-      <li>많이 연결할수록 높은 점수!</li>
-      <li>제한 시간: <b>60초</b></li>
-    </ul>
-    <button class="close-help" onclick="toggleHelp()">닫기</button>
+  <div id="help-box">
+    <b>📖 규칙</b><br>
+    • 같은 동물을 드래그로 연결 (3개 이상)<br>
+    • 직선 경로에 다른 동물이 있으면 연결 불가<br>
+    • 빈 칸 통과 가능, 꺾기 가능<br>
+    • 많이 연결할수록 높은 점수! 제한시간 60초
   </div>
-</div>
-<div id="game-over">
-  <h2 id="go-title">⏰ Time's Up!</h2>
-  <p id="go-score"></p>
-  <button onclick="newGame()">Play Again</button>
+  <div id="game-over-msg"></div>
 </div>
 <script>
-const COLS = 16, ROWS = 12;
-const ANIMALS = ['🐻','🐸','🐯','🐱','🐧','🐷','🐨'];
-const CELL = 50;
-const canvas = document.getElementById('canvas');
-const ctx = canvas.getContext('2d');
-canvas.width = COLS * CELL;
-canvas.height = ROWS * CELL;
+var COLS=16,ROWS=12,ANIMALS=['🐻','🐸','🐯','🐱','🐧','🐷','🐨'],CELL=44;
+var canvas=document.getElementById('canvas');
+var ctx=canvas.getContext('2d');
+canvas.width=COLS*CELL;canvas.height=ROWS*CELL;
+var grid=[],selected=[],dragging=false,score=0,timeLeft=60,timerInterval=null,gameActive=false;
+var AudioCtx=window.AudioContext||window.webkitAudioContext;var audioCtx;
+function ensureAudio(){if(!audioCtx)audioCtx=new AudioCtx();}
+function playSuccess(count){ensureAudio();var now=audioCtx.currentTime;var notes=[523,659,784];if(count>=5)notes.push(1047);if(count>=7)notes.push(1319);if(count>=9)notes.push(1568);for(var i=0;i<notes.length;i++){var osc=audioCtx.createOscillator();var g=audioCtx.createGain();osc.connect(g);g.connect(audioCtx.destination);osc.type='sine';osc.frequency.value=notes[i];g.gain.setValueAtTime(0,now+i*0.08);g.gain.linearRampToValueAtTime(0.12+count*0.01,now+i*0.08+0.02);g.gain.exponentialRampToValueAtTime(0.001,now+i*0.08+0.3+count*0.03);osc.start(now+i*0.08);osc.stop(now+i*0.08+0.3+count*0.03);}}
+function playFail(){ensureAudio();var now=audioCtx.currentTime;var osc=audioCtx.createOscillator();var g=audioCtx.createGain();osc.connect(g);g.connect(audioCtx.destination);osc.type='square';osc.frequency.setValueAtTime(200,now);osc.frequency.linearRampToValueAtTime(100,now+0.2);g.gain.setValueAtTime(0.08,now);g.gain.exponentialRampToValueAtTime(0.001,now+0.25);osc.start(now);osc.stop(now+0.25);}
+function playTick(){ensureAudio();var now=audioCtx.currentTime;var osc=audioCtx.createOscillator();var g=audioCtx.createGain();osc.connect(g);g.connect(audioCtx.destination);osc.type='sine';osc.frequency.value=880;g.gain.setValueAtTime(0.06,now);g.gain.exponentialRampToValueAtTime(0.001,now+0.08);osc.start(now);osc.stop(now+0.08);}
+function playGameOver(){ensureAudio();var now=audioCtx.currentTime;var freqs=[400,350,300,250];for(var i=0;i<freqs.length;i++){var osc=audioCtx.createOscillator();var g=audioCtx.createGain();osc.connect(g);g.connect(audioCtx.destination);osc.type='sawtooth';osc.frequency.value=freqs[i];g.gain.setValueAtTime(0.08,now+i*0.15);g.gain.exponentialRampToValueAtTime(0.001,now+i*0.15+0.3);osc.start(now+i*0.15);osc.stop(now+i*0.15+0.3);}}
 
-let grid = [];
-let selected = [];
-let dragging = false;
-let score = 0;
-let timeLeft = 60;
-let timerInterval = null;
-let gameActive = false;
-
-// === Audio Context for Sound Effects ===
-const AudioCtx = window.AudioContext || window.webkitAudioContext;
-let audioCtx;
-function ensureAudio() {
-  if (!audioCtx) audioCtx = new AudioCtx();
+function draw(){
+  ctx.clearRect(0,0,canvas.width,canvas.height);
+  for(var r=0;r<ROWS;r++){for(var c=0;c<COLS;c++){var x=c*CELL,y=r*CELL;ctx.fillStyle=(r+c)%2===0?'#fafafa':'#f0f0f0';ctx.fillRect(x,y,CELL,CELL);if(isSelected({col:c,row:r})){ctx.fillStyle='rgba(233,69,96,0.2)';ctx.fillRect(x,y,CELL,CELL);}if(grid[r]&&grid[r][c]){ctx.font=(CELL-10)+'px serif';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(grid[r][c],x+CELL/2,y+CELL/2+2);}}}
+  ctx.strokeStyle='#e0e0e0';ctx.lineWidth=1;
+  for(var r=0;r<=ROWS;r++){ctx.beginPath();ctx.moveTo(0,r*CELL);ctx.lineTo(COLS*CELL,r*CELL);ctx.stroke();}
+  for(var c=0;c<=COLS;c++){ctx.beginPath();ctx.moveTo(c*CELL,0);ctx.lineTo(c*CELL,ROWS*CELL);ctx.stroke();}
+  if(selected.length>=2){ctx.strokeStyle='#e94560';ctx.lineWidth=3;ctx.lineCap='round';ctx.beginPath();ctx.moveTo(selected[0].col*CELL+CELL/2,selected[0].row*CELL+CELL/2);for(var i=1;i<selected.length;i++){ctx.lineTo(selected[i].col*CELL+CELL/2,selected[i].row*CELL+CELL/2);}ctx.stroke();}
 }
 
-function playSuccess(count) {
-  ensureAudio();
-  const now = audioCtx.currentTime;
-  // More notes for bigger combos
-  const notes = [523, 659, 784]; // C5 E5 G5
-  if (count >= 5) notes.push(1047); // C6
-  if (count >= 7) notes.push(1319); // E6
-  if (count >= 9) notes.push(1568); // G6
-  
-  const gain = audioCtx.createGain();
-  gain.connect(audioCtx.destination);
-  gain.gain.setValueAtTime(0.15, now);
-  gain.gain.exponentialDecayTo && gain.gain.exponentialDecayTo;
-  
-  notes.forEach((freq, i) => {
-    const osc = audioCtx.createOscillator();
-    const g = audioCtx.createGain();
-    osc.connect(g);
-    g.connect(audioCtx.destination);
-    osc.type = 'sine';
-    osc.frequency.value = freq;
-    g.gain.setValueAtTime(0, now + i * 0.08);
-    g.gain.linearRampToValueAtTime(0.12 + count * 0.01, now + i * 0.08 + 0.02);
-    g.gain.exponentialRampToValueAtTime(0.001, now + i * 0.08 + 0.3 + count * 0.03);
-    osc.start(now + i * 0.08);
-    osc.stop(now + i * 0.08 + 0.3 + count * 0.03);
-  });
-}
+function sameCell(a,b){return a.col===b.col&&a.row===b.row;}
+function isSelected(cell){for(var i=0;i<selected.length;i++){if(sameCell(selected[i],cell))return true;}return false;}
+function getCellsOnLine(a,b){var cells=[];var x0=a.col+0.5,y0=a.row+0.5,x1=b.col+0.5,y1=b.row+0.5;var dist=Math.sqrt((x1-x0)*(x1-x0)+(y1-y0)*(y1-y0));var steps=Math.ceil(dist*20);var seen={};for(var i=1;i<steps;i++){var t=i/steps;var x=x0+(x1-x0)*t;var y=y0+(y1-y0)*t;var cc=Math.floor(x);var cr=Math.floor(y);if(cc>=0&&cc<COLS&&cr>=0&&cr<ROWS){var key=cr*COLS+cc;if(!(cc===a.col&&cr===a.row)&&!(cc===b.col&&cr===b.row)&&!seen[key]){seen[key]=true;cells.push(key);}}}return cells;}
+function canConnect(a,b){if(sameCell(a,b))return false;var cellKeys=getCellsOnLine(a,b);for(var i=0;i<cellKeys.length;i++){var r=Math.floor(cellKeys[i]/COLS);var c=cellKeys[i]%COLS;if(grid[r][c]!==null)return false;}return true;}
+function getAnimal(cell){return grid[cell.row][cell.col];}
+function cellFromMouse(e){var rect=canvas.getBoundingClientRect();var x=e.clientX-rect.left;var y=e.clientY-rect.top;var col=Math.floor(x/CELL);var row=Math.floor(y/CELL);if(col<0||col>=COLS||row<0||row>=ROWS)return null;return{col:col,row:row};}
+function updateInfo(){document.getElementById('score').textContent=score;var rem=0;for(var r=0;r<ROWS;r++)for(var c=0;c<COLS;c++)if(grid[r][c])rem++;document.getElementById('remaining').textContent=rem;}
+function updateTimer(){var el=document.getElementById('timer');el.textContent=timeLeft;el.className=timeLeft<=10?'warning':'';}
 
-function playFail() {
-  ensureAudio();
-  const now = audioCtx.currentTime;
-  const osc = audioCtx.createOscillator();
-  const g = audioCtx.createGain();
-  osc.connect(g);
-  g.connect(audioCtx.destination);
-  osc.type = 'square';
-  osc.frequency.setValueAtTime(200, now);
-  osc.frequency.linearRampToValueAtTime(100, now + 0.2);
-  g.gain.setValueAtTime(0.08, now);
-  g.gain.exponentialRampToValueAtTime(0.001, now + 0.25);
-  osc.start(now);
-  osc.stop(now + 0.25);
-}
-
-function playTick() {
-  ensureAudio();
-  const now = audioCtx.currentTime;
-  const osc = audioCtx.createOscillator();
-  const g = audioCtx.createGain();
-  osc.connect(g);
-  g.connect(audioCtx.destination);
-  osc.type = 'sine';
-  osc.frequency.value = 880;
-  g.gain.setValueAtTime(0.06, now);
-  g.gain.exponentialRampToValueAtTime(0.001, now + 0.08);
-  osc.start(now);
-  osc.stop(now + 0.08);
-}
-
-function playGameOver() {
-  ensureAudio();
-  const now = audioCtx.currentTime;
-  [400, 350, 300, 250].forEach((freq, i) => {
-    const osc = audioCtx.createOscillator();
-    const g = audioCtx.createGain();
-    osc.connect(g);
-    g.connect(audioCtx.destination);
-    osc.type = 'sawtooth';
-    osc.frequency.value = freq;
-    g.gain.setValueAtTime(0.08, now + i * 0.15);
-    g.gain.exponentialRampToValueAtTime(0.001, now + i * 0.15 + 0.3);
-    osc.start(now + i * 0.15);
-    osc.stop(now + i * 0.15 + 0.3);
-  });
-}
-
-function playWin() {
-  ensureAudio();
-  const now = audioCtx.currentTime;
-  [523, 659, 784, 1047, 1319, 1568].forEach((freq, i) => {
-    const osc = audioCtx.createOscillator();
-    const g = audioCtx.createGain();
-    osc.connect(g);
-    g.connect(audioCtx.destination);
-    osc.type = 'sine';
-    osc.frequency.value = freq;
-    g.gain.setValueAtTime(0.1, now + i * 0.1);
-    g.gain.exponentialRampToValueAtTime(0.001, now + i * 0.1 + 0.4);
-    osc.start(now + i * 0.1);
-    osc.stop(now + i * 0.1 + 0.4);
-  });
-}
-
-// === Timer ===
-function startTimer() {
-  if (timerInterval) clearInterval(timerInterval);
-  timerInterval = setInterval(() => {
-    if (!gameActive) return;
-    timeLeft--;
-    updateTimer();
-    if (timeLeft <= 10 && timeLeft > 0) playTick();
-    if (timeLeft <= 0) {
-      gameActive = false;
-      clearInterval(timerInterval);
-      playGameOver();
-      showGameOver(false);
-    }
-  }, 1000);
-}
-
-function updateTimer() {
-  const el = document.getElementById('timer');
-  el.textContent = timeLeft;
-  el.className = timeLeft <= 10 ? 'warning' : '';
-}
-
-function showGameOver(won) {
-  const el = document.getElementById('game-over');
-  document.getElementById('go-title').textContent = won ? '🎉 Clear!' : '⏰ Time\'s Up!';
-  document.getElementById('go-score').textContent = `Score: ${score}`;
-  el.classList.add('show');
-}
-
-function checkWin() {
-  for (let r = 0; r < ROWS; r++)
-    for (let c = 0; c < COLS; c++)
-      if (grid[r][c]) return false;
-  return true;
-}
-
-function toggleHelp() {
-  document.getElementById('help-modal').classList.toggle('show');
-}
-
-function startGame() {
-  document.getElementById('start-screen').classList.add('hide');
-  newGame();
-}
-
-function newGame() {
-  document.getElementById('game-over').classList.remove('show');
-  document.getElementById('main-btn').textContent = 'Restart';
-  grid = [];
-  score = 0;
-  timeLeft = 60;
-  selected = [];
-  dragging = false;
-  gameActive = true;
-  let cells = COLS * ROWS;
-  let pool = [];
-  for (let i = 0; i < cells; i++) {
-    pool.push(ANIMALS[i % ANIMALS.length]);
-  }
-  for (let i = pool.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [pool[i], pool[j]] = [pool[j], pool[i]];
-  }
-  for (let r = 0; r < ROWS; r++) {
-    grid[r] = [];
-    for (let c = 0; c < COLS; c++) {
-      grid[r][c] = pool[r * COLS + c];
-    }
-  }
-  updateInfo();
-  updateTimer();
-  startTimer();
+function newGame(){
+  document.getElementById('game-over-msg').style.display='none';
+  document.getElementById('main-btn').textContent='Restart';
+  grid=[];score=0;timeLeft=60;selected=[];dragging=false;gameActive=true;
+  var cells=COLS*ROWS,pool=[];
+  for(var i=0;i<cells;i++)pool.push(ANIMALS[i%ANIMALS.length]);
+  for(var i=pool.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var tmp=pool[i];pool[i]=pool[j];pool[j]=tmp;}
+  for(var r=0;r<ROWS;r++){grid[r]=[];for(var c=0;c<COLS;c++)grid[r][c]=pool[r*COLS+c];}
+  updateInfo();updateTimer();
+  if(timerInterval)clearInterval(timerInterval);
+  timerInterval=setInterval(function(){if(!gameActive)return;timeLeft--;updateTimer();if(timeLeft<=10&&timeLeft>0)playTick();if(timeLeft<=0){gameActive=false;clearInterval(timerInterval);playGameOver();var msg=document.getElementById('game-over-msg');msg.style.display='block';msg.style.color='#e94560';msg.textContent='⏰ Time\'s Up! Score: '+score;draw();}},1000);
   draw();
 }
 
-function updateInfo() {
-  document.getElementById('score').textContent = score;
-  let rem = 0;
-  for (let r = 0; r < ROWS; r++)
-    for (let c = 0; c < COLS; c++)
-      if (grid[r][c]) rem++;
-  document.getElementById('remaining').textContent = rem;
-}
+document.getElementById('main-btn').addEventListener('click',newGame);
+document.getElementById('help-btn').addEventListener('click',function(){var el=document.getElementById('help-box');el.style.display=el.style.display==='none'?'block':'none';});
 
-function cellFromMouse(e) {
-  const rect = canvas.getBoundingClientRect();
-  const x = e.clientX - rect.left;
-  const y = e.clientY - rect.top;
-  const col = Math.floor(x / CELL);
-  const row = Math.floor(y / CELL);
-  if (col < 0 || col >= COLS || row < 0 || row >= ROWS) return null;
-  return { col, row };
-}
+canvas.addEventListener('mousedown',function(e){if(!gameActive)return;var cell=cellFromMouse(e);if(!cell||!grid[cell.row][cell.col])return;selected=[cell];dragging=true;draw();});
+canvas.addEventListener('mousemove',function(e){if(!dragging||!gameActive)return;var cell=cellFromMouse(e);if(!cell)return;if(isSelected(cell))return;var last=selected[selected.length-1];var firstAnimal=getAnimal(selected[0]);if(!grid[cell.row][cell.col])return;if(getAnimal(cell)!==firstAnimal)return;if(!canConnect(last,cell))return;selected.push(cell);draw();});
+canvas.addEventListener('mouseup',function(e){if(!dragging)return;dragging=false;if(!gameActive){selected=[];draw();return;}if(selected.length>=3){var points=selected.length;for(var i=0;i<selected.length;i++)grid[selected[i].row][selected[i].col]=null;score+=Math.round(points*10*(points+4)/7);playSuccess(points);updateInfo();var rem=0;for(var r=0;r<ROWS;r++)for(var c=0;c<COLS;c++)if(grid[r][c])rem++;if(rem===0){gameActive=false;clearInterval(timerInterval);var msg=document.getElementById('game-over-msg');msg.style.display='block';msg.style.color='#4ecca3';msg.textContent='🎉 Clear! Score: '+score;}}else if(selected.length>=1){playFail();}selected=[];draw();});
+canvas.addEventListener('mouseleave',function(){if(dragging){dragging=false;selected=[];draw();}});
+canvas.addEventListener('touchstart',function(e){e.preventDefault();var t=e.touches[0];canvas.dispatchEvent(new MouseEvent('mousedown',{clientX:t.clientX,clientY:t.clientY}));});
+canvas.addEventListener('touchmove',function(e){e.preventDefault();var t=e.touches[0];canvas.dispatchEvent(new MouseEvent('mousemove',{clientX:t.clientX,clientY:t.clientY}));});
+canvas.addEventListener('touchend',function(e){e.preventDefault();canvas.dispatchEvent(new MouseEvent('mouseup',{}));});
 
-function sameCell(a, b) { return a.col === b.col && a.row === b.row; }
-function isSelected(cell) { return selected.some(s => sameCell(s, cell)); }
-
-function getCellsOnLine(a, b) {
-  const cells = new Set();
-  const x0 = a.col + 0.5, y0 = a.row + 0.5;
-  const x1 = b.col + 0.5, y1 = b.row + 0.5;
-  const dist = Math.sqrt((x1-x0)**2 + (y1-y0)**2);
-  const steps = Math.ceil(dist * 20);
-  for (let i = 1; i < steps; i++) {
-    const t = i / steps;
-    const x = x0 + (x1 - x0) * t;
-    const y = y0 + (y1 - y0) * t;
-    const cc = Math.floor(x);
-    const cr = Math.floor(y);
-    if (cc >= 0 && cc < COLS && cr >= 0 && cr < ROWS) {
-      const key = cr * COLS + cc;
-      if (!(cc === a.col && cr === a.row) && !(cc === b.col && cr === b.row)) {
-        cells.add(key);
-      }
-    }
-  }
-  return cells;
-}
-
-function canConnect(a, b) {
-  if (sameCell(a, b)) return false;
-  const cellKeys = getCellsOnLine(a, b);
-  for (const key of cellKeys) {
-    const r = Math.floor(key / COLS);
-    const c = key % COLS;
-    if (grid[r][c] !== null) return false;
-  }
-  return true;
-}
-
-function getAnimal(cell) { return grid[cell.row][cell.col]; }
-
-canvas.addEventListener('mousedown', (e) => {
-  if (!gameActive) return;
-  const cell = cellFromMouse(e);
-  if (!cell || !grid[cell.row][cell.col]) return;
-  selected = [cell];
-  dragging = true;
-  draw();
-});
-
-canvas.addEventListener('mousemove', (e) => {
-  if (!dragging || !gameActive) return;
-  const cell = cellFromMouse(e);
-  if (!cell) return;
-  if (isSelected(cell)) return;
-  const last = selected[selected.length - 1];
-  const firstAnimal = getAnimal(selected[0]);
-  if (!grid[cell.row][cell.col]) return;
-  if (getAnimal(cell) !== firstAnimal) return;
-  if (!canConnect(last, cell)) return;
-  selected.push(cell);
-  draw();
-});
-
-canvas.addEventListener('mouseup', (e) => {
-  if (!dragging) return;
-  dragging = false;
-  if (!gameActive) { selected = []; draw(); return; }
-  
-  if (selected.length >= 3) {
-    const points = selected.length;
-    for (const s of selected) {
-      grid[s.row][s.col] = null;
-    }
-    score += Math.round(points * 10 * (points + 4) / 7);
-    playSuccess(points);
-    updateInfo();
-    if (checkWin()) {
-      gameActive = false;
-      clearInterval(timerInterval);
-      playWin();
-      showGameOver(true);
-    }
-  } else if (selected.length >= 1) {
-    playFail();
-  }
-  selected = [];
-  draw();
-});
-
-canvas.addEventListener('mouseleave', () => {
-  if (dragging) { dragging = false; selected = []; draw(); }
-});
-
-canvas.addEventListener('touchstart', (e) => {
-  e.preventDefault();
-  const t = e.touches[0];
-  canvas.dispatchEvent(new MouseEvent('mousedown', { clientX: t.clientX, clientY: t.clientY }));
-});
-canvas.addEventListener('touchmove', (e) => {
-  e.preventDefault();
-  const t = e.touches[0];
-  canvas.dispatchEvent(new MouseEvent('mousemove', { clientX: t.clientX, clientY: t.clientY }));
-});
-canvas.addEventListener('touchend', (e) => {
-  e.preventDefault();
-  canvas.dispatchEvent(new MouseEvent('mouseup', {}));
-});
-
-function draw() {
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
-  for (let r = 0; r < ROWS; r++) {
-    for (let c = 0; c < COLS; c++) {
-      const x = c * CELL, y = r * CELL;
-      ctx.fillStyle = (r + c) % 2 === 0 ? '#1a1a3e' : '#16213e';
-      ctx.fillRect(x, y, CELL, CELL);
-      if (isSelected({ col: c, row: r })) {
-        ctx.fillStyle = 'rgba(233, 69, 96, 0.3)';
-        ctx.fillRect(x, y, CELL, CELL);
-      }
-      if (grid[r][c]) {
-        ctx.font = `${CELL - 16}px serif`;
-        ctx.textAlign = 'center';
-        ctx.textBaseline = 'middle';
-        ctx.fillText(grid[r][c], x + CELL / 2, y + CELL / 2 + 2);
-      }
-    }
-  }
-  ctx.strokeStyle = '#2a2a4e';
-  ctx.lineWidth = 1;
-  for (let r = 0; r <= ROWS; r++) {
-    ctx.beginPath(); ctx.moveTo(0, r * CELL); ctx.lineTo(COLS * CELL, r * CELL); ctx.stroke();
-  }
-  for (let c = 0; c <= COLS; c++) {
-    ctx.beginPath(); ctx.moveTo(c * CELL, 0); ctx.lineTo(c * CELL, ROWS * CELL); ctx.stroke();
-  }
-  if (selected.length >= 2) {
-    ctx.strokeStyle = '#e94560';
-    ctx.lineWidth = 3;
-    ctx.lineCap = 'round';
-    ctx.beginPath();
-    ctx.moveTo(selected[0].col * CELL + CELL / 2, selected[0].row * CELL + CELL / 2);
-    for (let i = 1; i < selected.length; i++) {
-      ctx.lineTo(selected[i].col * CELL + CELL / 2, selected[i].row * CELL + CELL / 2);
-    }
-    ctx.stroke();
-  }
-}
-
-// Init empty grid
-for (let r = 0; r < ROWS; r++) { grid[r] = []; for (let c = 0; c < COLS; c++) grid[r][c] = null; }
-updateInfo();
-// Render loop
-function gameLoop() { draw(); requestAnimationFrame(gameLoop); }
-gameLoop();
+for(var r=0;r<ROWS;r++){grid[r]=[];for(var c=0;c<COLS;c++)grid[r][c]=null;}updateInfo();draw();
 </script>
 </body>
 </html>
