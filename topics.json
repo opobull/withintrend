@@ -130,9 +130,7 @@
     "old-navy-cashier",
     "gap-associate",
     "kohls-associate",
-    "kohls-cashier"
-  ],
-  "queue": [
+    "kohls-cashier",
     "sephora-beauty-advisor",
     "sephora-cashier",
     "ulta-beauty-associate",
@@ -142,7 +140,9 @@
     "footlocker-associate",
     "nordstrom-rack-associate",
     "nordstrom-sales-associate",
-    "macys-sales-associate",
+    "macys-sales-associate"
+  ],
+  "queue": [
     "macys-cashier",
     "jcpenney-associate",
     "burlington-associate",
