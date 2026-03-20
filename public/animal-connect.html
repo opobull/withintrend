@@ -90,7 +90,10 @@ document.getElementById('main-btn').addEventListener('click',newGame);
 document.getElementById('help-btn').addEventListener('click',function(){var el=document.getElementById('help-box');el.style.display=el.style.display==='none'?'block':'none';});
 
 canvas.addEventListener('mousedown',function(e){if(!gameActive)return;var cell=cellFromMouse(e);if(!cell||!grid[cell.row][cell.col])return;selected=[cell];dragging=true;draw();});
-canvas.addEventListener('mousemove',function(e){if(!dragging||!gameActive)return;var cell=cellFromMouse(e);if(!cell)return;if(isSelected(cell))return;var last=selected[selected.length-1];var firstAnimal=getAnimal(selected[0]);if(!grid[cell.row][cell.col])return;if(getAnimal(cell)!==firstAnimal)return;if(!canConnect(last,cell))return;selected.push(cell);draw();});
+canvas.addEventListener('mousemove',function(e){if(!dragging||!gameActive)return;var cell=cellFromMouse(e);if(!cell)return;
+// Undo: if mouse goes back to a previously selected cell, truncate selection
+for(var ui=0;ui<selected.length-1;ui++){if(sameCell(selected[ui],cell)){selected=selected.slice(0,ui+1);draw();return;}}
+if(isSelected(cell))return;var last=selected[selected.length-1];var firstAnimal=getAnimal(selected[0]);if(!grid[cell.row][cell.col])return;if(getAnimal(cell)!==firstAnimal)return;if(!canConnect(last,cell))return;selected.push(cell);draw();});
 canvas.addEventListener('mouseup',function(e){if(!dragging)return;dragging=false;if(!gameActive){selected=[];draw();return;}if(selected.length>=3){var points=selected.length;for(var i=0;i<selected.length;i++)grid[selected[i].row][selected[i].col]=null;score+=Math.round(points*10*(points+4)/7);playSuccess(points);updateInfo();var rem=0;for(var r=0;r<ROWS;r++)for(var c=0;c<COLS;c++)if(grid[r][c])rem++;if(rem===0){gameActive=false;clearInterval(timerInterval);var msg=document.getElementById('game-over-msg');msg.style.display='block';msg.style.color='#4ecca3';msg.textContent='🎉 Clear! Score: '+score;}}else if(selected.length>=1){playFail();}selected=[];draw();});
 canvas.addEventListener('mouseleave',function(){if(dragging){dragging=false;selected=[];draw();}});
 canvas.addEventListener('touchstart',function(e){e.preventDefault();var t=e.touches[0];canvas.dispatchEvent(new MouseEvent('mousedown',{clientX:t.clientX,clientY:t.clientY}));});
