@@ -140,9 +140,7 @@
     "footlocker-associate",
     "nordstrom-rack-associate",
     "nordstrom-sales-associate",
-    "macys-sales-associate"
-  ],
-  "queue": [
+    "macys-sales-associate",
     "macys-cashier",
     "jcpenney-associate",
     "burlington-associate",
@@ -152,7 +150,9 @@
     "staples-associate",
     "staples-print-center",
     "office-depot-associate",
-    "gamestop-associate",
+    "gamestop-associate"
+  ],
+  "queue": [
     "barnes-and-noble-bookseller",
     "publix-cashier",
     "publix-deli-clerk",
