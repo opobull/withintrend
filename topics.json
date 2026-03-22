@@ -150,9 +150,7 @@
     "staples-associate",
     "staples-print-center",
     "office-depot-associate",
-    "gamestop-associate"
-  ],
-  "queue": [
+    "gamestop-associate",
     "barnes-and-noble-bookseller",
     "publix-cashier",
     "publix-deli-clerk",
@@ -162,7 +160,9 @@
     "kroger-deli-clerk",
     "heb-cashier",
     "heb-curbside-associate",
-    "safeway-cashier",
+    "safeway-cashier"
+  ],
+  "queue": [
     "albertsons-cashier",
     "food-lion-cashier",
     "wawa-associate",
