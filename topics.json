@@ -160,9 +160,7 @@
     "kroger-deli-clerk",
     "heb-cashier",
     "heb-curbside-associate",
-    "safeway-cashier"
-  ],
-  "queue": [
+    "safeway-cashier",
     "albertsons-cashier",
     "food-lion-cashier",
     "wawa-associate",
@@ -172,7 +170,9 @@
     "walgreens-pharmacy-tech",
     "walgreens-beauty-advisor",
     "cvs-cashier",
-    "cvs-beauty-consultant",
+    "cvs-beauty-consultant"
+  ],
+  "queue": [
     "rite-aid-associate",
     "petsmart-groomer",
     "petsmart-dog-trainer",
