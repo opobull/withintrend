@@ -170,9 +170,7 @@
     "walgreens-pharmacy-tech",
     "walgreens-beauty-advisor",
     "cvs-cashier",
-    "cvs-beauty-consultant"
-  ],
-  "queue": [
+    "cvs-beauty-consultant",
     "rite-aid-associate",
     "petsmart-groomer",
     "petsmart-dog-trainer",
@@ -182,7 +180,9 @@
     "la-fitness-front-desk",
     "ymca-lifeguard",
     "ymca-front-desk",
-    "orangetheory-sales-associate",
+    "orangetheory-sales-associate"
+  ],
+  "queue": [
     "hotel-front-desk-clerk",
     "hilton-housekeeping",
     "hilton-front-desk",
