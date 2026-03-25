@@ -180,9 +180,7 @@
     "la-fitness-front-desk",
     "ymca-lifeguard",
     "ymca-front-desk",
-    "orangetheory-sales-associate"
-  ],
-  "queue": [
+    "orangetheory-sales-associate",
     "hotel-front-desk-clerk",
     "hilton-housekeeping",
     "hilton-front-desk",
@@ -193,7 +191,9 @@
     "disney-food-beverage",
     "universal-studios-team-member",
     "six-flags-ride-operator",
-    "six-flags-food-service",
+    "six-flags-food-service"
+  ],
+  "queue": [
     "amc-theaters-crew",
     "regal-cinemas-crew",
     "movie-theater-concessions",
