@@ -191,9 +191,7 @@
     "disney-food-beverage",
     "universal-studios-team-member",
     "six-flags-ride-operator",
-    "six-flags-food-service"
-  ],
-  "queue": [
+    "six-flags-food-service",
     "amc-theaters-crew",
     "regal-cinemas-crew",
     "movie-theater-concessions",
@@ -203,7 +201,9 @@
     "lifeguard-beach",
     "tutor-private",
     "kumon-tutor",
-    "mathnasium-tutor",
+    "mathnasium-tutor"
+  ],
+  "queue": [
     "nanny-babysitter",
     "dog-walker-rover",
     "wag-dog-walker",
