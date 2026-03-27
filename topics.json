@@ -201,9 +201,7 @@
     "lifeguard-beach",
     "tutor-private",
     "kumon-tutor",
-    "mathnasium-tutor"
-  ],
-  "queue": [
+    "mathnasium-tutor",
     "nanny-babysitter",
     "dog-walker-rover",
     "wag-dog-walker",
@@ -213,7 +211,9 @@
     "camp-counselor",
     "daycare-worker",
     "retail-pharmacy-tech",
-    "bank-teller-part-time",
+    "bank-teller-part-time"
+  ],
+  "queue": [
     "library-assistant",
     "receptionist-part-time",
     "call-center-agent"
