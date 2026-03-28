@@ -1,0 +1,22 @@
+[
+  { "slug": "tech-ai", "name": "Tech & AI", "tags": ["technology", "artificial intelligence", "machine learning", "tech trends"], "status": "active" },
+  { "slug": "health-fitness", "name": "Health & Fitness", "tags": ["health", "fitness", "wellness", "exercise", "nutrition"], "status": "active" },
+  { "slug": "recipes-cooking", "name": "Recipes & Cooking", "tags": ["recipes", "cooking", "food", "meal ideas", "kitchen tips"], "status": "active" },
+  { "slug": "travel-places", "name": "Travel & Places", "tags": ["travel", "destinations", "vacation", "travel tips", "tourism"], "status": "active" },
+  { "slug": "personal-finance", "name": "Personal Finance", "tags": ["personal finance", "investing", "budgeting", "money management", "savings"], "status": "active" },
+  { "slug": "gaming", "name": "Gaming", "tags": ["gaming", "video games", "PC gaming", "console gaming", "game reviews"], "status": "active" },
+  { "slug": "movies-tv", "name": "Movies & TV", "tags": ["movies", "TV shows", "streaming", "entertainment", "reviews"], "status": "active" },
+  { "slug": "diy-life-hacks", "name": "DIY & Life Hacks", "tags": ["DIY", "life hacks", "home improvement", "tips and tricks", "productivity"], "status": "active" },
+  { "slug": "pets-animals", "name": "Pets & Animals", "tags": ["pets", "dogs", "cats", "animal care", "pet health"], "status": "active" },
+  { "slug": "cars-auto", "name": "Cars & Auto", "tags": ["cars", "automotive", "electric vehicles", "car maintenance", "auto reviews"], "status": "active" },
+  { "slug": "real-estate", "name": "Real Estate", "tags": ["real estate", "home buying", "property", "housing market", "mortgage"], "status": "active" },
+  { "slug": "celebrity-entertainment", "name": "Celebrity & Entertainment News", "tags": ["celebrities", "entertainment", "pop culture", "celebrity news", "Hollywood"], "status": "active" },
+  { "slug": "sports", "name": "Sports", "tags": ["sports", "athletics", "fitness", "sports news", "game analysis"], "status": "active" },
+  { "slug": "fashion-style", "name": "Fashion & Style", "tags": ["fashion", "style", "clothing", "trends", "outfit ideas"], "status": "active" },
+  { "slug": "parenting-family", "name": "Parenting & Family", "tags": ["parenting", "family", "kids", "child development", "family life"], "status": "active" },
+  { "slug": "home-garden", "name": "Home & Garden", "tags": ["home", "garden", "landscaping", "interior design", "home improvement"], "status": "active" },
+  { "slug": "music", "name": "Music", "tags": ["music", "songs", "albums", "artists", "music streaming"], "status": "active" },
+  { "slug": "education-study", "name": "Education & Study Tips", "tags": ["education", "study tips", "learning", "online courses", "academic success"], "status": "active" },
+  { "slug": "relationships-dating", "name": "Relationships & Dating", "tags": ["relationships", "dating", "love", "dating tips", "relationship advice"], "status": "active" },
+  { "slug": "weird-interesting", "name": "Weird & Interesting Facts", "tags": ["interesting facts", "weird facts", "trivia", "fun facts", "curiosity"], "status": "active" }
+]

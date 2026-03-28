@@ -1,6 +1,6 @@
 baseURL = "https://withintrend.org/"
 languageCode = "en-us"
-title = "WithinTrend — Part-Time Job Reviews & Guides"
+title = "WithinTrend — Trending Topics & Guides"
 theme = "PaperMod"
 buildFuture = false
 
@@ -9,7 +9,7 @@ buildFuture = false
     ID = "G-LYGHJGWPR2"
 
 [params]
-  description = "Honest part-time job reviews, pay info, and tips from real workers across the US."
+  description = "Trending topics, guides, and insights across tech, lifestyle, entertainment, and more."
   author = "WithinTrend"
   ShowReadingTime = true
   ShowShareButtons = true

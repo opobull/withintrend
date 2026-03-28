@@ -1,0 +1,89 @@
+[
+  {
+    "date": "2026-03-27",
+    "totalPostHits": 153,
+    "unmappedHits": 13,
+    "categories": {
+      "education-and-childcare": {
+        "posts": 4,
+        "visits": 16,
+        "avg": 4
+      },
+      "freelance-and-gig": {
+        "posts": 5,
+        "visits": 19,
+        "avg": 3.8
+      },
+      "other": {
+        "posts": 3,
+        "visits": 6,
+        "avg": 2
+      },
+      "retail": {
+        "posts": 21,
+        "visits": 35,
+        "avg": 1.67
+      },
+      "pharmacy-and-beauty": {
+        "posts": 3,
+        "visits": 6,
+        "avg": 2
+      },
+      "hotel-and-hospitality": {
+        "posts": 6,
+        "visits": 15,
+        "avg": 2.5
+      },
+      "entertainment": {
+        "posts": 7,
+        "visits": 10,
+        "avg": 1.43
+      },
+      "delivery-and-gig": {
+        "posts": 6,
+        "visits": 7,
+        "avg": 1.17
+      },
+      "restaurant": {
+        "posts": 9,
+        "visits": 10,
+        "avg": 1.11
+      },
+      "fast-food": {
+        "posts": 4,
+        "visits": 4,
+        "avg": 1
+      },
+      "grocery": {
+        "posts": 4,
+        "visits": 4,
+        "avg": 1
+      },
+      "logistics-and-shipping": {
+        "posts": 4,
+        "visits": 4,
+        "avg": 1
+      },
+      "fitness-and-recreation": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "pharmacy-retail": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "warehouse": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "gig-economy": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
+  }
+]
