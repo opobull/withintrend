@@ -211,11 +211,10 @@
     "camp-counselor",
     "daycare-worker",
     "retail-pharmacy-tech",
-    "bank-teller-part-time"
-  ],
-  "queue": [
+    "bank-teller-part-time",
     "library-assistant",
     "receptionist-part-time",
     "call-center-agent"
-  ]
+  ],
+  "queue": []
 }
