@@ -20,8 +20,8 @@ buildFuture = false
   ShowToc = true
 
 [params.homeInfoParams]
-  Title = "Part-Time Job Reviews You Can Trust"
-  Content = "Real experiences, honest pay info, and practical tips for every part-time job out there."
+  Title = "Trending Topics & Guides You'll Actually Read"
+  Content = "Tech, lifestyle, entertainment, finance, and more — fresh insights on what's trending now."
 
 [[menu.main]]
   identifier = "search"
