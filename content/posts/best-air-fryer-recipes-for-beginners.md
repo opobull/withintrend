@@ -161,3 +161,12 @@ The result is tofu that's legitimately crispy on the outside and tender inside â
 **Use parchment paper liners.** Pre-cut air fryer parchment paper liners prevent sticking and make cleanup a breeze. Just make sure the paper doesn't block airflow.
 
 Your air fryer isn't just another kitchen gadget destined for the back of the cabinet. With these recipes in your rotation, it'll become the appliance you reach for most. Start with one recipe this week and work your way through the list. Before you know it, you'll be air frying everything.
+
+---
+
+## You Might Also Like
+
+- [Korean Corn Cheese: The Addictive Side Dish You Can Make in 15 Minutes](/posts/korean-corn-cheese-recipe-easy-guide/)
+- [One-Pot Pasta Recipes for Busy Weeknights](/posts/one-pot-pasta-recipes-busy-weeknights/)
+- [5 Meal Prep Ideas That Save You $100 a Week](/posts/5-meal-prep-ideas-that-save-you-100-a-week/)
+- [Easy Homemade Sourdough Bread: A Beginner's Guide That Actually Works](/posts/easy-homemade-sourdough-bread-guide/)

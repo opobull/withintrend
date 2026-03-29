@@ -78,3 +78,12 @@ Beyond specific brands, here are principles that make sustainable fashion afford
 Sustainable fashion in 2026 isn't the niche, expensive, aesthetically compromised proposition it was a decade ago. Brands like Pact, Girlfriend Collective, Everlane, and Quince prove that you can dress well and shop ethically without a luxury income.
 
 The shift doesn't have to happen overnight. Start with your most-replaced items — underwear, t-shirts, workout clothes — and swap in sustainable alternatives as your current pieces wear out. Over time, you'll build a wardrobe that looks better, lasts longer, and aligns with your values. That's a trend worth following.
+
+---
+
+## You Might Also Like
+
+- [Quiet Luxury Explained: The Fashion Trend That Keeps Getting Bigger](/posts/quiet-luxury-fashion-trend-guide/)
+- [How to Build a Capsule Wardrobe on a Budget](/posts/how-to-build-a-capsule-wardrobe-on-a-budget/)
+- [Minimalist Wardrobe Essentials for Men](/posts/minimalist-wardrobe-essentials-men/)
+- [Sneaker Trends That Are Taking Over 2026](/posts/sneaker-trends-that-are-taking-over-2026/)

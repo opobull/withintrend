@@ -154,3 +154,12 @@ No set of rules works perfectly for every family. Your family's schedule, your c
 Start with one or two rules that address your biggest pain points. Implement them consistently for three weeks before adding more. Expect pushback — it's normal and temporary. And give yourself grace when things don't go perfectly.
 
 The goal isn't to have a screen-free household. It's to raise kids who have a healthy, intentional relationship with technology — kids who can enjoy screens without being controlled by them. That's a skill that will serve them for the rest of their lives.
+
+---
+
+## You Might Also Like
+
+- [How to Plan a Family Vacation Without Going Broke](/posts/how-to-plan-a-family-vacation-without-going-broke/)
+- [Managing Toddler Tantrums: Practical Strategies That Actually Work](/posts/managing-toddler-tantrums-practical-strategies/)
+- [Educational Apps That Kids Actually Enjoy](/posts/educational-apps-that-kids-actually-enjoy/)
+- [Age-Appropriate Chores That Teach Kids Responsibility](/posts/age-appropriate-chores-teach-kids-responsibility/)

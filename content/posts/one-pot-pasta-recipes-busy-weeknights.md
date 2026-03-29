@@ -151,3 +151,12 @@ The cleanup factor alone makes it worthwhile on exhausting weeknights. One pot, 
 And the versatility is endless. Once you understand the basic ratio of pasta to liquid, you can improvise with whatever's in your fridge. Leftover vegetables, a can of beans, some frozen shrimp, that random cheese in the back of the drawer — it all works.
 
 Give one of these recipes a try this week. Your future, well-fed, minimal-dishes-to-wash self will thank you.
+
+---
+
+## You Might Also Like
+
+- [5 Meal Prep Ideas That Save You $100 a Week](/posts/5-meal-prep-ideas-that-save-you-100-a-week/)
+- [Easy Homemade Sourdough Bread: A Beginner's Guide That Actually Works](/posts/easy-homemade-sourdough-bread-guide/)
+- [Best Air Fryer Recipes for Beginners](/posts/best-air-fryer-recipes-for-beginners/)
+- [Korean Corn Cheese: The Addictive Side Dish You Can Make in 15 Minutes](/posts/korean-corn-cheese-recipe-easy-guide/)

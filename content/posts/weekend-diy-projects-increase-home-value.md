@@ -62,3 +62,12 @@ A quick note on knowing your limits. Electrical panel work, plumbing beyond basi
 The common thread across all these projects is that they're visual, practical, and disproportionately impactful relative to their cost. You don't need to gut your kitchen or add a bathroom to meaningfully increase your home's value. Sometimes a $50 can of paint and a Saturday afternoon delivers more ROI than a $50,000 renovation.
 
 Start with whatever bugs you most about your home, cross-reference it with this list, and get to work. Your future self — or your future buyer — will thank you.
+
+---
+
+## You Might Also Like
+
+- [Phone Organization Hacks: How to Digitally Declutter Your Life in 30 Minutes](/posts/phone-organization-hacks-digital-declutter/)
+- [Cheap Home Upgrades That Look Expensive](/posts/cheap-home-upgrades-that-look-expensive/)
+- [How to Deep Clean Your Entire House in 2 Hours](/posts/how-to-deep-clean-your-entire-house-in-2-hours/)
+- [10 Genius Kitchen Organization Hacks](/posts/genius-kitchen-organization-hacks/)

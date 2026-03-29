@@ -142,3 +142,12 @@ The students who get the best return on their college investment are those who c
 If that describes your plan, college is almost certainly worth it. If it doesn't, there may be a better path for you — and that's perfectly okay.
 
 The stigma around not attending college is fading. What matters is having a plan, executing it well, and continuously learning throughout your career, regardless of whether that learning happens in a university lecture hall or on your own terms.
+
+---
+
+## You Might Also Like
+
+- [Best Study Techniques Backed by Science](/posts/best-study-techniques-backed-by-science/)
+- [How to Learn Any New Skill in 30 Days](/posts/how-to-learn-any-new-skill-in-30-days/)
+- [Active Recall: The Study Technique That Outperforms Everything Else](/posts/active-recall-study-technique-ultimate-guide/)
+- [Free Online Courses That Actually Land You a Job](/posts/free-online-courses-land-you-a-job/)

@@ -176,3 +176,12 @@ If every American household composted their food scraps, it would have the same 
 You don't need to wait for the perfect setup. Start saving kitchen scraps in a container on your counter today. When it's full, bury them in a pile of leaves in your yard. Congratulations — you're composting.
 
 The perfect is the enemy of the good when it comes to composting. A messy, imperfect compost pile is infinitely better than sending all that organic matter to a landfill. Start simple, learn as you go, and let nature do the heavy lifting.
+
+---
+
+## You Might Also Like
+
+- [Small Balcony Garden Ideas That Actually Work](/posts/small-balcony-garden-ideas-that-actually-work/)
+- [Best Low-Maintenance Landscaping Ideas for Busy Homeowners](/posts/low-maintenance-landscaping-ideas-busy-homeowners/)
+- [Raised Bed Gardening for Beginners: How to Build and Plant Your First Bed](/posts/raised-bed-gardening-beginners-complete-guide/)
+- [Low-Maintenance Indoor Plants That Thrive on Neglect](/posts/low-maintenance-indoor-plants-thrive-neglect/)

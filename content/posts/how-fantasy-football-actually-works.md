@@ -168,3 +168,12 @@ It also makes you a smarter football fan. You'll learn about players across all 
 5. **Check your team weekly** — Set your lineup, check waivers, and stay engaged
 
 Welcome to fantasy football. Your Sundays will never be the same.
+
+---
+
+## You Might Also Like
+
+- [Pickleball for Beginners: Everything You Need to Know to Start Playing](/posts/pickleball-beginners-guide-equipment-rules/)
+- [How Analytics Changed Basketball Strategy Forever](/posts/how-analytics-changed-basketball-forever/)
+- [Best Sports Documentaries on Streaming Right Now](/posts/best-sports-documentaries-on-streaming-right-now/)
+- [NBA Playoff Predictions: Who's Making It This Year?](/posts/nba-playoff-predictions-2026/)

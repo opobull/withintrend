@@ -157,3 +157,12 @@ Here's what a full week of budget meal prep looks like:
 **Keep it varied.** The same meal five days in a row will kill your motivation. Use the same base ingredients in different cuisines — Mexican on Monday, Asian on Tuesday, Italian on Wednesday.
 
 The math is simple: a few hours of weekend prep saves you $100+ per week, $400+ per month, and over $5,000 per year. That's a vacation, a used car payment, or a serious dent in your savings goals — all from cooking your own food.
+
+---
+
+## You Might Also Like
+
+- [One-Pot Pasta Recipes for Busy Weeknights](/posts/one-pot-pasta-recipes-busy-weeknights/)
+- [Easy Homemade Sourdough Bread: A Beginner's Guide That Actually Works](/posts/easy-homemade-sourdough-bread-guide/)
+- [Korean Corn Cheese: The Addictive Side Dish You Can Make in 15 Minutes](/posts/korean-corn-cheese-recipe-easy-guide/)
+- [Best Air Fryer Recipes for Beginners](/posts/best-air-fryer-recipes-for-beginners/)

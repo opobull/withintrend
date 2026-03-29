@@ -64,3 +64,12 @@ Joining a celebrity book club is free and requires nothing more than following t
 Consider following two or three clubs with different sensibilities to ensure variety in your reading diet. Use the picks as a starting point, not a final destination — if a book club pick introduces you to a new author, explore their backlist. If a pick covers a topic that interests you, seek out the nonfiction sources on the same subject.
 
 And remember, it is perfectly fine to disagree with a pick. Not every book will resonate with every reader, and a book club that never introduces you to something outside your comfort zone is not challenging you enough. The best book clubs — celebrity or otherwise — push you to read things you would not have chosen on your own.
+
+---
+
+## You Might Also Like
+
+- [Biggest Celebrity Feuds That Shocked the Internet](/posts/biggest-celebrity-feuds-shocked-internet/)
+- [Celebrity-Owned Restaurants That Are Actually Worth Visiting](/posts/celebrity-owned-restaurants-worth-visiting/)
+- [Celebrity Side Businesses You Didn't Know About](/posts/celebrity-side-businesses-you-didnt-know-about/)
+- [Most Iconic Red Carpet Looks of All Time](/posts/most-iconic-red-carpet-looks-of-all-time/)

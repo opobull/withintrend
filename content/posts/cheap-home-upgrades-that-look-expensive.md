@@ -134,3 +134,12 @@ Here's what a full-home refresh could look like:
 For under $700, you can make your home look like you spent $7,000. The key is consistency in finishes, attention to small details, and the confidence to actually make the changes instead of just pinning them on Pinterest.
 
 Start with one room. Pick the upgrades that will have the biggest impact for the least money. Once you see the transformation, you'll want to do the whole house.
+
+---
+
+## You Might Also Like
+
+- [Weekend DIY Projects That Actually Increase Your Home Value](/posts/weekend-diy-projects-increase-home-value/)
+- [Phone Organization Hacks: How to Digitally Declutter Your Life in 30 Minutes](/posts/phone-organization-hacks-digital-declutter/)
+- [10 Genius Kitchen Organization Hacks](/posts/genius-kitchen-organization-hacks/)
+- [How to Deep Clean Your Entire House in 2 Hours](/posts/how-to-deep-clean-your-entire-house-in-2-hours/)

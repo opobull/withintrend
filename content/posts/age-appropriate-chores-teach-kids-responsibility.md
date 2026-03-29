@@ -116,3 +116,12 @@ Give teenagers autonomy over when and how they complete tasks. Saying "the kitch
 The real point of kids' chores isn't getting free labor or maintaining a spotless home. It's raising humans who understand that communities function when everyone contributes. It's building the executive function skills — planning, prioritizing, completing tasks — that predict success in school and career. And it's giving kids the quiet confidence that comes from knowing they're capable, competent, and needed.
 
 Start where you are. Pick one or two age-appropriate tasks, introduce them this week, and build from there. Your future adult children will thank you — probably not until they're in their thirties, but they'll thank you.
+
+---
+
+## You Might Also Like
+
+- [Managing Toddler Tantrums: Practical Strategies That Actually Work](/posts/managing-toddler-tantrums-practical-strategies/)
+- [Screen Time Rules That Actually Work for Kids](/posts/screen-time-rules-that-work-for-kids/)
+- [How to Plan a Family Vacation Without Going Broke](/posts/how-to-plan-a-family-vacation-without-going-broke/)
+- [Educational Apps That Kids Actually Enjoy](/posts/educational-apps-that-kids-actually-enjoy/)

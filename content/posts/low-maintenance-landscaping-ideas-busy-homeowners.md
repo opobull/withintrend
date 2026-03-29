@@ -64,3 +64,12 @@ The cost math works out too. A flat of annuals costs $20-30 and lasts one season
 Low-maintenance landscaping isn't about having a boring yard — it's about making smart choices that front-load the effort. Spend time planning and installing the right systems now, and you'll spend your future weekends enjoying your yard instead of working in it.
 
 Start with one or two changes from this list. Swap out that thirsty flower bed for native plants. Lay down mulch this weekend. Look into a smart sprinkler controller. Each small change compounds, and before you know it, you'll have the best-looking yard on the block — and the most free time to enjoy it.
+
+---
+
+## You Might Also Like
+
+- [Composting for Beginners: A Complete Guide](/posts/composting-for-beginners-a-complete-guide/)
+- [Low-Maintenance Indoor Plants That Thrive on Neglect](/posts/low-maintenance-indoor-plants-thrive-neglect/)
+- [Small Balcony Garden Ideas That Actually Work](/posts/small-balcony-garden-ideas-that-actually-work/)
+- [Raised Bed Gardening for Beginners: How to Build and Plant Your First Bed](/posts/raised-bed-gardening-beginners-complete-guide/)

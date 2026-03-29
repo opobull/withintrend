@@ -145,3 +145,12 @@ If you're reading this list and recognizing these qualities in someone you're da
 Not every relationship that feels good is a trap. Sometimes the person who treats you well, communicates clearly, and makes you feel safe is exactly what they appear to be — someone worth investing in.
 
 Green flags deserve celebration. When you find them, don't take them for granted. Acknowledge them, appreciate them, and reciprocate them. Healthy relationships aren't just found — they're built by two people who both show up with green flags flying.
+
+---
+
+## You Might Also Like
+
+- [Long-Distance Relationship Tips That Actually Work](/posts/long-distance-relationship-tips-that-actually-work/)
+- [Understanding Attachment Styles: How They Affect Your Dating Life](/posts/attachment-styles-dating-understanding-guide/)
+- [How to Set Boundaries Without Feeling Guilty](/posts/how-to-set-boundaries-without-feeling-guilty/)
+- [Red Flags vs Dealbreakers — Knowing the Difference](/posts/red-flags-vs-dealbreakers-knowing-the-difference/)

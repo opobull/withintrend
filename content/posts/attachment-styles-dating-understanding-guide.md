@@ -78,3 +78,12 @@ Attachment theory provides a useful framework for understanding relationship pat
 The goal is not to achieve perfect secure attachment — it is to understand your tendencies well enough to make conscious choices rather than operating on autopilot. Every time you notice a pattern and choose a different response, you are building new neural pathways and moving toward healthier, more fulfilling connections.
 
 Your past shaped your attachment style, but it does not have to define your future relationships.
+
+---
+
+## You Might Also Like
+
+- [Green Flags to Look For in a New Relationship](/posts/green-flags-new-relationship/)
+- [How to Set Boundaries Without Feeling Guilty](/posts/how-to-set-boundaries-without-feeling-guilty/)
+- [Red Flags vs Dealbreakers — Knowing the Difference](/posts/red-flags-vs-dealbreakers-knowing-the-difference/)
+- [Long-Distance Relationship Tips That Actually Work](/posts/long-distance-relationship-tips-that-actually-work/)
