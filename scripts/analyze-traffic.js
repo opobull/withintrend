@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 /**
  * analyze-traffic.js
- * Cloudflare GraphQL Analytics API로 어제(또는 지정 날짜) 페이지별 트래픽 조회
- * 봇 필터링 후 포스트 경로만 카운트, 카테고리별 합산 → data/fitness.json append
+ * GA4 Data API로 어제(또는 지정 날짜) 페이지별 실제 방문자 트래픽 조회
+ * 카테고리별 합산 → data/fitness.json append
  *
  * Usage:
  *   node scripts/analyze-traffic.js              # 기본: 어제
@@ -11,37 +11,14 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 // ─── Config ───
 const ROOT = path.resolve(__dirname, '..');
-const ENV_PATH = path.resolve(__dirname, '../../config/.env');
 const FITNESS_PATH = path.join(ROOT, 'data', 'fitness.json');
 const POSTS_DIR = path.join(ROOT, 'content', 'posts');
-
-// Load .env manually (no dotenv dependency)
-function loadEnv(filePath) {
-  if (!fs.existsSync(filePath)) return;
-  const lines = fs.readFileSync(filePath, 'utf8').split('\n');
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (!trimmed || trimmed.startsWith('#')) continue;
-    const eq = trimmed.indexOf('=');
-    if (eq === -1) continue;
-    const key = trimmed.slice(0, eq).trim();
-    const val = trimmed.slice(eq + 1).trim();
-    if (!process.env[key]) process.env[key] = val;
-  }
-}
-
-loadEnv(ENV_PATH);
-
-const CF_API_TOKEN = process.env.CF_API_TOKEN;
-const CF_ZONE_ID = process.env.CF_ZONE_ID || '4a1801ca2da39344c72bda4c7cf6f6ae';
-
-if (!CF_API_TOKEN) {
-  console.error('ERROR: CF_API_TOKEN not found in env or config/.env');
-  process.exit(1);
-}
+const GA_CREDS_PATH = path.resolve(__dirname, '../../config/gcloud-ga-credentials.json');
+const GA_PROPERTY_ID = '522393079';
 
 // ─── Parse args ───
 function parseArgs() {
@@ -54,7 +31,6 @@ function parseArgs() {
     }
   }
   if (!dateStr) {
-    // Yesterday
     const d = new Date();
     d.setDate(d.getDate() - 1);
     dateStr = d.toISOString().slice(0, 10);
@@ -62,9 +38,54 @@ function parseArgs() {
   return dateStr;
 }
 
+// ─── GA4 Auth ───
+function createJWT(creds) {
+  const now = Math.floor(Date.now() / 1000);
+  const header = Buffer.from(JSON.stringify({ alg: 'RS256', typ: 'JWT' })).toString('base64url');
+  const payload = Buffer.from(JSON.stringify({
+    iss: creds.client_email,
+    scope: 'https://www.googleapis.com/auth/analytics.readonly',
+    aud: 'https://oauth2.googleapis.com/token',
+    iat: now,
+    exp: now + 3600
+  })).toString('base64url');
+  const sig = crypto.createSign('RSA-SHA256').update(`${header}.${payload}`).sign(creds.private_key, 'base64url');
+  return `${header}.${payload}.${sig}`;
+}
+
+async function getAccessToken(creds) {
+  const jwt = createJWT(creds);
+  const resp = await fetch('https://oauth2.googleapis.com/token', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: `grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer&assertion=${jwt}`
+  });
+  const data = await resp.json();
+  if (!data.access_token) throw new Error('GA4 token error: ' + JSON.stringify(data));
+  return data.access_token;
+}
+
+// ─── GA4 API: 페이지별 조회수 ───
+async function fetchTrafficGA4(token, dateStr) {
+  const resp = await fetch(`https://analyticsdata.googleapis.com/v1beta/properties/${GA_PROPERTY_ID}:runReport`, {
+    method: 'POST',
+    headers: { 'Authorization': `Bearer ${token}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      dateRanges: [{ startDate: dateStr, endDate: dateStr }],
+      dimensions: [{ name: 'pagePath' }],
+      metrics: [{ name: 'screenPageViews' }, { name: 'activeUsers' }],
+      orderBys: [{ metric: { metricName: 'screenPageViews' }, desc: true }],
+      limit: 10000
+    })
+  });
+  const data = await resp.json();
+  if (data.error) throw new Error('GA4 API error: ' + JSON.stringify(data.error));
+  return data.rows || [];
+}
+
 // ─── Build post → categories map from frontmatter ───
 function buildPostCategoryMap() {
-  const map = {}; // slug → [categories]
+  const map = {};
   if (!fs.existsSync(POSTS_DIR)) return map;
   const files = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'));
   for (const file of files) {
@@ -73,7 +94,6 @@ function buildPostCategoryMap() {
     const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
     if (!fmMatch) continue;
     const fm = fmMatch[1];
-    // Parse categories from YAML
     const catMatch = fm.match(/categories:\s*\[([^\]]*)\]/);
     if (catMatch) {
       const cats = catMatch[1]
@@ -86,85 +106,22 @@ function buildPostCategoryMap() {
   return map;
 }
 
-// ─── Cloudflare GraphQL query ───
-async function fetchTraffic(dateStr) {
-  const datetimeGeq = `${dateStr}T00:00:00Z`;
-  const datetimeLt = `${dateStr}T23:59:59Z`;
-
-  const query = `
-    query {
-      viewer {
-        zones(filter: { zoneTag: "${CF_ZONE_ID}" }) {
-          httpRequestsAdaptiveGroups(
-            filter: {
-              datetime_geq: "${datetimeGeq}"
-              datetime_lt: "${datetimeLt}"
-            }
-            limit: 9999
-            orderBy: [count_DESC]
-          ) {
-            count
-            dimensions {
-              clientRequestPath
-            }
-          }
-        }
-      }
-    }
-  `;
-
-  const resp = await fetch('https://api.cloudflare.com/client/v4/graphql', {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${CF_API_TOKEN}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ query }),
-  });
-
-  if (!resp.ok) {
-    const text = await resp.text();
-    throw new Error(`Cloudflare API error ${resp.status}: ${text}`);
-  }
-
-  const json = await resp.json();
-  if (json.errors && json.errors.length > 0) {
-    throw new Error(`GraphQL errors: ${JSON.stringify(json.errors)}`);
-  }
-
-  return json.data.viewer.zones[0].httpRequestsAdaptiveGroups || [];
-}
-
-// ─── Filter bot/non-post paths ───
-function filterPosts(groups) {
-  const excludePatterns = [
-    /^\/$/,                    // homepage
-    /robots\.txt/i,
-    /sitemap\.xml/i,
-    /favicon\.ico/i,
-    /\.css$/i,
-    /\.js$/i,
-    /\.xml$/i,
-    /^\/tags\//i,
-    /^\/categories\//i,
-  ];
-
+// ─── Filter GA4 rows to posts ───
+function filterPosts(rows) {
   const postPattern = /^\/posts\/([^/]+)\/?$/;
-
   const filtered = [];
-  for (const g of groups) {
-    const p = g.dimensions.clientRequestPath;
-    if (excludePatterns.some(re => re.test(p))) continue;
+  for (const row of rows) {
+    const p = row.dimensionValues[0].value;
     const m = p.match(postPattern);
     if (!m) continue;
-    // Extract slug (remove trailing slash)
     const slug = m[1].replace(/\/$/, '');
-    filtered.push({ slug, count: g.count });
+    const count = parseInt(row.metricValues[0].value, 10) || 0;
+    if (count > 0) filtered.push({ slug, count });
   }
   return filtered;
 }
 
-// ─── Slugify category name for consistent keys ───
+// ─── Slugify ───
 function slugify(str) {
   return str
     .toLowerCase()
@@ -176,21 +133,29 @@ function slugify(str) {
 // ─── Main ───
 async function main() {
   const dateStr = parseArgs();
-  console.log(`Analyzing traffic for: ${dateStr}`);
+  console.log(`Analyzing traffic for: ${dateStr} (GA4 — real users only)`);
 
-  // 1. Fetch from Cloudflare
-  const rawGroups = await fetchTraffic(dateStr);
-  console.log(`Raw groups from API: ${rawGroups.length}`);
+  // 1. Auth
+  if (!fs.existsSync(GA_CREDS_PATH)) {
+    console.error('ERROR: GA4 credentials not found at', GA_CREDS_PATH);
+    process.exit(1);
+  }
+  const creds = JSON.parse(fs.readFileSync(GA_CREDS_PATH, 'utf8'));
+  const token = await getAccessToken(creds);
 
-  // 2. Filter to posts only
-  const posts = filterPosts(rawGroups);
+  // 2. Fetch from GA4
+  const rawRows = await fetchTrafficGA4(token, dateStr);
+  console.log(`Raw rows from GA4: ${rawRows.length}`);
+
+  // 3. Filter to posts only
+  const posts = filterPosts(rawRows);
   console.log(`Post paths after filtering: ${posts.length}`);
 
-  // 3. Build category map
+  // 4. Build category map
   const postCatMap = buildPostCategoryMap();
 
-  // 4. Aggregate by category
-  const categoryStats = {}; // slug → { posts: Set, visits: number }
+  // 5. Aggregate by category
+  const categoryStats = {};
   let unmapped = 0;
 
   for (const { slug, count } of posts) {
@@ -209,7 +174,7 @@ async function main() {
     }
   }
 
-  // 5. Build fitness entry
+  // 6. Build fitness entry
   const catResult = {};
   for (const [key, stat] of Object.entries(categoryStats)) {
     const postCount = stat.posts.size;
@@ -222,6 +187,7 @@ async function main() {
 
   const entry = {
     date: dateStr,
+    source: 'ga4',
     totalPostHits: posts.reduce((s, p) => s + p.count, 0),
     unmappedHits: unmapped,
     categories: catResult,
@@ -230,7 +196,7 @@ async function main() {
   console.log('\nFitness entry:');
   console.log(JSON.stringify(entry, null, 2));
 
-  // 6. Append to fitness.json
+  // 7. Append to fitness.json
   let fitness = [];
   if (fs.existsSync(FITNESS_PATH)) {
     try {
@@ -238,7 +204,6 @@ async function main() {
     } catch { fitness = []; }
   }
 
-  // Remove existing entry for same date (idempotent)
   fitness = fitness.filter(e => e.date !== dateStr);
   fitness.push(entry);
   fitness.sort((a, b) => a.date.localeCompare(b.date));

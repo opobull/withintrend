@@ -76,9 +76,32 @@ async function main() {
   const recentData = fitness.filter(e => e.date >= cutoff);
   console.log(`Fitness entries in last 2 weeks: ${recentData.length}`);
 
+  // GA4 기반 실제 방문자 데이터로 진화 판단
+  // 최소 7일 GA4 데이터 + 총 방문 10건 이상이어야 진화 모드 진입
+  const ga4Data = recentData.filter(e => e.source === 'ga4');
+  const totalRealVisits = ga4Data.reduce((s, e) => s + (e.totalPostHits || 0), 0);
+  
+  if (ga4Data.length < 7 || totalRealVisits < 10) {
+    console.log(`시드 모드 유지: GA4 데이터 ${ga4Data.length}일 (최소 7일), 실제 방문 ${totalRealVisits}건 (최소 10건)`);
+    console.log('조건 미달 → 카테고리 균등 배분으로 글 생성 (진화 판단 생략)');
+    // 시드 모드: 진화 판단 없이 균등 생성하도록 결과 반환
+    const result = {
+      date: today(),
+      mode: 'seed',
+      reason: `GA4 data: ${ga4Data.length} days, ${totalRealVisits} real visits (need 7d + 10 visits)`,
+      actions: [],
+    };
+    const evolutionLog = loadJSON(EVOLUTION_LOG_PATH) || [];
+    evolutionLog.push(result);
+    saveJSON(EVOLUTION_LOG_PATH, evolutionLog);
+    console.log('\nSeed mode logged. Daily evolve task will use uniform distribution.');
+    return;
+  }
+
+  console.log(`진화 모드: GA4 ${ga4Data.length}일, 실제 방문 ${totalRealVisits}건`);
+
   if (recentData.length === 0) {
-    console.log('No fitness data in last 2 weeks. Need at least some data to evolve.');
-    console.log('Run analyze-traffic.js daily first to accumulate data.');
+    console.log('No fitness data in last 2 weeks.');
     return;
   }
 
