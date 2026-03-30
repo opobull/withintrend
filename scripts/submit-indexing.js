@@ -12,7 +12,8 @@ const path = require('path');
 const crypto = require('crypto');
 const https = require('https');
 
-const SITE_URL = 'https://withintrend.org/';
+const SITE_URL = 'sc-domain:withintrend.org';
+const SITE_BASE = 'https://withintrend.org/';
 const SITEMAP_URL = 'https://withintrend.org/sitemap.xml';
 const CREDS_PATH = path.resolve(__dirname, '../../config/gcloud-ga-credentials.json');
 const DATA_DIR = path.resolve(__dirname, '../data');
@@ -140,7 +141,7 @@ async function main() {
 
   for (let i = 0; i < urlsToCheck.length; i++) {
     const url = urlsToCheck[i];
-    const shortUrl = url.replace(SITE_URL, '/');
+    const shortUrl = url.replace(SITE_BASE, '/');
     process.stdout.write(`  [${i + 1}/${urlsToCheck.length}] ${shortUrl} ... `);
     
     try {
@@ -184,7 +185,7 @@ async function main() {
       
       for (let i = 0; i < toSubmit.length; i++) {
         const { url } = toSubmit[i];
-        const shortUrl = url.replace(SITE_URL, '/');
+        const shortUrl = url.replace(SITE_BASE, '/');
         process.stdout.write(`  [${i + 1}/${toSubmit.length}] ${shortUrl} ... `);
         
         const result = await submitUrl(indexingToken, url);

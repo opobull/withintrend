@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-const SITE_URL = 'https://withintrend.org/';
+const SITE_URL = 'sc-domain:withintrend.org';
 const CREDS_PATH = path.resolve(__dirname, '../../config/gcloud-ga-credentials.json');
 const DATA_DIR = path.resolve(__dirname, '../data');
 const OUTPUT_PATH = path.join(DATA_DIR, 'search-performance.json');
