@@ -13,5 +13,11 @@
     "mode": "seed",
     "reason": "GA4 data: 1 days, 0 real visits (need 7d + 10 visits)",
     "actions": []
+  },
+  {
+    "date": "2026-03-30",
+    "mode": "seed",
+    "reason": "GA4 data: 2 days, 0 real visits (need 7d + 10 visits)",
+    "actions": []
   }
 ]
