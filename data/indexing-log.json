@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-30T14:32:43.622Z",
+  "lastRun": "2026-03-30T23:41:00.392Z",
   "history": [
     {
       "date": "2026-03-30T14:02:06.316Z",
@@ -314,6 +314,23 @@
         "https://withintrend.org/tags/korean-food/",
         "https://withintrend.org/tags/cardio/",
         "https://withintrend.org/posts/zone-2-cardio-training-benefits-guide/"
+      ],
+      "errorUrls": []
+    },
+    {
+      "date": "2026-03-30T23:41:00.392Z",
+      "totalUrls": 1085,
+      "checked": 7,
+      "indexed": 2,
+      "notIndexed": 5,
+      "errors": 0,
+      "submitted": 0,
+      "notIndexedUrls": [
+        "https://withintrend.org/tags/home-buying/",
+        "https://withintrend.org/tags/housing-market/",
+        "https://withintrend.org/posts/buy-first-home-step-by-step/",
+        "https://withintrend.org/tags/mortgage/",
+        "https://withintrend.org/tags/property/"
       ],
       "errorUrls": []
     }
