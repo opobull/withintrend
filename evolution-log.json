@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2026-04-02",
+    "mode": "seed",
+    "reason": "fitness.json has 6 days of data (need 7)",
+    "posts_created": 20,
+    "categories_used": 20,
+    "evolution": null,
+    "mutations": null
+  }
+]
