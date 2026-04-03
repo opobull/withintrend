@@ -126,5 +126,18 @@
     "totalPostHits": 0,
     "unmappedHits": 0,
     "categories": {}
+  },
+  {
+    "date": "2026-04-02",
+    "source": "ga4",
+    "totalPostHits": 2,
+    "unmappedHits": 0,
+    "categories": {
+      "grocery": {
+        "posts": 1,
+        "visits": 2,
+        "avg": 2
+      }
+    }
   }
 ]
