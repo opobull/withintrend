@@ -30,12 +30,184 @@
     "date": "2026-04-03",
     "mode": "evolution",
     "tiers": {
-      "top": ["recipes-cooking", "real-estate", "cars-auto", "health-fitness", "pets-animals", "parenting-family"],
-      "mid": ["weird-interesting", "movies-tv", "home-garden", "fashion-style", "tech-ai", "education-study", "music", "sports"],
-      "bottom": ["gaming", "personal-finance", "celebrity-entertainment", "relationships-dating", "travel-places", "diy-life-hacks"]
+      "top": [
+        "recipes-cooking",
+        "real-estate",
+        "cars-auto",
+        "health-fitness",
+        "pets-animals",
+        "parenting-family"
+      ],
+      "mid": [
+        "weird-interesting",
+        "movies-tv",
+        "home-garden",
+        "fashion-style",
+        "tech-ai",
+        "education-study",
+        "music",
+        "sports"
+      ],
+      "bottom": [
+        "gaming",
+        "personal-finance",
+        "celebrity-entertainment",
+        "relationships-dating",
+        "travel-places",
+        "diy-life-hacks"
+      ]
     },
     "mutation": null,
     "postsCreated": 26,
     "totalPosts": 426
+  },
+  {
+    "date": "2026-04-03",
+    "mode": "evolution",
+    "expand": [
+      {
+        "slug": "retail",
+        "posts": 3
+      },
+      {
+        "slug": "freelance-and-gig",
+        "posts": 3
+      },
+      {
+        "slug": "education-and-childcare",
+        "posts": 3
+      },
+      {
+        "slug": "hotel-and-hospitality",
+        "posts": 3
+      },
+      {
+        "slug": "entertainment",
+        "posts": 3
+      },
+      {
+        "slug": "restaurant",
+        "posts": 3
+      },
+      {
+        "slug": "delivery-and-gig",
+        "posts": 3
+      },
+      {
+        "slug": "grocery",
+        "posts": 3
+      },
+      {
+        "slug": "other",
+        "posts": 3
+      },
+      {
+        "slug": "pharmacy-and-beauty",
+        "posts": 3
+      }
+    ],
+    "maintain": [
+      {
+        "slug": "fast-food",
+        "posts": 1
+      },
+      {
+        "slug": "logistics-and-shipping",
+        "posts": 1
+      },
+      {
+        "slug": "fitness-and-recreation",
+        "posts": 1
+      },
+      {
+        "slug": "pharmacy-retail",
+        "posts": 1
+      },
+      {
+        "slug": "warehouse",
+        "posts": 1
+      },
+      {
+        "slug": "gig-economy",
+        "posts": 1
+      },
+      {
+        "slug": "tech-ai",
+        "posts": 1
+      },
+      {
+        "slug": "health-fitness",
+        "posts": 1
+      },
+      {
+        "slug": "recipes-cooking",
+        "posts": 1
+      },
+      {
+        "slug": "travel-places",
+        "posts": 1
+      },
+      {
+        "slug": "personal-finance",
+        "posts": 1
+      },
+      {
+        "slug": "gaming",
+        "posts": 1
+      },
+      {
+        "slug": "movies-tv",
+        "posts": 1
+      },
+      {
+        "slug": "diy-life-hacks",
+        "posts": 1
+      }
+    ],
+    "dormant": [
+      "pets-animals",
+      "cars-auto",
+      "real-estate",
+      "celebrity-entertainment",
+      "sports",
+      "fashion-style",
+      "parenting-family",
+      "home-garden",
+      "music",
+      "education-study",
+      "relationships-dating",
+      "weird-interesting"
+    ],
+    "mutation": null,
+    "total_posts": 44
+  },
+  {
+    "date": "2026-04-04",
+    "mode": "evolution",
+    "postsCreated": 20,
+    "mutation": false,
+    "distribution": {
+      "tech-ai": 1,
+      "health-fitness": 1,
+      "recipes-cooking": 1,
+      "travel-places": 1,
+      "personal-finance": 1,
+      "gaming": 1,
+      "movies-tv": 1,
+      "diy-life-hacks": 1,
+      "pets-animals": 1,
+      "cars-auto": 1,
+      "real-estate": 1,
+      "celebrity-entertainment": 1,
+      "sports": 1,
+      "fashion-style": 1,
+      "parenting-family": 1,
+      "home-garden": 1,
+      "music": 1,
+      "education-study": 1,
+      "relationships-dating": 1,
+      "weird-interesting": 1
+    },
+    "notes": "Evolution mode active (8 days fitness data). Near-zero traffic differentiation across new categories - all classified as middle tier (1 post each). No mutation roll."
   }
 ]

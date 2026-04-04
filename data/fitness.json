@@ -139,5 +139,12 @@
         "avg": 2
       }
     }
+  },
+  {
+    "date": "2026-04-03",
+    "source": "ga4",
+    "totalPostHits": 0,
+    "unmappedHits": 0,
+    "categories": {}
   }
 ]
