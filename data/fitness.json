@@ -146,5 +146,23 @@
     "totalPostHits": 0,
     "unmappedHits": 0,
     "categories": {}
+  },
+  {
+    "date": "2026-04-04",
+    "source": "ga4",
+    "totalPostHits": 2,
+    "unmappedHits": 0,
+    "categories": {
+      "streaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "parenting-family": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]

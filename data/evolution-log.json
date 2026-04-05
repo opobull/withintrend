@@ -209,5 +209,11 @@
       "weird-interesting": 1
     },
     "notes": "Evolution mode active (8 days fitness data). Near-zero traffic differentiation across new categories - all classified as middle tier (1 post each). No mutation roll."
+  },
+  {
+    "date": "2026-04-05",
+    "mode": "seed",
+    "reason": "GA4 data: 8 days, 5 real visits (need 7d + 10 visits)",
+    "actions": []
   }
 ]
