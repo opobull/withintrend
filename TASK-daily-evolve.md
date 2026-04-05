@@ -7,7 +7,7 @@
 
 ### Step 1: 트래픽 분석
 ```bash
-cd /home/vivius/.openclaw/workspace/withintrend
+cd /home/vivius/claude-code/workspace/withintrend
 node scripts/analyze-traffic.js
 ```
 - 어제 하루 Cloudflare 트래픽 수집
@@ -32,14 +32,14 @@ node scripts/analyze-traffic.js
 
 ### Step 4: 배포
 ```bash
-cd /home/vivius/.openclaw/workspace/withintrend
+cd /home/vivius/claude-code/workspace/withintrend
 git add -A
 git commit -m "evo: daily evolution - $(date +%Y-%m-%d)"
 git push origin main
 ```
 
 ### Step 5: 보고
-- sessions_send로 메인에게 결과 요약 보고:
+- 텔레그램으로 주인님에게 결과 요약 보고:
   - 오늘 생성된 글 수, 카테고리 분포
   - 확장/도태/돌연변이 내역
   - 총 포스트 수
@@ -55,9 +55,7 @@ git push origin main
 - date 필드는 반드시 현재시간 이전으로
 
 ## 보고 규칙
-- 모든 보고는 sessions_send로 메인에게:
-  sessions_send({ sessionKey: "agent:main:main", message: "보고 내용" })
-- 텔레그램 직접 사용 금지
+- 모든 보고는 텔레그램으로 주인님에게 전송
 
 ## 🚫 파이프라인 우회 금지
 - 에러 시 멈추고 보고

@@ -8,7 +8,7 @@
 - **스택**: Hugo + PaperMod + Cloudflare Pages
 - **배포**: `git push origin main` → 자동 빌드/배포
 - **분석**: Cloudflare GraphQL Analytics API
-- **저장소**: /home/vivius/.openclaw/workspace/withintrend/
+- **저장소**: /home/vivius/claude-code/workspace/withintrend/
 
 ## Cloudflare API
 - Token: `CF_API_TOKEN` (config/.env)

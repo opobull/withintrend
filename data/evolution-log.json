@@ -215,5 +215,11 @@
     "mode": "seed",
     "reason": "GA4 data: 8 days, 5 real visits (need 7d + 10 visits)",
     "actions": []
+  },
+  {
+    "date": "2026-04-05",
+    "mode": "seed",
+    "reason": "GA4 data: 8 days, 5 real visits (need 7d + 10 visits)",
+    "actions": []
   }
 ]
