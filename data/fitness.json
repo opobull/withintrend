@@ -164,5 +164,18 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-05",
+    "source": "ga4",
+    "totalPostHits": 5,
+    "unmappedHits": 0,
+    "categories": {
+      "grocery": {
+        "posts": 1,
+        "visits": 5,
+        "avg": 5
+      }
+    }
   }
 ]

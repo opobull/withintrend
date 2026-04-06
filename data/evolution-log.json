@@ -221,5 +221,109 @@
     "mode": "seed",
     "reason": "GA4 data: 8 days, 5 real visits (need 7d + 10 visits)",
     "actions": []
+  },
+  {
+    "date": "2026-04-06",
+    "generation": 10,
+    "fitnessDataDays": 10,
+    "expand": [
+      "education-and-childcare",
+      "freelance-and-gig",
+      "hotel-and-hospitality",
+      "other",
+      "pharmacy-and-beauty",
+      "retail"
+    ],
+    "maintain": [
+      "entertainment",
+      "delivery-and-gig",
+      "restaurant",
+      "fast-food",
+      "logistics-and-shipping",
+      "fitness-and-recreation"
+    ],
+    "dormant": [
+      "pharmacy-retail",
+      "warehouse",
+      "gig-economy",
+      "streaming",
+      "parenting-family",
+      "grocery"
+    ],
+    "mutation": null,
+    "scores": [
+      {
+        "slug": "education-and-childcare",
+        "avgPerPost": 4
+      },
+      {
+        "slug": "freelance-and-gig",
+        "avgPerPost": 3.8
+      },
+      {
+        "slug": "hotel-and-hospitality",
+        "avgPerPost": 2.5
+      },
+      {
+        "slug": "other",
+        "avgPerPost": 2
+      },
+      {
+        "slug": "pharmacy-and-beauty",
+        "avgPerPost": 2
+      },
+      {
+        "slug": "retail",
+        "avgPerPost": 1.67
+      },
+      {
+        "slug": "entertainment",
+        "avgPerPost": 1.43
+      },
+      {
+        "slug": "delivery-and-gig",
+        "avgPerPost": 1.17
+      },
+      {
+        "slug": "restaurant",
+        "avgPerPost": 1.11
+      },
+      {
+        "slug": "fast-food",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "logistics-and-shipping",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "fitness-and-recreation",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "pharmacy-retail",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "warehouse",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "gig-economy",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "streaming",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "parenting-family",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "grocery",
+        "avgPerPost": 0.75
+      }
+    ]
   }
 ]
