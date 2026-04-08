@@ -184,5 +184,23 @@
     "totalPostHits": 0,
     "unmappedHits": 0,
     "categories": {}
+  },
+  {
+    "date": "2026-04-07",
+    "source": "ga4",
+    "totalPostHits": 3,
+    "unmappedHits": 0,
+    "categories": {
+      "weird-interesting": {
+        "posts": 1,
+        "visits": 2,
+        "avg": 2
+      },
+      "fashion-and-style": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
