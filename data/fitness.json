@@ -202,5 +202,33 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-08",
+    "source": "ga4",
+    "totalPostHits": 4,
+    "unmappedHits": 0,
+    "categories": {
+      "gaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "cars-and-auto": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "fashion-and-style": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
