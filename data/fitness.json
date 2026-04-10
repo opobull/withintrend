@@ -230,5 +230,23 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-09",
+    "source": "ga4",
+    "totalPostHits": 4,
+    "unmappedHits": 0,
+    "categories": {
+      "pharmacy-retail": {
+        "posts": 1,
+        "visits": 3,
+        "avg": 3
+      },
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
