@@ -248,5 +248,28 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-10",
+    "source": "ga4",
+    "totalPostHits": 3,
+    "unmappedHits": 0,
+    "categories": {
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "streaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "weird-interesting": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
