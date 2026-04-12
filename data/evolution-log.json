@@ -860,5 +860,64 @@
         "avgPerPost": 1
       }
     ]
+  },
+  {
+    "date": "2026-04-12",
+    "generation": 16,
+    "fitnessDataDays": 14,
+    "expand": [
+      "pharmacy-retail",
+      "grocery",
+      "weird-interesting"
+    ],
+    "maintain": [
+      "streaming",
+      "parenting-family",
+      "fashion-and-style"
+    ],
+    "dormant": [
+      "gaming",
+      "cars-and-auto",
+      "movies-and-tv"
+    ],
+    "mutation": "sustainability",
+    "scores": [
+      {
+        "slug": "pharmacy-retail",
+        "avgPerPost": 3
+      },
+      {
+        "slug": "grocery",
+        "avgPerPost": 2.67
+      },
+      {
+        "slug": "weird-interesting",
+        "avgPerPost": 1.5
+      },
+      {
+        "slug": "streaming",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "parenting-family",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "fashion-and-style",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "gaming",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "cars-and-auto",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "movies-and-tv",
+        "avgPerPost": 1
+      }
+    ]
   }
 ]

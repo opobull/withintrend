@@ -271,5 +271,12 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-11",
+    "source": "ga4",
+    "totalPostHits": 0,
+    "unmappedHits": 0,
+    "categories": {}
   }
 ]

@@ -237,5 +237,17 @@
       "curiosity"
     ],
     "status": "expanding"
+  },
+  {
+    "slug": "sustainability",
+    "name": "Sustainability",
+    "tags": [
+      "sustainability",
+      "eco-friendly",
+      "green living",
+      "environment"
+    ],
+    "status": "mutant",
+    "addedDate": "2026-04-12"
   }
 ]
