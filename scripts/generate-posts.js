@@ -1,12 +1,16 @@
 #!/usr/bin/env node
 /**
  * generate-posts.js
- * 카테고리 + 주제 목록으로 Hugo 포맷 .md 파일 생성
- * Gemini API로 본문 생성 (800+ 단어, SEO 최적화, H2 구조)
+ * 카테고리 + 주제 목록으로 Hugo 포맷 .md 파일 관리
+ * LLM 호출 없음 — 토픽 선택과 파일 저장만 담당. 본문 생성은 서브 에이전트가 직접 수행.
  *
  * Usage:
- *   node scripts/generate-posts.js --category "tech-ai" --count 5
- *   node scripts/generate-posts.js --category "gaming" --count 3
+ *   # 사용 가능한 토픽 목록 (JSON)
+ *   node scripts/generate-posts.js --pick-topics --category "tech-ai" --count 5
+ *
+ *   # 본문을 stdin으로 받아 파일 저장
+ *   echo "본문..." | node scripts/generate-posts.js --write-post --slug "my-post" \
+ *     --title "My Post Title" --category-name "Tech & AI" --tags '["tech","ai"]'
  */
 
 const fs = require('fs');
@@ -727,90 +731,47 @@ function getCategoryDefinition(catKey) {
   return null;
 }
 
-// ─── Gemini API ───
-async function callGemini(prompt) {
-  const apiKey = process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY;
-  if (!apiKey) {
-    throw new Error('GEMINI_API_KEY or GOOGLE_API_KEY not found in env');
-  }
-
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
-
-  const resp = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.8,
-        maxOutputTokens: 4096,
-      },
-    }),
+// ─── Read stdin ───
+function readStdin() {
+  return new Promise((resolve, reject) => {
+    let data = '';
+    process.stdin.setEncoding('utf8');
+    process.stdin.on('data', chunk => { data += chunk; });
+    process.stdin.on('end', () => resolve(data));
+    process.stdin.on('error', reject);
   });
-
-  if (!resp.ok) {
-    const text = await resp.text();
-    throw new Error(`Gemini API error ${resp.status}: ${text}`);
-  }
-
-  const json = await resp.json();
-  const candidates = json.candidates;
-  if (!candidates || candidates.length === 0) {
-    throw new Error('No candidates returned from Gemini');
-  }
-  return candidates[0].content.parts[0].text;
-}
-
-// ─── Generate post content via Gemini ───
-async function generateContent(title, categoryName, tags) {
-  const prompt = `Write a comprehensive, SEO-optimized blog post with the following requirements:
-
-Title: "${title}"
-Category: ${categoryName}
-Target audience: General English-speaking internet users
-
-Requirements:
-- Write in natural, engaging English
-- Minimum 800 words (aim for 1000-1200)
-- Use H2 (##) headings to structure the content (at least 3-4 H2 sections)
-- Include an introduction paragraph
-- Include a conclusion or summary section
-- Use bullet points or numbered lists where appropriate
-- Make it informative and actionable
-- Do NOT include the title as H1 (it's in frontmatter)
-- Do NOT include any frontmatter or metadata
-- Do NOT wrap the entire output in markdown code blocks
-- Start directly with the introduction paragraph
-- Use a conversational but authoritative tone
-- Include relevant keywords naturally throughout`;
-
-  return await callGemini(prompt);
 }
 
 // ─── Parse args ───
 function parseArgs() {
   const args = process.argv.slice(2);
-  let category = null;
-  let count = 5;
+  const parsed = {};
 
   for (let i = 0; i < args.length; i++) {
-    if (args[i] === '--category' && args[i + 1]) {
-      category = args[i + 1];
-      i++;
-    } else if (args[i] === '--count' && args[i + 1]) {
-      count = parseInt(args[i + 1], 10);
-      i++;
-    }
+    if (args[i] === '--pick-topics') parsed.mode = 'pick-topics';
+    else if (args[i] === '--write-post') parsed.mode = 'write-post';
+    else if (args[i] === '--category' && args[i + 1]) { parsed.category = args[++i]; }
+    else if (args[i] === '--count' && args[i + 1]) { parsed.count = parseInt(args[++i], 10); }
+    else if (args[i] === '--slug' && args[i + 1]) { parsed.slug = args[++i]; }
+    else if (args[i] === '--title' && args[i + 1]) { parsed.title = args[++i]; }
+    else if (args[i] === '--category-name' && args[i + 1]) { parsed.categoryName = args[++i]; }
+    else if (args[i] === '--tags' && args[i + 1]) { parsed.tags = JSON.parse(args[++i]); }
   }
 
-  if (!category) {
-    console.error('Usage: node scripts/generate-posts.js --category "tech-ai" --count 5');
-    console.error('\nAvailable categories (hardcoded):');
+  if (!parsed.mode) {
+    console.error(`Usage:
+  # 토픽 선택 (JSON 출력)
+  node scripts/generate-posts.js --pick-topics --category "tech-ai" --count 5
+
+  # 본문 저장 (stdin으로 본문 입력)
+  echo "본문..." | node scripts/generate-posts.js --write-post \\
+    --slug "my-post" --title "My Title" --category-name "Tech & AI" --tags '["tech"]'
+
+Available categories:`);
     for (const [key, val] of Object.entries(CATEGORY_TOPICS)) {
       console.error(`  ${key} — ${val.name}`);
     }
     if (Object.keys(DYNAMIC_CATEGORIES).length > 0) {
-      console.error('\nDynamic categories (from categories.json):');
       for (const [key, val] of Object.entries(DYNAMIC_CATEGORIES)) {
         console.error(`  ${key} — ${val.name}`);
       }
@@ -818,7 +779,7 @@ function parseArgs() {
     process.exit(1);
   }
 
-  return { category, count };
+  return parsed;
 }
 
 // ─── Generate date string (30-60 min before now) ───
@@ -842,10 +803,8 @@ function generateDate() {
   return iso;
 }
 
-// ─── Main ───
-async function main() {
-  const { category, count } = parseArgs();
-
+// ─── pick-topics: 사용 가능한 토픽을 JSON으로 출력 ───
+function pickTopics(category, count = 5) {
   const catKey = resolveCategory(category);
   if (!catKey) {
     console.error(`Unknown category: "${category}"`);
@@ -858,9 +817,7 @@ async function main() {
     console.error(`Category definition not found for: "${catKey}"`);
     process.exit(1);
   }
-  console.log(`Generating ${count} posts for ${catDef.name} (${catKey})`);
 
-  // Pick topics (avoid existing files)
   const existingFiles = new Set(
     fs.existsSync(POSTS_DIR)
       ? fs.readdirSync(POSTS_DIR).map(f => f.replace(/\.md$/, ''))
@@ -869,71 +826,73 @@ async function main() {
 
   let available = catDef.topics.filter(t => !existingFiles.has(t.slug));
 
-  // If topics exhausted, auto-generate new ones
   if (available.length < count) {
-    console.log(`Only ${available.length} pre-defined topics left, generating more...`);
-    const needed = count - available.length + 20; // generate extra buffer
+    const needed = count - available.length + 20;
     const generated = generateTopicsForCategory(catKey, catDef.name, catDef.tags, needed);
     const newTopics = generated.filter(t => !existingFiles.has(t.slug) && !catDef.topics.some(e => e.slug === t.slug));
     if (newTopics.length > 0) {
       catDef.topics.push(...newTopics);
       available = [...available, ...newTopics];
-      console.log(`  Added ${newTopics.length} auto-generated topics`);
     }
   }
 
-  if (available.length === 0) {
-    console.log('No available topics could be generated for this category.');
-    return;
+  const picked = available.slice(0, count);
+  console.log(JSON.stringify({
+    category: catKey,
+    categoryName: catDef.name,
+    tags: catDef.tags,
+    topics: picked,
+    postsDir: POSTS_DIR,
+  }));
+}
+
+// ─── write-post: stdin 본문 + 인자로 파일 저장 ───
+async function writePost(slug, title, categoryName, tags) {
+  if (!slug || !title || !categoryName || !tags) {
+    console.error('--write-post requires: --slug, --title, --category-name, --tags');
+    process.exit(1);
   }
 
-  const toGenerate = available.slice(0, count);
-  console.log(`Will generate ${toGenerate.length} posts (${available.length} available topics)`);
+  const body = await readStdin();
+  if (!body.trim()) {
+    console.error('Error: empty body from stdin');
+    process.exit(1);
+  }
 
   fs.mkdirSync(POSTS_DIR, { recursive: true });
 
-  let generated = 0;
-  for (const topic of toGenerate) {
-    const dateStr = generateDate();
-    const description = topic.title; // Use title as meta description base
+  const dateStr = generateDate();
+  const frontmatter = [
+    '---',
+    `title: "${title.replace(/"/g, '\\"')}"`,
+    `date: ${dateStr}`,
+    `description: "${title.replace(/"/g, '\\"')}"`,
+    `tags: ${JSON.stringify(tags)}`,
+    `categories: ["${categoryName}"]`,
+    `draft: false`,
+    '---',
+    '',
+  ].join('\n');
 
-    console.log(`\n[${generated + 1}/${toGenerate.length}] Generating: ${topic.title}`);
+  const content = frontmatter + body.trim() + '\n';
+  const filePath = path.join(POSTS_DIR, `${slug}.md`);
+  fs.writeFileSync(filePath, content);
+  console.log(JSON.stringify({ saved: filePath, slug, title }));
+}
 
-    let body;
-    try {
-      body = await generateContent(topic.title, catDef.name, catDef.tags);
-    } catch (err) {
-      console.error(`  ERROR generating content: ${err.message}`);
-      console.error('  Skipping this post.');
-      continue;
+// ─── Main ───
+async function main() {
+  const args = parseArgs();
+
+  if (args.mode === 'pick-topics') {
+    if (!args.category) {
+      console.error('--pick-topics requires --category');
+      process.exit(1);
     }
-
-    // Build Hugo markdown
-    const frontmatter = [
-      '---',
-      `title: "${topic.title.replace(/"/g, '\\"')}"`,
-      `date: ${dateStr}`,
-      `description: "${description.replace(/"/g, '\\"')}"`,
-      `tags: ${JSON.stringify(catDef.tags)}`,
-      `categories: ["${catDef.name}"]`,
-      `draft: false`,
-      '---',
-      '',
-    ].join('\n');
-
-    const content = frontmatter + body + '\n';
-    const filePath = path.join(POSTS_DIR, `${topic.slug}.md`);
-    fs.writeFileSync(filePath, content);
-    console.log(`  Saved: ${filePath}`);
-    generated++;
-
-    // Small delay between API calls
-    if (generated < toGenerate.length) {
-      await new Promise(r => setTimeout(r, 2000));
-    }
+    pickTopics(args.category, args.count || 5);
+  } else if (args.mode === 'write-post') {
+    await writePost(args.slug, args.title, args.categoryName, args.tags);
   }
-
-  console.log(`\nDone! Generated ${generated} posts for ${catDef.name}.`);
 }
 
 main().catch(err => {
