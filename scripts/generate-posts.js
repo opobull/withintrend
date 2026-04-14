@@ -15,6 +15,8 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..');
 const ENV_PATH = path.resolve(__dirname, '../../config/.env');
 const POSTS_DIR = path.join(ROOT, 'content', 'posts');
+const DATA_DIR = path.join(ROOT, 'data');
+const CATEGORIES_PATH = path.join(DATA_DIR, 'categories.json');
 
 // ─── Load env ───
 function loadEnv(filePath) {
@@ -556,10 +558,127 @@ const CATEGORY_TOPICS = {
   },
 };
 
-// ─── Slug-to-category mapping ───
+// ─── Load dynamic categories from categories.json ───
+function loadDynamicCategories() {
+  if (!fs.existsSync(CATEGORIES_PATH)) return {};
+  try {
+    const cats = JSON.parse(fs.readFileSync(CATEGORIES_PATH, 'utf8'));
+    const map = {};
+    for (const cat of cats) {
+      if (!CATEGORY_TOPICS[cat.slug]) {
+        map[cat.slug] = {
+          name: cat.name,
+          tags: cat.tags || [cat.slug.replace(/-/g, ' ')],
+          topics: [], // will be generated dynamically
+        };
+      }
+    }
+    return map;
+  } catch { return {}; }
+}
+
+const DYNAMIC_CATEGORIES = loadDynamicCategories();
+
+// ─── Topic generation (LLM-free) ───
+// Uses a two-part approach: a noun picked from the category + a frame sentence.
+// Each frame is a proven SEO title pattern.
+const TITLE_FRAMES = [
+  'Best {N} Products and Services in 2026',
+  'How to Save Money on {N} in 2026',
+  '{N} Tips and Tricks Every Beginner Should Know',
+  'Top 10 {N} Mistakes to Avoid',
+  '{N} for Beginners: A Complete Guide',
+  'Is {N} Worth It? An Honest Look',
+  '{N} Trends That Will Dominate 2026',
+  'How {N} Is Changing and What It Means for You',
+  'The Ultimate Guide to {N} on a Budget',
+  'Common {N} Problems and How to Fix Them',
+  'Best Online Resources for Learning About {N}',
+  'How to Get the Most Out of {N}',
+  '{N} Compared: What the Experts Recommend',
+  'Why {N} Matters More Than You Think',
+  'What Everyone Gets Wrong About {N}',
+  '{N} Explained: Everything You Need to Know',
+  'How to Choose the Right {N} for Your Needs',
+  'Best {N} Alternatives You Haven\'t Tried',
+  '{N} Safety Tips Every Consumer Should Know',
+  'How {N} Affects Your Daily Life',
+  '{N} in 2026: What Has Changed',
+  'Smart Ways to Approach {N} This Year',
+  'The Hidden Costs of {N} Nobody Talks About',
+  'Best Apps and Tools for {N} in 2026',
+  '{N} Reviews: Top Picks for Every Budget',
+  'How to Start with {N} If You Know Nothing',
+  'Key {N} Statistics and Facts for 2026',
+  '{N} Guide: From Basics to Advanced Tips',
+  'What to Expect from {N} in the Next Year',
+  'How Professionals Handle {N}',
+];
+
+function titleToSlug(title) {
+  return title
+    .toLowerCase()
+    .replace(/['']/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/--+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+function generateTopicsForCategory(catSlug, catName, catTags, count) {
+  // Build a list of noun phrases from category info
+  const nouns = [];
+  // From the category name — split on & / , and use each part
+  const nameParts = catName.split(/[&,\/]+/).map(s => s.trim()).filter(Boolean);
+  nouns.push(...nameParts);
+  // From tags (capitalized)
+  if (catTags) {
+    for (const tag of catTags) {
+      const capitalized = tag.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      if (!nouns.includes(capitalized)) nouns.push(capitalized);
+    }
+  }
+  // Slug as noun
+  const slugNoun = catSlug.replace(/-/g, ' ').split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  if (!nouns.includes(slugNoun)) nouns.push(slugNoun);
+
+  const topics = [];
+  const usedSlugs = new Set();
+
+  // Deterministic shuffle by category slug so each category gets a different frame order
+  const seed = catSlug.split('').reduce((a, c) => a + c.charCodeAt(0), 0);
+  const shuffled = [...TITLE_FRAMES].sort((a, b) => {
+    const ha = ((seed + a.charCodeAt(0)) * 31) % 997;
+    const hb = ((seed + b.charCodeAt(0)) * 31) % 997;
+    return ha - hb;
+  });
+
+  // Generate: for each noun × each frame, produce a topic
+  for (let round = 0; topics.length < count; round++) {
+    if (round >= nouns.length * 2) break; // safety: max 2 full rotations
+    for (const frame of shuffled) {
+      if (topics.length >= count) break;
+      const noun = nouns[(topics.length + round) % nouns.length];
+      const title = frame.replace(/\{N\}/g, noun);
+      const slug = titleToSlug(title);
+
+      if (!usedSlugs.has(slug)) {
+        usedSlugs.add(slug);
+        topics.push({ title, slug });
+      }
+    }
+  }
+
+  return topics;
+}
+
+// ─── Slug-to-category mapping (supports both hardcoded and dynamic) ───
 const SLUG_TO_KEY = {};
 for (const [key, val] of Object.entries(CATEGORY_TOPICS)) {
-  // Also store some aliases
+  SLUG_TO_KEY[key] = key;
+  SLUG_TO_KEY[val.name.toLowerCase()] = key;
+  SLUG_TO_KEY[val.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')] = key;
+}
+for (const [key, val] of Object.entries(DYNAMIC_CATEGORIES)) {
   SLUG_TO_KEY[key] = key;
   SLUG_TO_KEY[val.name.toLowerCase()] = key;
   SLUG_TO_KEY[val.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')] = key;
@@ -567,7 +686,45 @@ for (const [key, val] of Object.entries(CATEGORY_TOPICS)) {
 
 function resolveCategory(input) {
   const normalized = input.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-  return SLUG_TO_KEY[normalized] || SLUG_TO_KEY[input.toLowerCase()] || null;
+  // Check hardcoded first, then dynamic
+  if (SLUG_TO_KEY[normalized]) return SLUG_TO_KEY[normalized];
+  if (SLUG_TO_KEY[input.toLowerCase()]) return SLUG_TO_KEY[input.toLowerCase()];
+  // If still not found, check categories.json directly (for newly evolved categories)
+  if (fs.existsSync(CATEGORIES_PATH)) {
+    try {
+      const cats = JSON.parse(fs.readFileSync(CATEGORIES_PATH, 'utf8'));
+      const match = cats.find(c => c.slug === normalized || c.slug === input);
+      if (match) {
+        DYNAMIC_CATEGORIES[match.slug] = {
+          name: match.name,
+          tags: match.tags || [match.slug.replace(/-/g, ' ')],
+          topics: [],
+        };
+        SLUG_TO_KEY[match.slug] = match.slug;
+        return match.slug;
+      }
+    } catch {}
+  }
+
+  // Last resort: accept any slug and create a category definition on-the-fly.
+  // This handles categories that exist in fitness data (from Hugo frontmatter)
+  // but were never formally registered in categories.json.
+  const slug = normalized;
+  const name = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  DYNAMIC_CATEGORIES[slug] = {
+    name,
+    tags: [slug.replace(/-/g, ' ')],
+    topics: [],
+  };
+  SLUG_TO_KEY[slug] = slug;
+  console.log(`Auto-registered unknown category: "${slug}" as "${name}"`);
+  return slug;
+}
+
+function getCategoryDefinition(catKey) {
+  if (CATEGORY_TOPICS[catKey]) return CATEGORY_TOPICS[catKey];
+  if (DYNAMIC_CATEGORIES[catKey]) return DYNAMIC_CATEGORIES[catKey];
+  return null;
 }
 
 // ─── Gemini API ───
@@ -648,9 +805,15 @@ function parseArgs() {
 
   if (!category) {
     console.error('Usage: node scripts/generate-posts.js --category "tech-ai" --count 5');
-    console.error('\nAvailable categories:');
+    console.error('\nAvailable categories (hardcoded):');
     for (const [key, val] of Object.entries(CATEGORY_TOPICS)) {
       console.error(`  ${key} — ${val.name}`);
+    }
+    if (Object.keys(DYNAMIC_CATEGORIES).length > 0) {
+      console.error('\nDynamic categories (from categories.json):');
+      for (const [key, val] of Object.entries(DYNAMIC_CATEGORIES)) {
+        console.error(`  ${key} — ${val.name}`);
+      }
     }
     process.exit(1);
   }
@@ -690,7 +853,11 @@ async function main() {
     process.exit(1);
   }
 
-  const catDef = CATEGORY_TOPICS[catKey];
+  const catDef = getCategoryDefinition(catKey);
+  if (!catDef) {
+    console.error(`Category definition not found for: "${catKey}"`);
+    process.exit(1);
+  }
   console.log(`Generating ${count} posts for ${catDef.name} (${catKey})`);
 
   // Pick topics (avoid existing files)
@@ -700,9 +867,23 @@ async function main() {
       : []
   );
 
-  const available = catDef.topics.filter(t => !existingFiles.has(t.slug));
+  let available = catDef.topics.filter(t => !existingFiles.has(t.slug));
+
+  // If topics exhausted, auto-generate new ones
+  if (available.length < count) {
+    console.log(`Only ${available.length} pre-defined topics left, generating more...`);
+    const needed = count - available.length + 20; // generate extra buffer
+    const generated = generateTopicsForCategory(catKey, catDef.name, catDef.tags, needed);
+    const newTopics = generated.filter(t => !existingFiles.has(t.slug) && !catDef.topics.some(e => e.slug === t.slug));
+    if (newTopics.length > 0) {
+      catDef.topics.push(...newTopics);
+      available = [...available, ...newTopics];
+      console.log(`  Added ${newTopics.length} auto-generated topics`);
+    }
+  }
+
   if (available.length === 0) {
-    console.log('All topics for this category have already been generated.');
+    console.log('No available topics could be generated for this category.');
     return;
   }
 
