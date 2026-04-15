@@ -249,5 +249,17 @@
     ],
     "status": "mutant",
     "addedDate": "2026-04-12"
+  },
+  {
+    "slug": "photography",
+    "name": "Photography",
+    "tags": [
+      "photography",
+      "camera",
+      "photo tips",
+      "editing"
+    ],
+    "status": "mutant",
+    "addedDate": "2026-04-15"
   }
 ]
