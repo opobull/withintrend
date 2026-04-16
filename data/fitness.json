@@ -347,5 +347,18 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-15",
+    "source": "ga4",
+    "totalPostHits": 1,
+    "unmappedHits": 0,
+    "categories": {
+      "weird-interesting": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
