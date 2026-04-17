@@ -360,5 +360,18 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-16",
+    "source": "ga4",
+    "totalPostHits": 1,
+    "unmappedHits": 0,
+    "categories": {
+      "streaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
