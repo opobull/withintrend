@@ -16,6 +16,7 @@ const DATA_DIR = path.join(ROOT, 'data');
 const FITNESS_PATH = path.join(DATA_DIR, 'fitness.json');
 const CATEGORIES_PATH = path.join(DATA_DIR, 'categories.json');
 const EVOLUTION_LOG_PATH = path.join(DATA_DIR, 'evolution-log.json');
+const EVOLUTION_PLAN_PATH = path.join(DATA_DIR, 'evolution-plan.json');
 
 // ─── Mutation candidate pool (categories NOT in initial 20) ───
 const MUTATION_POOL = [
@@ -84,7 +85,6 @@ async function main() {
   if (ga4Data.length < 7 || totalRealVisits < 10) {
     console.log(`시드 모드 유지: GA4 데이터 ${ga4Data.length}일 (최소 7일), 실제 방문 ${totalRealVisits}건 (최소 10건)`);
     console.log('조건 미달 → 카테고리 균등 배분으로 글 생성 (진화 판단 생략)');
-    // 시드 모드: 진화 판단 없이 균등 생성하도록 결과 반환
     const result = {
       date: today(),
       mode: 'seed',
@@ -94,7 +94,21 @@ async function main() {
     const evolutionLog = loadJSON(EVOLUTION_LOG_PATH) || [];
     evolutionLog.push(result);
     saveJSON(EVOLUTION_LOG_PATH, evolutionLog);
-    console.log('\nSeed mode logged. Daily evolve task will use uniform distribution.');
+
+    const seedExpand = categories
+      .filter(c => c.status === 'expanding' || c.status === 'active')
+      .slice(0, 3)
+      .map(c => c.slug);
+    saveJSON(EVOLUTION_PLAN_PATH, {
+      date: today(),
+      mode: 'seed',
+      expand: seedExpand,
+      expandCount: 1,
+      mutation: null,
+      mutationCount: 0,
+      crossover: null,
+    });
+    console.log(`\nSeed plan written: ${seedExpand.join(', ')} (1 post each)`);
     return;
   }
 
@@ -184,48 +198,7 @@ async function main() {
   saveJSON(CATEGORIES_PATH, categories);
   console.log('Updated categories.json');
 
-  // 7. Generate posts for expanding categories
-  console.log('\n=== Generating Posts ===');
-  for (const slug of expandSlugs) {
-    console.log(`\nGenerating 10 posts for expanding category: ${slug}`);
-    try {
-      execSync(`node ${path.join(__dirname, 'generate-posts.js')} --category "${slug}" --count 10`, {
-        stdio: 'inherit',
-        cwd: ROOT,
-      });
-    } catch (err) {
-      console.error(`  Error generating posts for ${slug}: ${err.message}`);
-    }
-  }
-
-  // Generate 5 posts for mutation category
-  if (mutationCat) {
-    console.log(`\nGenerating 5 posts for mutant category: ${mutationCat.slug}`);
-    try {
-      execSync(`node ${path.join(__dirname, 'generate-posts.js')} --category "${mutationCat.slug}" --count 5`, {
-        stdio: 'inherit',
-        cwd: ROOT,
-      });
-    } catch (err) {
-      console.error(`  Error generating mutation posts: ${err.message}`);
-    }
-  }
-
-  // 8. Crossover: top 2 categories hybrid
-  if (expandSlugs.length >= 2) {
-    console.log(`\n🔀 Crossover: ${expandSlugs[0]} + ${expandSlugs[1]} hybrid topics`);
-    // Crossover posts would need special topic generation — for now, generate extra from top category
-    try {
-      execSync(`node ${path.join(__dirname, 'generate-posts.js')} --category "${expandSlugs[0]}" --count 5`, {
-        stdio: 'inherit',
-        cwd: ROOT,
-      });
-    } catch (err) {
-      console.error(`  Error generating crossover posts: ${err.message}`);
-    }
-  }
-
-  // 9. Log evolution entry
+  // 7. Log evolution entry
   const logEntry = {
     date: today(),
     generation: evolutionLog.length + 1,
@@ -240,19 +213,19 @@ async function main() {
   saveJSON(EVOLUTION_LOG_PATH, evolutionLog);
   console.log('\nEvolution log updated.');
 
-  // 10. Git commit + push
-  console.log('\n=== Git Commit & Push ===');
-  try {
-    execSync('git add -A', { cwd: ROOT, stdio: 'inherit' });
-    execSync(`git commit -m "Evolution gen ${logEntry.generation}: expand [${expandSlugs.join(', ')}], dormant [${dormantSlugs.join(', ')}]${mutationCat ? `, mutation: ${mutationCat.slug}` : ''}"`, {
-      cwd: ROOT,
-      stdio: 'inherit',
-    });
-    execSync('git push origin main', { cwd: ROOT, stdio: 'inherit' });
-    console.log('Git push complete!');
-  } catch (err) {
-    console.error(`Git error: ${err.message}`);
-  }
+  // 8. Write post-generation plan (consumed by cron agent + sub-agents)
+  saveJSON(EVOLUTION_PLAN_PATH, {
+    date: today(),
+    mode: 'evolve',
+    generation: logEntry.generation,
+    expand: expandSlugs,
+    expandCount: 2,
+    mutation: mutationCat ? mutationCat.slug : null,
+    mutationCount: mutationCat ? 2 : 0,
+    crossover: expandSlugs.length >= 2 ? { category: expandSlugs[0], count: 1 } : null,
+  });
+  console.log('\nEvolution plan written to data/evolution-plan.json');
+  console.log('(Post generation + git commit are the cron agent\'s responsibility.)');
 
   console.log('\n=== Evolution Cycle Complete ===');
 }
