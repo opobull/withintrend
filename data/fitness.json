@@ -414,5 +414,38 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-19",
+    "source": "ga4",
+    "totalPostHits": 5,
+    "unmappedHits": 0,
+    "categories": {
+      "fashion-and-style": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "gaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "pharmacy-retail": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "grocery": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]

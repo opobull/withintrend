@@ -1,23 +1,6 @@
 {
-  "lastRun": "2026-04-19T00:28:54.664Z",
+  "lastRun": "2026-04-20T00:28:43.316Z",
   "history": [
-    {
-      "date": "2026-03-30T23:41:00.392Z",
-      "totalUrls": 1085,
-      "checked": 7,
-      "indexed": 2,
-      "notIndexed": 5,
-      "errors": 0,
-      "submitted": 0,
-      "notIndexedUrls": [
-        "https://withintrend.org/tags/home-buying/",
-        "https://withintrend.org/tags/housing-market/",
-        "https://withintrend.org/posts/buy-first-home-step-by-step/",
-        "https://withintrend.org/tags/mortgage/",
-        "https://withintrend.org/tags/property/"
-      ],
-      "errorUrls": []
-    },
     {
       "date": "2026-03-31T15:04:33.843Z",
       "totalUrls": 1201,
@@ -40206,6 +40189,136 @@
         "https://withintrend.org/tags/stretching/"
       ],
       "errorUrls": []
+    },
+    {
+      "date": "2026-04-20T00:28:43.316Z",
+      "totalUrls": 1517,
+      "checked": 200,
+      "indexed": 82,
+      "notIndexed": 118,
+      "errors": 0,
+      "submitted": 118,
+      "notIndexedUrls": [
+        "https://withintrend.org/tags/interesting-facts/",
+        "https://withintrend.org/posts/",
+        "https://withintrend.org/posts/weird-interesting-compared-what-the-experts-recommend/",
+        "https://withintrend.org/posts/is-pharmacy-retail-worth-it-an-honest-look/",
+        "https://withintrend.org/categories/pharmacy-retail/",
+        "https://withintrend.org/categories/grocery/",
+        "https://withintrend.org/tags/grocery/",
+        "https://withintrend.org/posts/why-grocery-matters-more-than-you-think/",
+        "https://withintrend.org/posts/key-pharmacy-retail-statistics-and-facts-for-2026/",
+        "https://withintrend.org/posts/curiosity-trends-that-will-dominate-2026/",
+        "https://withintrend.org/posts/what-everyone-gets-wrong-about-grocery/",
+        "https://withintrend.org/posts/what-to-expect-from-grocery-in-the-next-year/",
+        "https://withintrend.org/tags/beginners-guide/",
+        "https://withintrend.org/tags/career/",
+        "https://withintrend.org/posts/how-to-start-with-pharmacy-retail-if-you-know-nothing/",
+        "https://withintrend.org/tags/pharmacy-basics/",
+        "https://withintrend.org/tags/food-prices/",
+        "https://withintrend.org/tags/hidden-costs/",
+        "https://withintrend.org/tags/shopping-psychology/",
+        "https://withintrend.org/tags/supermarket/",
+        "https://withintrend.org/posts/the-hidden-costs-of-grocery-nobody-talks-about/",
+        "https://withintrend.org/tags/general-knowledge/",
+        "https://withintrend.org/tags/pub-quiz/",
+        "https://withintrend.org/tags/trivia-tips/",
+        "https://withintrend.org/posts/trivia-tips-and-tricks-every-beginner-should-know/",
+        "https://withintrend.org/posts/how-professionals-handle-pharmacy-retail/",
+        "https://withintrend.org/tags/pharmacy-management/",
+        "https://withintrend.org/tags/pharmacy-operations/",
+        "https://withintrend.org/tags/professional-tips/",
+        "https://withintrend.org/posts/fun-facts-for-beginners-a-complete-guide/",
+        "https://withintrend.org/tags/budget-grocery/",
+        "https://withintrend.org/tags/meal-planning/",
+        "https://withintrend.org/tags/shopping-tips/",
+        "https://withintrend.org/posts/the-ultimate-guide-to-grocery-on-a-budget/",
+        "https://withintrend.org/posts/what-to-expect-from-weird-facts-in-the-next-year/",
+        "https://withintrend.org/tags/consumer/",
+        "https://withintrend.org/tags/health/",
+        "https://withintrend.org/posts/how-pharmacy-retail-affects-your-daily-life/",
+        "https://withintrend.org/tags/pharmacy/",
+        "https://withintrend.org/tags/retail/",
+        "https://withintrend.org/tags/budget/",
+        "https://withintrend.org/posts/top-10-grocery-mistakes-to-avoid/",
+        "https://withintrend.org/posts/why-weird-matters-more-than-you-think/",
+        "https://withintrend.org/posts/how-to-choose-the-right-pharmacy-retail-for-your-needs/",
+        "https://withintrend.org/posts/how-pharmacy-retail-is-changing-and-what-it-means-for-you/",
+        "https://withintrend.org/posts/key-grocery-statistics-and-facts-for-2026/",
+        "https://withintrend.org/posts/smart-ways-to-approach-grocery-this-year/",
+        "https://withintrend.org/posts/what-everyone-gets-wrong-about-interesting-facts/",
+        "https://withintrend.org/posts/how-to-save-money-on-pharmacy-retail-in-2026/",
+        "https://withintrend.org/posts/how-to-get-the-most-out-of-pharmacy-retail/",
+        "https://withintrend.org/posts/strangest-things-found-unexpected/",
+        "https://withintrend.org/posts/fascinating-abandoned-places-world/",
+        "https://withintrend.org/posts/weird-psychology-facts-behavior/",
+        "https://withintrend.org/posts/weird-inventions-made-millions/",
+        "https://withintrend.org/posts/fascinating-facts-dreams-sleep/",
+        "https://withintrend.org/posts/weirdest-competitions-actually-exist/",
+        "https://withintrend.org/posts/strange-historical-events-nobody-talks/",
+        "https://withintrend.org/posts/fascinating-facts-space-didnt-know/",
+        "https://withintrend.org/posts/optical-illusions-explained/",
+        "https://withintrend.org/posts/strangest-animals-never-heard/",
+        "https://withintrend.org/posts/bizarre-foods-people-actually-eat/",
+        "https://withintrend.org/posts/weird-science-experiments-changed-world/",
+        "https://withintrend.org/posts/strangest-coincidences-history/",
+        "https://withintrend.org/posts/weirdest-world-records-ever-set/",
+        "https://withintrend.org/posts/unsolved-mysteries-baffle-scientists/",
+        "https://withintrend.org/posts/mind-blowing-facts-human-body/",
+        "https://withintrend.org/posts/creepiest-places-earth-visit/",
+        "https://withintrend.org/posts/most-expensive-things-sold-auction/",
+        "https://withintrend.org/posts/hidden-gems-europe-2026/",
+        "https://withintrend.org/tags/tourism/",
+        "https://withintrend.org/categories/travel--places/",
+        "https://withintrend.org/tags/travel-tips/",
+        "https://withintrend.org/tags/budgeting/",
+        "https://withintrend.org/posts/create-budget-that-works/",
+        "https://withintrend.org/tags/personal-finance/",
+        "https://withintrend.org/posts/one-pot-pasta-recipes-lazy/",
+        "https://withintrend.org/tags/cooking/",
+        "https://withintrend.org/tags/meal-ideas/",
+        "https://withintrend.org/posts/easy-meal-prep-ideas-all-week/",
+        "https://withintrend.org/posts/air-fryer-recipes-beginners/",
+        "https://withintrend.org/tags/space/",
+        "https://withintrend.org/tags/dating-tips/",
+        "https://withintrend.org/tags/relationships/",
+        "https://withintrend.org/posts/2026-04-04-study-techniques-backed-by-science/",
+        "https://withintrend.org/tags/study-tips/",
+        "https://withintrend.org/tags/albums/",
+        "https://withintrend.org/categories/music/",
+        "https://withintrend.org/tags/music-streaming/",
+        "https://withintrend.org/tags/garden/",
+        "https://withintrend.org/tags/home-improvement/",
+        "https://withintrend.org/tags/interior-design/",
+        "https://withintrend.org/tags/plants/",
+        "https://withintrend.org/tags/family/",
+        "https://withintrend.org/posts/2026-04-04-managing-screen-time-kids-2026/",
+        "https://withintrend.org/tags/kids/",
+        "https://withintrend.org/tags/screen-time/",
+        "https://withintrend.org/tags/clothing/",
+        "https://withintrend.org/tags/mlb/",
+        "https://withintrend.org/categories/sports/",
+        "https://withintrend.org/tags/celebrities/",
+        "https://withintrend.org/posts/2026-04-04-celebrity-breakups-2026-timeline/",
+        "https://withintrend.org/tags/home-buying/",
+        "https://withintrend.org/tags/housing-market/",
+        "https://withintrend.org/tags/property/",
+        "https://withintrend.org/tags/cars/",
+        "https://withintrend.org/tags/electric-vehicles/",
+        "https://withintrend.org/posts/2026-04-04-ev-maintenance-cost-comparison-2026/",
+        "https://withintrend.org/tags/animal-care/",
+        "https://withintrend.org/tags/apartment-living/",
+        "https://withintrend.org/posts/2026-04-04-best-dog-breeds-apartment-living/",
+        "https://withintrend.org/posts/2026-04-04-weekend-diy-projects-under-50/",
+        "https://withintrend.org/tags/tips-and-tricks/",
+        "https://withintrend.org/tags/movies/",
+        "https://withintrend.org/tags/reviews/",
+        "https://withintrend.org/tags/streaming/",
+        "https://withintrend.org/posts/2026-04-04-best-streaming-movies-april-2026/",
+        "https://withintrend.org/tags/co-op-games/",
+        "https://withintrend.org/tags/console-gaming/"
+      ],
+      "errorUrls": []
     }
   ],
   "submissions": [
@@ -60164,6 +60277,714 @@
       "success": true,
       "date": "2026-04-19",
       "timestamp": "2026-04-19T00:28:54.613Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/interesting-facts/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:23.927Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:24.717Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/weird-interesting-compared-what-the-experts-recommend/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:25.464Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/is-pharmacy-retail-worth-it-an-honest-look/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:26.262Z"
+    },
+    {
+      "url": "https://withintrend.org/categories/pharmacy-retail/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:27.032Z"
+    },
+    {
+      "url": "https://withintrend.org/categories/grocery/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:27.816Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/grocery/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:28.552Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/why-grocery-matters-more-than-you-think/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:26.818Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/key-pharmacy-retail-statistics-and-facts-for-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:27.566Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/curiosity-trends-that-will-dominate-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:28.308Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/what-everyone-gets-wrong-about-grocery/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:29.078Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/what-to-expect-from-grocery-in-the-next-year/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:29.870Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/beginners-guide/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:30.619Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/career/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:31.363Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/how-to-start-with-pharmacy-retail-if-you-know-nothing/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:32.101Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/pharmacy-basics/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:32.847Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/food-prices/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:33.591Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/hidden-costs/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:34.352Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/shopping-psychology/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:35.099Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/supermarket/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:35.846Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/the-hidden-costs-of-grocery-nobody-talks-about/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:36.596Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/general-knowledge/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:37.342Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/pub-quiz/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:38.087Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/trivia-tips/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:38.845Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/trivia-tips-and-tricks-every-beginner-should-know/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:39.595Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/how-professionals-handle-pharmacy-retail/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:40.335Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/pharmacy-management/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:41.092Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/pharmacy-operations/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:41.854Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/professional-tips/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:42.602Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/fun-facts-for-beginners-a-complete-guide/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:43.339Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/budget-grocery/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:44.093Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/meal-planning/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:44.877Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/shopping-tips/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:45.621Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/the-ultimate-guide-to-grocery-on-a-budget/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:46.360Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/what-to-expect-from-weird-facts-in-the-next-year/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:47.131Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/consumer/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:47.888Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/health/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:48.652Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/how-pharmacy-retail-affects-your-daily-life/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:49.355Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/pharmacy/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:50.095Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/retail/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:50.815Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/budget/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:51.557Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/top-10-grocery-mistakes-to-avoid/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:52.302Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/why-weird-matters-more-than-you-think/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:53.026Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/how-to-choose-the-right-pharmacy-retail-for-your-needs/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:53.769Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/how-pharmacy-retail-is-changing-and-what-it-means-for-you/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:54.505Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/key-grocery-statistics-and-facts-for-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:55.247Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/smart-ways-to-approach-grocery-this-year/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:55.992Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/what-everyone-gets-wrong-about-interesting-facts/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:56.735Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/how-to-save-money-on-pharmacy-retail-in-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:57.486Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/how-to-get-the-most-out-of-pharmacy-retail/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:58.175Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/strangest-things-found-unexpected/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:58.902Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/fascinating-abandoned-places-world/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:57.072Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/weird-psychology-facts-behavior/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:57.843Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/weird-inventions-made-millions/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:58.596Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/fascinating-facts-dreams-sleep/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:27:59.338Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/weirdest-competitions-actually-exist/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:00.087Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/strange-historical-events-nobody-talks/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:00.824Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/fascinating-facts-space-didnt-know/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:01.585Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/optical-illusions-explained/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:02.329Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/strangest-animals-never-heard/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:03.065Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/bizarre-foods-people-actually-eat/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:03.775Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/weird-science-experiments-changed-world/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:04.521Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/strangest-coincidences-history/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:05.260Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/weirdest-world-records-ever-set/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:06.005Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/unsolved-mysteries-baffle-scientists/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:06.739Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/mind-blowing-facts-human-body/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:07.484Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/creepiest-places-earth-visit/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:08.207Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/most-expensive-things-sold-auction/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:08.951Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/hidden-gems-europe-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:09.704Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/tourism/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:10.417Z"
+    },
+    {
+      "url": "https://withintrend.org/categories/travel--places/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:11.161Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/travel-tips/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:11.901Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/budgeting/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:12.652Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/create-budget-that-works/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:13.376Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/personal-finance/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:14.127Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/one-pot-pasta-recipes-lazy/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:14.883Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/cooking/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:15.601Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/meal-ideas/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:16.349Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/easy-meal-prep-ideas-all-week/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:17.087Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/air-fryer-recipes-beginners/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:17.825Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/space/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:18.555Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/dating-tips/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:19.233Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/relationships/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:20.001Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/2026-04-04-study-techniques-backed-by-science/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:20.742Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/study-tips/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:21.481Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/albums/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:22.220Z"
+    },
+    {
+      "url": "https://withintrend.org/categories/music/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:22.955Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/music-streaming/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:23.688Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/garden/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:24.365Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/home-improvement/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:25.112Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/interior-design/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:25.815Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/plants/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:26.506Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/family/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:27.253Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/2026-04-04-managing-screen-time-kids-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:27.993Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/kids/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:28.736Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/screen-time/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:26.986Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/clothing/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:27.705Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/mlb/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:28.451Z"
+    },
+    {
+      "url": "https://withintrend.org/categories/sports/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:29.197Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/celebrities/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:29.942Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/2026-04-04-celebrity-breakups-2026-timeline/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:30.689Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/home-buying/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:31.427Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/housing-market/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:32.179Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/property/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:32.932Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/cars/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:33.676Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/electric-vehicles/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:34.367Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/2026-04-04-ev-maintenance-cost-comparison-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:35.110Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/animal-care/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:35.870Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/apartment-living/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:36.615Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/2026-04-04-best-dog-breeds-apartment-living/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:37.315Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/2026-04-04-weekend-diy-projects-under-50/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:38.060Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/tips-and-tricks/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:38.801Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/movies/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:39.551Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/reviews/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:40.291Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/streaming/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:41.033Z"
+    },
+    {
+      "url": "https://withintrend.org/posts/2026-04-04-best-streaming-movies-april-2026/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:41.780Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/co-op-games/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:42.518Z"
+    },
+    {
+      "url": "https://withintrend.org/tags/console-gaming/",
+      "success": true,
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T00:28:43.266Z"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "mode": "evolve",
-  "generation": 24,
+  "generation": 25,
   "expand": [
-    "grocery",
     "pharmacy-retail",
-    "weird-interesting"
+    "weird-interesting",
+    "movies-and-tv"
   ],
   "expandCount": 2,
   "mutation": null,
   "mutationCount": 0,
   "crossover": {
-    "category": "grocery",
+    "category": "pharmacy-retail",
     "count": 1
   }
 }
