@@ -1,15 +1,16 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "mode": "evolve",
-  "generation": 25,
+  "generation": 26,
   "expand": [
     "pharmacy-retail",
     "weird-interesting",
-    "movies-and-tv"
+    "fashion-and-style",
+    "gaming"
   ],
   "expandCount": 2,
-  "mutation": null,
-  "mutationCount": 0,
+  "mutation": "food-culture",
+  "mutationCount": 2,
   "crossover": {
     "category": "pharmacy-retail",
     "count": 1

@@ -447,5 +447,33 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-20",
+    "source": "ga4",
+    "totalPostHits": 7,
+    "unmappedHits": 0,
+    "categories": {
+      "movies-and-tv": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "diy-and-life-hacks": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "weird-and-interesting-facts": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "pharmacy-retail": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]

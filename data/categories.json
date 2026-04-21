@@ -68,7 +68,7 @@
       "console gaming",
       "game reviews"
     ],
-    "status": "active"
+    "status": "expanding"
   },
   {
     "slug": "movies-tv",
@@ -261,5 +261,17 @@
     ],
     "status": "mutant",
     "addedDate": "2026-04-15"
+  },
+  {
+    "slug": "food-culture",
+    "name": "Food Culture & Trends",
+    "tags": [
+      "food trends",
+      "food culture",
+      "restaurants",
+      "culinary"
+    ],
+    "status": "mutant",
+    "addedDate": "2026-04-21"
   }
 ]

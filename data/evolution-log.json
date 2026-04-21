@@ -1470,5 +1470,74 @@
         "avgPerPost": 0.7
       }
     ]
+  },
+  {
+    "date": "2026-04-21",
+    "generation": 26,
+    "fitnessDataDays": 14,
+    "expand": [
+      "pharmacy-retail",
+      "weird-interesting",
+      "fashion-and-style",
+      "gaming"
+    ],
+    "maintain": [
+      "cars-and-auto",
+      "grocery",
+      "tech-and-ai"
+    ],
+    "dormant": [
+      "diy-and-life-hacks",
+      "weird-and-interesting-facts",
+      "streaming",
+      "movies-and-tv"
+    ],
+    "mutation": "food-culture",
+    "scores": [
+      {
+        "slug": "pharmacy-retail",
+        "avgPerPost": 1.67
+      },
+      {
+        "slug": "weird-interesting",
+        "avgPerPost": 1.2
+      },
+      {
+        "slug": "fashion-and-style",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "gaming",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "cars-and-auto",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "grocery",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "tech-and-ai",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "diy-and-life-hacks",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "weird-and-interesting-facts",
+        "avgPerPost": 1
+      },
+      {
+        "slug": "streaming",
+        "avgPerPost": 0.7
+      },
+      {
+        "slug": "movies-and-tv",
+        "avgPerPost": 0.6
+      }
+    ]
   }
 ]
