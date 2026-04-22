@@ -475,5 +475,18 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-21",
+    "source": "ga4",
+    "totalPostHits": 1,
+    "unmappedHits": 0,
+    "categories": {
+      "celebrity-and-entertainment-news": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]

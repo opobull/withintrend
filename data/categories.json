@@ -236,7 +236,7 @@
       "fun facts",
       "curiosity"
     ],
-    "status": "expanding"
+    "status": "active"
   },
   {
     "slug": "sustainability",
@@ -273,5 +273,17 @@
     ],
     "status": "mutant",
     "addedDate": "2026-04-21"
+  },
+  {
+    "slug": "mental-health",
+    "name": "Mental Health",
+    "tags": [
+      "mental health",
+      "therapy",
+      "self-care",
+      "anxiety"
+    ],
+    "status": "mutant",
+    "addedDate": "2026-04-22"
   }
 ]
