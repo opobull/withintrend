@@ -4,7 +4,7 @@ date: 2026-03-07T16:00:00-05:00
 description: "A comprehensive guide to working as a cashier at Home Depot, including pay, benefits, daily duties, and real employee experiences."
 tags: ["home depot", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 Home Depot is the largest home improvement retailer in the world, and its cashiers are the final stop for every customer hauling lumber, paint cans, and power tools to the checkout line. It's a retail cashier job, but with a twist — the products are bigger, the carts are heavier, and the customers often have very specific questions about their projects.
@@ -94,6 +94,4 @@ The trade-offs include relentless credit card pushing, inconsistent hours, and t
 
 - [Working at Home Depot as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/home-depot-associate-review/)
 - [Working at Dollar General as an Associate: Pay, Pros, Cons & What to Expect](/posts/dollar-general-associate-review/)
-- [Working at Target as a Drive Up Associate: Pay, Pros, Cons & What to Expect](/posts/target-drive-up-associate-review/)
 - [Working at Burlington as an Associate: Pay, Pros, Cons & What to Expect](/posts/burlington-associate-review/)
-- [Working at Petco as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/petco-associate-review/)

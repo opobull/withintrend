@@ -4,7 +4,7 @@ date: 2026-03-20T09:30:00-05:00
 description: "A comprehensive guide to working as a cashier at Macy's — covering pay, hours, pros, cons, and tips from real employee experiences."
 tags: ["Macy's", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -90,7 +90,6 @@ This role is best suited for students, people seeking supplemental income, or an
 
 ## You Might Also Like
 
-- [Working at PetSmart as a Dog Trainer: Pay, Pros, Cons & What to Expect](/posts/petsmart-dog-trainer-review/)
 - [Working at Nordstrom Rack as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/nordstrom-rack-associate-review/)
 - [Working at Best Buy as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/best-buy-sales-associate-review/)
 - [Working at Dollar General as an Associate: Pay, Pros, Cons & What to Expect](/posts/dollar-general-associate-review/)

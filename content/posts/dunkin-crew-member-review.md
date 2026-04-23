@@ -4,7 +4,7 @@ date: 2026-03-12T11:30:00-05:00
 description: "A complete guide to working as a Dunkin' crew member, covering pay, daily tasks, pros, cons, and insider tips from real employees."
 tags: ["dunkin", "crew member", "coffee & beverage", "part-time jobs", "job reviews"]
 categories: ["Coffee & Beverage"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -74,6 +74,4 @@ Working at Dunkin' as a crew member is a fast-paced, coffee-driven experience th
 
 ## You Might Also Like
 
-- [Working at Target Starbucks as a Barista: Pay, Pros, Cons & What to Expect](/posts/target-starbucks-barista-review/)
 - [Working at Dunkin' as a Shift Leader: Pay, Pros, Cons & What to Expect](/posts/dunkin-shift-leader-review/)
-- [Working at Starbucks as a Shift Supervisor: Pay, Pros, Cons & What to Expect](/posts/starbucks-shift-supervisor-review/)

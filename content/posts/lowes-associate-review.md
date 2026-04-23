@@ -4,7 +4,7 @@ date: 2026-03-08T00:00:00+09:00
 description: "What's it really like working at Lowe's? Pay, hours, pros, cons, and tips from real associates."
 tags: ["lowes", "sales associate", "retail jobs", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 Lowe's is the second-largest home improvement retailer in the United States, with nearly 1,750 stores across the country. As a direct competitor to Home Depot, Lowe's offers a similar warehouse-style retail experience — big stores, heavy products, and customers who need help with everything from fixing a leaky faucet to planning a full kitchen renovation. But how does Lowe's stack up as an employer? Is it a good place to work part-time, or does the big-box experience come with big-box headaches? Keep reading.
@@ -93,6 +93,3 @@ This position is best suited for people who are interested in home improvement, 
 
 - [Working at Family Dollar as an Associate: Pay, Pros, Cons & What to Expect](/posts/family-dollar-associate-review/)
 - [Working at Macy's as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/macys-sales-associate-review/)
-- [Working at Marshalls as an Associate: Pay, Pros, Cons & What to Expect](/posts/marshalls-associate-review/)
-- [Working at The Salvation Army as a Store Associate: Pay, Pros, Cons & What to Expect](/posts/salvation-army-associate-review/)
-- [Working at PetSmart as a Groomer: Pay, Pros, Cons & What to Expect](/posts/petsmart-groomer-review/)

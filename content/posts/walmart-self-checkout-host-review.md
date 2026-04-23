@@ -4,7 +4,7 @@ date: 2026-03-09T04:00:00+09:00
 description: "Everything you need to know about working as a Walmart Self-Checkout Host — from daily duties and pay to the real pros and cons from employee reviews."
 tags: ["walmart", "self-checkout host", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -88,8 +88,4 @@ Working as a Walmart Self-Checkout Host is one of the least physically demanding
 
 ## You Might Also Like
 
-- [Working at Lowe's as a Cashier: Pay, Pros, Cons & What to Expect](/posts/lowes-cashier-review/)
-- [Working at PetSmart as a Dog Trainer: Pay, Pros, Cons & What to Expect](/posts/petsmart-dog-trainer-review/)
-- [Working at Ross Stores as a Retail Associate: Pay, Pros, Cons & What to Expect](/posts/ross-stores-associate-review/)
-- [Working at Marshalls as an Associate: Pay, Pros, Cons & What to Expect](/posts/marshalls-associate-review/)
 - [Working at Bath & Body Works as an Associate: Pay, Pros, Cons & What to Expect](/posts/bath-and-body-works-associate-review/)

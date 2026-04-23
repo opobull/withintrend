@@ -4,7 +4,7 @@ date: 2026-03-10T06:15:00-05:00
 description: "A complete guide to working as a delivery driver at Lowe's Home Improvement, covering pay, daily duties, pros, cons, and real employee insights."
 tags: ["lowes", "delivery driver", "logistics", "part-time jobs", "job reviews"]
 categories: ["Logistics & Shipping"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -96,6 +96,5 @@ However, the disconnect between pay and physical demands is a real issue that ma
 
 - [Working as a UPS Driver Helper: Pay, Pros, Cons & What to Expect](/posts/ups-driver-helper-review/)
 - [Working as a USPS Mail Carrier: Pay, Pros, Cons & What to Expect](/posts/usps-mail-carrier-review/)
-- [Working as a USPS Clerk: Pay, Pros, Cons & What to Expect](/posts/usps-clerk-review/)
 - [Working as a FedEx Ground Driver: Pay, Pros, Cons & What to Expect](/posts/fedex-ground-driver-review/)
 - [Working at FedEx as a Package Handler: Pay, Pros, Cons & What to Expect](/posts/fedex-package-handler-review/)

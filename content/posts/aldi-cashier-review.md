@@ -4,7 +4,7 @@ date: 2026-03-11T13:00:00-05:00
 description: "A complete guide to working as a part-time cashier at ALDI, covering pay, daily responsibilities, pros, cons, and advice for new hires."
 tags: ["ALDI", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -88,8 +88,5 @@ Being an ALDI cashier is one of the better-paying part-time grocery jobs availab
 
 ## You Might Also Like
 
-- [Working as a Costco Cashier: Pay, Pros, Cons & What to Expect](/posts/costco-cashier-review/)
-- [Working at Kroger as a Deli Clerk: Pay, Pros, Cons & What to Expect](/posts/kroger-deli-clerk-review/)
 - [Working at Kroger as a Cashier: Pay, Pros, Cons & What to Expect](/posts/kroger-cashier-review/)
 - [Working at H-E-B as a Cashier: Pay, Pros, Cons & What to Expect](/posts/heb-cashier-review/)
-- [Working at H-E-B as a Curbside Associate: Pay, Pros, Cons & What to Expect](/posts/heb-curbside-associate-review/)

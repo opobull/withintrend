@@ -4,7 +4,7 @@ date: 2026-03-16T08:15:00-05:00
 description: "Everything you need to know about working as an Instacart Shopper, including pay, daily routine, pros, cons, and tips for maximizing earnings."
 tags: ["Instacart", "shopper", "delivery", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -92,8 +92,6 @@ Instacart shopping is a viable side hustle for people who want maximum flexibili
 
 ## You Might Also Like
 
-- [Working as a Lyft Driver: Pay, Pros, Cons & What to Expect](/posts/lyft-driver-review/)
 - [Working as a Gopuff Driver: Pay, Pros, Cons & What to Expect](/posts/gopuff-driver-review/)
 - [Working as a DoorDash Dasher: Pay, Pros, Cons & What to Expect](/posts/doordash-dasher-review/)
 - [Working as a Shipt Shopper: Pay, Pros, Cons & What to Expect](/posts/shipt-shopper-review/)
-- [Working at Jimmy John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-driver-review/)

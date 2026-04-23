@@ -4,7 +4,7 @@ date: 2026-03-16T09:30:00-05:00
 description: "A comprehensive guide to working as a DoorDash Dasher, covering pay structure, daily routine, pros, cons, and tips for maximizing earnings."
 tags: ["DoorDash", "dasher", "delivery", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -93,5 +93,4 @@ DoorDash Dashing is best understood as a flexible, accessible side gig rather th
 - [Working as a Gopuff Driver: Pay, Pros, Cons & What to Expect](/posts/gopuff-driver-review/)
 - [Working as an Amazon Delivery Driver (DSP): Pay, Pros, Cons & What to Expect](/posts/amazon-delivery-driver-review/)
 - [Working as an Instacart Shopper: Pay, Pros, Cons & What to Expect](/posts/instacart-shopper-review/)
-- [Working at Jimmy John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-driver-review/)
 - [Working as a Shipt Shopper: Pay, Pros, Cons & What to Expect](/posts/shipt-shopper-review/)

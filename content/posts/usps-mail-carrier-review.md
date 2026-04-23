@@ -4,7 +4,7 @@ date: 2026-03-16T15:00:00+00:00
 description: "Everything you need to know about working as a USPS mail carrier, including pay, benefits, hours, and what real carriers report about the job."
 tags: ["usps", "mail carrier", "logistics & shipping", "part-time jobs", "job reviews"]
 categories: ["Logistics & Shipping"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -86,4 +86,3 @@ USPS mail carrier is ideal for people who want a long-term career with excellent
 - [Working at UPS as a Package Handler: Pay, Pros, Cons & What to Expect](/posts/ups-package-handler-review/)
 - [Working as a FedEx Ground Driver: Pay, Pros, Cons & What to Expect](/posts/fedex-ground-driver-review/)
 - [Working as a UPS Driver Helper: Pay, Pros, Cons & What to Expect](/posts/ups-driver-helper-review/)
-- [Working as a USPS Clerk: Pay, Pros, Cons & What to Expect](/posts/usps-clerk-review/)

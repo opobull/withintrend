@@ -4,7 +4,7 @@ date: 2026-03-13T09:15:00-06:00
 description: "A comprehensive look at what it's like working as a Whataburger team member — covering pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["whataburger", "team member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -92,6 +92,4 @@ If you thrive in high-energy environments, don't mind being on your feet for hou
 
 - [Working at Wendy's as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/wendys-crew-member-review/)
 - [Working at Five Guys as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/five-guys-crew-member-review/)
-- [Working at Burger King as a Shift Coordinator: Pay, Pros, Cons & What to Expect](/posts/burger-king-shift-coordinator-review/)
 - [Working at In-N-Out Burger as an Associate: Pay, Pros, Cons & What to Expect](/posts/in-n-out-associate-review/)
-- [Working at Jack in the Box as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/jack-in-the-box-crew-review/)

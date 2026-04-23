@@ -4,7 +4,7 @@ date: 2026-03-23T11:45:00+09:00
 description: "A detailed guide to working as a beauty consultant at CVS Health, covering pay, commission, daily duties, and real employee experiences."
 tags: ["cvs", "beauty consultant", "beauty", "part-time jobs", "job reviews"]
 categories: ["Pharmacy & Beauty"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -98,8 +98,5 @@ The reality, however, includes frequent reassignment to non-beauty tasks, mandat
 
 ## You Might Also Like
 
-- [Working at CVS as a Cashier: Pay, Pros, Cons & What to Expect](/posts/cvs-cashier-review/)
 - [Working at Sephora as a Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/sephora-beauty-advisor-review/)
-- [Working at Walgreens as a Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/walgreens-beauty-advisor-review/)
-- [Working at Rite Aid as a Store Associate: Pay, Pros, Cons & What to Expect](/posts/rite-aid-associate-review/)
 - [Working at Sephora as a Cashier: Pay, Pros, Cons & What to Expect](/posts/sephora-cashier-review/)

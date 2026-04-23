@@ -4,7 +4,7 @@ date: 2026-03-08T14:00:00-05:00
 description: "Everything you need to know about driving for Amazon Flex, including pay, vehicle requirements, flexibility, and real driver experiences."
 tags: ["amazon", "flex driver", "delivery", "gig work", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: true
+draft: false
 ---
 
 Amazon Flex lets everyday people deliver packages using their own vehicles, picking up delivery blocks through an app whenever they want. It sounds like the perfect side hustle — drive when you want, earn extra cash, no boss looking over your shoulder. But is the reality as good as the pitch?
@@ -92,6 +92,4 @@ However, the hidden costs of vehicle expenses, self-employment taxes, and the co
 
 - [Working as an Amazon Delivery Driver (DSP): Pay, Pros, Cons & What to Expect](/posts/amazon-delivery-driver-review/)
 - [Working as an Uber Driver: Pay, Pros, Cons & What to Expect](/posts/uber-driver-review/)
-- [Working at Jimmy John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-driver-review/)
-- [Working at Pizza Hut as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/pizza-hut-delivery-driver-review/)
 - [Working as a DoorDash Dasher: Pay, Pros, Cons & What to Expect](/posts/doordash-dasher-review/)

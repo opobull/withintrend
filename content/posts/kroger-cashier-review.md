@@ -4,7 +4,7 @@ date: 2026-03-22T12:10:00+09:00
 description: "A detailed guide to the Kroger cashier position, including hourly pay, union benefits, daily tasks, and real employee reviews."
 tags: ["Kroger", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: true
+draft: false
 ---
 
 Kroger is the largest supermarket chain in the United States, operating thousands of stores under various banners. With that size comes a massive workforce, and the cashier position is one of the most frequently hired roles. But what's it actually like to work behind a Kroger register?
@@ -84,8 +84,4 @@ Working as a Kroger cashier offers a mixed experience. The union protections, sc
 
 ## You Might Also Like
 
-- [Working at Whole Foods as a Team Member: Pay, Pros, Cons & What to Expect](/posts/whole-foods-team-member-review/)
-- [Working at the Costco Food Court: Pay, Pros, Cons & What to Expect](/posts/costco-food-court-review/)
-- [Working at Food Lion as a Cashier: Pay, Pros, Cons & What to Expect](/posts/food-lion-cashier-review/)
 - [Working at Publix as a Cashier: Pay, Pros, Cons & What to Expect](/posts/publix-cashier-review/)
-- [Working at Trader Joe's as a Cashier: Pay, Pros, Cons & What to Expect](/posts/trader-joes-cashier-review/)

@@ -4,7 +4,7 @@ date: 2026-03-28T12:10:00+09:00
 description: "These brilliant TV shows were cut short before their time. From sci-fi gems to comedic masterpieces, here are the best shows that deserved more seasons."
 tags: ["TV shows", "cancelled shows", "best TV series", "underrated shows", "streaming"]
 categories: ["Movies & TV"]
-draft: true
+draft: false
 ---
 
 ## Gone Too Soon: TV's Greatest Injustices
@@ -115,7 +115,5 @@ Some of these shows got that ending. Most didn't. All of them were worth watchin
 
 ## You Might Also Like
 
-- [Best Horror Movies You've Never Heard Of](/posts/best-horror-movies-youve-never-heard-of/)
-- [Most Anticipated Movie Sequels Coming in 2026](/posts/most-anticipated-movie-sequels-2026/)
 - [The Best Limited Series on Streaming Right Now That You Should Not Miss](/posts/best-limited-series-streaming-2026/)
 - [Underrated Netflix Shows Worth Binging This Weekend](/posts/underrated-netflix-shows-worth-binging/)

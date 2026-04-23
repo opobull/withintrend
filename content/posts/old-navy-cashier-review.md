@@ -4,7 +4,7 @@ date: 2026-03-18T04:45:00-05:00
 description: "Everything you need to know about working as an Old Navy cashier, from hourly pay and daily tasks to honest pros and cons from real employees."
 tags: ["Old Navy", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -88,6 +88,4 @@ Working as an Old Navy cashier is a practical choice for people who want an entr
 
 - [Working at Best Buy as a Warehouse Associate: Pay, Pros, Cons & What to Expect](/posts/best-buy-warehouse-review/)
 - [Working at Family Dollar as an Associate: Pay, Pros, Cons & What to Expect](/posts/family-dollar-associate-review/)
-- [Working at TJ Maxx as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/tj-maxx-associate-review/)
 - [Working as a Home Depot Cashier: Pay, Pros, Cons & What to Expect](/posts/home-depot-cashier-review/)
-- [Working at PetSmart as a Dog Trainer: Pay, Pros, Cons & What to Expect](/posts/petsmart-dog-trainer-review/)

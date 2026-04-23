@@ -4,7 +4,7 @@ date: 2026-03-18T09:15:00-05:00
 description: "A comprehensive look at what it's really like working as a Dollar General associate, including pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["Dollar General", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -88,6 +88,4 @@ Working at Dollar General as an associate is best suited for people who need a f
 
 - [Working at Office Depot as an Associate: Pay, Pros, Cons & What to Expect](/posts/office-depot-associate-review/)
 - [Working at Lowe's as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/lowes-associate-review/)
-- [Working at TJ Maxx as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/tj-maxx-associate-review/)
-- [Working at Lowe's as a Stocker: Pay, Pros, Cons & What to Expect](/posts/lowes-stocker-review/)
 - [Working at Walmart as a Cashier: Pay, Pros, Cons & What to Expect](/posts/walmart-cashier-review/)

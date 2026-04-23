@@ -4,7 +4,7 @@ date: 2026-03-16T05:45:00-05:00
 description: "A comprehensive guide to working as a Shipt Shopper, covering pay, daily duties, pros, cons, and tips for maximizing your earnings."
 tags: ["Shipt", "shopper", "delivery", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -94,4 +94,3 @@ Shipt stands out among grocery delivery gigs for its emphasis on personal custom
 - [Working as a Grubhub Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/grubhub-driver-review/)
 - [Working as a Gopuff Driver: Pay, Pros, Cons & What to Expect](/posts/gopuff-driver-review/)
 - [Working as a DoorDash Dasher: Pay, Pros, Cons & What to Expect](/posts/doordash-dasher-review/)
-- [Working at Jimmy John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-driver-review/)

@@ -4,7 +4,7 @@ date: 2026-03-28T21:09:00+09:00
 description: "From gripping thrillers to emotional dramas, here are the best limited series currently streaming in 2026 that deserve your attention."
 tags: ["movies", "TV shows", "streaming", "limited series", "entertainment"]
 categories: ["Movies & TV"]
-draft: true
+draft: false
 ---
 
 ## Why Limited Series Are Dominating Streaming in 2026
@@ -67,5 +67,3 @@ Pick one from this list, clear your evening schedule, and give yourself permissi
 
 - [Underrated Netflix Shows Worth Binging This Weekend](/posts/underrated-netflix-shows-worth-binging/)
 - [TV Shows That Got Cancelled Too Soon](/posts/tv-shows-that-got-cancelled-too-soon/)
-- [Most Anticipated Movie Sequels Coming in 2026](/posts/most-anticipated-movie-sequels-2026/)
-- [Best Horror Movies You've Never Heard Of](/posts/best-horror-movies-youve-never-heard-of/)

@@ -4,7 +4,7 @@ date: 2026-03-12T12:00:00-05:00
 description: "A detailed review of the Dunkin' shift leader position, including pay, responsibilities, pros, cons, and tips from real employees."
 tags: ["dunkin", "shift leader", "coffee & beverage", "part-time jobs", "job reviews"]
 categories: ["Coffee & Beverage"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -72,6 +72,4 @@ The Dunkin' shift leader position is an excellent stepping stone for workers loo
 
 ## You Might Also Like
 
-- [Working at Target Starbucks as a Barista: Pay, Pros, Cons & What to Expect](/posts/target-starbucks-barista-review/)
 - [Working at Dunkin' as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/dunkin-crew-member-review/)
-- [Working at Starbucks as a Shift Supervisor: Pay, Pros, Cons & What to Expect](/posts/starbucks-shift-supervisor-review/)

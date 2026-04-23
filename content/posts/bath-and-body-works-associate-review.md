@@ -4,7 +4,7 @@ date: 2026-03-18T06:15:00-05:00
 description: "An in-depth look at working as a Bath & Body Works sales associate, including pay, daily tasks, perks, and real employee experiences."
 tags: ["Bath and Body Works", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -86,7 +86,6 @@ Working at Bath & Body Works as an associate is ideal for people who enjoy a ple
 
 ## You Might Also Like
 
-- [Working at Petco as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/petco-associate-review/)
 - [Working at Walmart as a Stocker: Pay, Pros, Cons & What to Expect](/posts/walmart-stocker-review/)
 - [Working at Best Buy as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/best-buy-sales-associate-review/)
 - [Working at Burlington as an Associate: Pay, Pros, Cons & What to Expect](/posts/burlington-associate-review/)

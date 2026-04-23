@@ -4,7 +4,7 @@ date: 2026-03-09T05:00:00+09:00
 description: "A complete guide to working as a Walmart stocker — covering pay, overnight vs. day shifts, daily tasks, and honest employee reviews."
 tags: ["walmart", "stocker", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -90,6 +90,5 @@ Working as a Walmart stocker is a physically demanding but accessible job that o
 
 - [Working at Family Dollar as an Associate: Pay, Pros, Cons & What to Expect](/posts/family-dollar-associate-review/)
 - [Working at Office Depot as an Associate: Pay, Pros, Cons & What to Expect](/posts/office-depot-associate-review/)
-- [Working at Petco as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/petco-associate-review/)
 - [Working at Best Buy as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/best-buy-sales-associate-review/)
 - [Working at Dollar General as an Associate: Pay, Pros, Cons & What to Expect](/posts/dollar-general-associate-review/)

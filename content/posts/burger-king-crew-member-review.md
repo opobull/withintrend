@@ -4,7 +4,7 @@ date: 2026-03-11T10:00:00-05:00
 description: "A comprehensive look at what it's really like working as a crew member at Burger King, including pay, daily duties, pros, cons, and advice for new hires."
 tags: ["Burger King", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -86,8 +86,4 @@ Working as a Burger King crew member is a straightforward entry-level fast food 
 
 ## You Might Also Like
 
-- [Working at Panda Express in the Kitchen: Pay, Pros, Cons & What to Expect](/posts/panda-express-kitchen-review/)
-- [Working at Papa John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/papa-johns-delivery-driver-review/)
-- [Working at Jimmy John's as an Inshop Worker: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-inshop-review/)
-- [Working at Subway as a Sandwich Artist: Pay, Pros, Cons & What to Expect](/posts/subway-sandwich-artist-review/)
 - [Working at Wendy's as a Shift Manager: Pay, Pros, Cons & What to Expect](/posts/wendys-shift-manager-review/)

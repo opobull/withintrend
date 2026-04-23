@@ -4,7 +4,7 @@ date: 2026-03-11T11:30:00-05:00
 description: "A complete guide to working as a Wendy's crew member, covering pay, daily tasks, honest pros and cons, and tips for new hires."
 tags: ["Wendy's", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -90,8 +90,3 @@ Working at Wendy's as a crew member is a classic entry-level fast food job — i
 
 ## You Might Also Like
 
-- [Working at Papa John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/papa-johns-delivery-driver-review/)
-- [Working at Taco Bell as a Team Member: Pay, Pros, Cons & What to Expect](/posts/taco-bell-team-member-review/)
-- [Working at Popeyes as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/popeyes-crew-member-review/)
-- [Working in the Chick-fil-A Kitchen (BOH): Pay, Pros, Cons & What to Expect](/posts/chick-fil-a-kitchen-review/)
-- [Working at Chipotle as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/chipotle-crew-member-review/)

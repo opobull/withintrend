@@ -4,7 +4,7 @@ date: 2026-03-22T12:20:00+09:00
 description: "A complete guide to the Publix deli clerk position, covering pay, daily responsibilities, pros, cons, and advice for new hires."
 tags: ["Publix", "deli clerk", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: true
+draft: false
 ---
 
 The Publix deli is one of the busiest departments in the store, and working there as a deli clerk is a very different experience from other positions in the company. If you're considering this role, you should know upfront that it's fast-paced, physically demanding, and requires a certain type of resilience — but it also comes with real rewards.
@@ -83,7 +83,5 @@ The Publix deli clerk position is best suited for workers who thrive in fast-pac
 ## You Might Also Like
 
 - [Working at 7-Eleven as a Clerk: Pay, Pros, Cons & What to Expect](/posts/7-eleven-clerk-review/)
-- [Working at Circle K as a Clerk: Pay, Pros, Cons & What to Expect](/posts/circle-k-clerk-review/)
-- [Working as a Costco Cashier: Pay, Pros, Cons & What to Expect](/posts/costco-cashier-review/)
 - [Working at H-E-B as a Cashier: Pay, Pros, Cons & What to Expect](/posts/heb-cashier-review/)
 - [Working as an Amazon Fresh Shopper: Pay, Pros, Cons & What to Expect](/posts/amazon-fresh-shopper-review/)

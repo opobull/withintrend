@@ -4,7 +4,7 @@ date: 2026-03-19T14:15:00-05:00
 description: "Everything you need to know about working as a JCPenney associate — pay, scheduling, pros, cons, and real employee insights."
 tags: ["JCPenney", "associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -93,7 +93,5 @@ This role is best suited for people who value flexibility over financial stabili
 ## You Might Also Like
 
 - [Working at Costco as a Warehouse Associate: Pay, Pros, Cons & What to Expect](/posts/costco-warehouse-associate-review/)
-- [Working at Kohl's as a Cashier: Pay, Pros, Cons & What to Expect](/posts/kohls-cashier-review/)
-- [Working at Foot Locker as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/footlocker-associate-review/)
 - [Working at Dollar General as an Associate: Pay, Pros, Cons & What to Expect](/posts/dollar-general-associate-review/)
 - [Working at Dollar Tree as a Cashier: Pay, Pros, Cons & What to Expect](/posts/dollar-tree-cashier-review/)

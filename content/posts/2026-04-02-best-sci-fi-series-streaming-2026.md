@@ -4,7 +4,7 @@ date: 2026-04-02T21:21:00+09:00
 description: "From hard science fiction to space opera, these are the 8 best sci-fi TV series available on streaming platforms in 2026 that deserve your attention."
 tags: ["movies", "TV shows", "streaming", "sci-fi", "entertainment"]
 categories: ["Movies & TV"]
-draft: true
+draft: false
 ---
 
 ## Science Fiction Television Has Never Been Better

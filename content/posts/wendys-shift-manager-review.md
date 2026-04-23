@@ -4,7 +4,7 @@ date: 2026-03-11T10:45:00-05:00
 description: "Everything you need to know about being a Wendy's shift manager, from pay and responsibilities to honest pros and cons from real employees."
 tags: ["Wendy's", "shift manager", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -88,8 +88,4 @@ Being a Wendy's shift manager is a demanding role that offers moderate pay and v
 
 ## You Might Also Like
 
-- [Working at Arby's as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/arbys-crew-member-review/)
-- [Working at Chipotle as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/chipotle-crew-member-review/)
-- [Working at Panda Express in the Kitchen: Pay, Pros, Cons & What to Expect](/posts/panda-express-kitchen-review/)
 - [Working at Chick-fil-A as a Team Member: Pay, Pros, Cons & What to Expect](/posts/chick-fil-a-team-member-review/)
-- [Working at Wingstop as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/wingstop-crew-member-review/)

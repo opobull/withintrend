@@ -4,7 +4,7 @@ date: 2026-03-08T16:00:00-05:00
 description: "A comprehensive look at working as an Amazon DSP delivery driver, covering pay, daily routines, benefits, and real driver experiences."
 tags: ["amazon", "delivery driver", "DSP", "delivery & gig", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: true
+draft: false
 ---
 
 You've seen the blue Amazon vans everywhere — weaving through neighborhoods, double-parked on side streets, and making the seemingly impossible happen: next-day delivery on everything from phone chargers to furniture. But what's it actually like to be the person behind the wheel?
@@ -91,7 +91,5 @@ The downsides are significant, though. Route overloads, physical exhaustion, wea
 ## You Might Also Like
 
 - [Working as a DoorDash Dasher: Pay, Pros, Cons & What to Expect](/posts/doordash-dasher-review/)
-- [Working at Jimmy John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-driver-review/)
 - [Working as a Grubhub Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/grubhub-driver-review/)
 - [Working as an Uber Driver: Pay, Pros, Cons & What to Expect](/posts/uber-driver-review/)
-- [Working as a Walmart Spark Driver: Pay, Pros, Cons & What to Expect](/posts/spark-driver-walmart-review/)

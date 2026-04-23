@@ -4,7 +4,7 @@ date: 2026-03-10T08:30:00-05:00
 description: "Everything you need to know about working as a Home Depot freight team associate, including pay, overnight schedule, pros, cons, and tips."
 tags: ["home depot", "freight team", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -94,8 +94,4 @@ That said, the overnight lifestyle isn't for everyone. If you struggle with disr
 
 ## You Might Also Like
 
-- [Working at Petco as a Groomer: Pay, Pros, Cons & What to Expect](/posts/petco-groomer-review/)
-- [Working at Ross Stores as a Retail Associate: Pay, Pros, Cons & What to Expect](/posts/ross-stores-associate-review/)
-- [Working at Staples Print Center: Pay, Pros, Cons & What to Expect](/posts/staples-print-center-review/)
-- [Working at Petco as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/petco-associate-review/)
 - [Working at Barnes & Noble as a Bookseller: Pay, Pros, Cons & What to Expect](/posts/barnes-and-noble-bookseller-review/)

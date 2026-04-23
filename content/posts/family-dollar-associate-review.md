@@ -4,7 +4,7 @@ date: 2026-03-18T08:30:00-05:00
 description: "Everything you need to know about working as a Family Dollar store associate, from pay and daily duties to real employee pros and cons."
 tags: ["Family Dollar", "store associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -86,8 +86,3 @@ Working at Family Dollar as an associate is best described as hard work for low 
 
 ## You Might Also Like
 
-- [Working at Marshalls as an Associate: Pay, Pros, Cons & What to Expect](/posts/marshalls-associate-review/)
-- [Working at Kohl's as a Cashier: Pay, Pros, Cons & What to Expect](/posts/kohls-cashier-review/)
-- [Working at Petco as a Groomer: Pay, Pros, Cons & What to Expect](/posts/petco-groomer-review/)
-- [Working at Old Navy as an Associate: Pay, Pros, Cons & What to Expect](/posts/old-navy-associate-review/)
-- [Working at PetSmart as a Pet Care Associate: Pay, Pros, Cons & What to Expect](/posts/petsmart-associate-review/)

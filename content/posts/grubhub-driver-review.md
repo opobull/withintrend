@@ -4,7 +4,7 @@ date: 2026-03-16T07:00:00-05:00
 description: "A complete guide to working as a Grubhub delivery driver, covering pay, daily routine, pros, cons, and tips for new drivers."
 tags: ["Grubhub", "delivery driver", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -92,8 +92,6 @@ Grubhub is a reasonable option in the food delivery gig space, particularly for 
 
 ## You Might Also Like
 
-- [Working as a Walmart Spark Driver: Pay, Pros, Cons & What to Expect](/posts/spark-driver-walmart-review/)
 - [Working as an Uber Driver: Pay, Pros, Cons & What to Expect](/posts/uber-driver-review/)
 - [Working as a Gopuff Driver: Pay, Pros, Cons & What to Expect](/posts/gopuff-driver-review/)
 - [Working as an Amazon Flex Driver: Pay, Pros, Cons & What to Expect](/posts/amazon-flex-driver-review/)
-- [Working at Jimmy John's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-driver-review/)

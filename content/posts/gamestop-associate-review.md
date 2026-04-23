@@ -4,7 +4,7 @@ date: 2026-03-17T08:00:00-05:00
 description: "A comprehensive guide to working as a GameStop associate — covering pay, daily duties, pros, cons, and tips from real employee experiences."
 tags: ["GameStop", "associate", "retail", "part-time jobs", "job reviews", "gaming"]
 categories: ["Retail"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -92,7 +92,6 @@ This role is best suited for students, casual part-timers, or gamers who want a 
 
 ## You Might Also Like
 
-- [Working at TJ Maxx as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/tj-maxx-associate-review/)
 - [Working at Nordstrom as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/nordstrom-sales-associate-review/)
 - [Working at Old Navy as a Cashier: Pay, Pros, Cons & What to Expect](/posts/old-navy-cashier-review/)
 - [Working at Bath & Body Works as an Associate: Pay, Pros, Cons & What to Expect](/posts/bath-and-body-works-associate-review/)

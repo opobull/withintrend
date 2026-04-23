@@ -4,7 +4,7 @@ date: 2026-03-12T09:30:00-05:00
 description: "A comprehensive look at what it's really like working as a crew member at Five Guys, including pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["five guys", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -75,7 +75,3 @@ Working at Five Guys as a crew member is a solid choice for anyone looking for a
 ## You Might Also Like
 
 - [Working at Raising Cane's as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/raising-canes-crew-member-review/)
-- [Working at Chipotle as a Prep Cook: Pay, Pros, Cons & What to Expect](/posts/chipotle-prep-cook-review/)
-- [Working at Burger King as a Shift Coordinator: Pay, Pros, Cons & What to Expect](/posts/burger-king-shift-coordinator-review/)
-- [Working at In-N-Out Burger as a Cook: Pay, Pros, Cons & What to Expect](/posts/in-n-out-cook-review/)
-- [Working at Jimmy John's as an Inshop Worker: Pay, Pros, Cons & What to Expect](/posts/jimmy-johns-inshop-review/)
