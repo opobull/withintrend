@@ -488,5 +488,48 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-22",
+    "source": "ga4",
+    "totalPostHits": 8,
+    "unmappedHits": 0,
+    "categories": {
+      "movies-and-tv": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "gaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "celebrity-and-entertainment-news": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "relationships-and-dating": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "pharmacy-retail": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "grocery": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "weird-and-interesting-facts": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
