@@ -94,6 +94,4 @@ This role is best suited for beauty enthusiasts looking for part-time work durin
 
 - [Working as a Retail Pharmacy Technician: Pay, Pros, Cons & What to Expect](/posts/retail-pharmacy-tech-review/)
 - [Working at Sephora as a Cashier: Pay, Pros, Cons & What to Expect](/posts/sephora-cashier-review/)
-- [Working at Walgreens as a Pharmacy Technician: Pay, Pros, Cons & What to Expect](/posts/walgreens-pharmacy-tech-review/)
 - [Working at Ulta Beauty as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/ulta-beauty-associate-review/)
-- [Working at CVS as a Cashier: Pay, Pros, Cons & What to Expect](/posts/cvs-cashier-review/)

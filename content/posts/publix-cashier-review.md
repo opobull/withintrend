@@ -81,7 +81,4 @@ Working as a cashier at Publix is an excellent choice for anyone seeking a part-
 ## You Might Also Like
 
 - [Working at Kroger as a ClickList Associate: Pay, Pros, Cons & What to Expect](/posts/kroger-clicklist-associate-review/)
-- [Working as a Costco Stocker: Pay, Pros, Cons & What to Expect](/posts/costco-stocker-review/)
-- [Working at H-E-B as a Curbside Associate: Pay, Pros, Cons & What to Expect](/posts/heb-curbside-associate-review/)
 - [Working at Publix as a Bagger: Pay, Pros, Cons & What to Expect](/posts/publix-bagger-review/)
-- [Working at Whole Foods as a Shopper: Pay, Pros, Cons & What to Expect](/posts/whole-foods-shopper-review/)

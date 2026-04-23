@@ -96,6 +96,3 @@ This role is best suited for students, people seeking supplemental income, or an
 
 - [Working at Barnes & Noble as a Bookseller: Pay, Pros, Cons & What to Expect](/posts/barnes-and-noble-bookseller-review/)
 - [Working at Home Depot as a Lot Associate: Pay, Pros, Cons & What to Expect](/posts/home-depot-lot-associate-review/)
-- [Working at Dollar General as an Associate: Pay, Pros, Cons & What to Expect](/posts/dollar-general-associate-review/)
-- [Working at Foot Locker as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/footlocker-associate-review/)
-- [Working at PetSmart as a Dog Trainer: Pay, Pros, Cons & What to Expect](/posts/petsmart-dog-trainer-review/)

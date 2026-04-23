@@ -91,7 +91,3 @@ If you're looking for a foot in the door of the hospitality industry and want to
 ## You Might Also Like
 
 - [Working in Hilton Housekeeping: Pay, Pros, Cons & What to Expect](/posts/hilton-housekeeping-review/)
-- [Working in Marriott Housekeeping: Pay, Pros, Cons & What to Expect](/posts/marriott-housekeeping-review/)
-- [Working as a Hotel Front Desk Clerk: Pay, Pros, Cons & What to Expect](/posts/hotel-front-desk-clerk-review/)
-- [Working at the Marriott Front Desk: Pay, Pros, Cons & What to Expect](/posts/marriott-front-desk-review/)
-- [Working at the Holiday Inn Front Desk: Pay, Pros, Cons & What to Expect](/posts/holiday-inn-front-desk-review/)

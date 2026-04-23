@@ -82,8 +82,5 @@ The Kroger ClickList associate role is a solid option for workers who prefer phy
 
 ## You Might Also Like
 
-- [Working at Food Lion as a Cashier: Pay, Pros, Cons & What to Expect](/posts/food-lion-cashier-review/)
-- [Working at the Costco Food Court: Pay, Pros, Cons & What to Expect](/posts/costco-food-court-review/)
 - [Working at Publix as a Cashier: Pay, Pros, Cons & What to Expect](/posts/publix-cashier-review/)
 - [Working at Safeway as a Cashier: Pay, Pros, Cons & What to Expect](/posts/safeway-cashier-review/)
-- [Working as a Costco Stocker: Pay, Pros, Cons & What to Expect](/posts/costco-stocker-review/)

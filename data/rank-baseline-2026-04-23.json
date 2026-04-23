@@ -1,0 +1,94 @@
+{
+  "snapshotDate": "2026-04-23",
+  "period": {
+    "startDate": "2026-01-23",
+    "endDate": "2026-04-22",
+    "days": 90
+  },
+  "baseline": {
+    "disney-cast-member-review": {
+      "position": 68.02631578947368,
+      "impressions": 38,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "best-crime-shows-netflix-2026": {
+      "position": 8.125,
+      "impressions": 8,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "best-shows-on-max-hbo-2026": {
+      "position": 8,
+      "impressions": 9,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "gopuff-driver-review": {
+      "position": 18.5,
+      "impressions": 10,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "dollar-tree-cashier-review": {
+      "position": 32.3,
+      "impressions": 10,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "aldi-store-associate-review": {
+      "position": 16.25,
+      "impressions": 4,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "best-buy-geek-squad-review": {
+      "position": 27,
+      "impressions": 8,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "nordstrom-sales-associate-review": {
+      "position": 25.666666666666668,
+      "impressions": 3,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "publix-bagger-review": {
+      "position": 23,
+      "impressions": 3,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "sephora-beauty-advisor-review": {
+      "position": 29.2,
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "hilton-housekeeping-review": {
+      "position": 22,
+      "impressions": 4,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "fedex-package-handler-review": {
+      "position": 26.4,
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0
+    },
+    "home-depot-lot-associate-review": {
+      "position": 29.473684210526315,
+      "impressions": 19,
+      "clicks": 1,
+      "ctr": 0.05263157894736842
+    },
+    "nordstrom-rack-associate-review": {
+      "position": 16,
+      "impressions": 5,
+      "clicks": 1,
+      "ctr": 0.2
+    }
+  }
+}

@@ -87,7 +87,3 @@ Working at Barnes & Noble as a bookseller is ideal for book lovers seeking a par
 ## You Might Also Like
 
 - [Working at Target as a Fulfillment Associate: Pay, Pros, Cons & What to Expect](/posts/target-fulfillment-associate-review/)
-- [Working at Goodwill as an Associate: Pay, Pros, Cons & What to Expect](/posts/goodwill-associate-review/)
-- [Working at Bath & Body Works as an Associate: Pay, Pros, Cons & What to Expect](/posts/bath-and-body-works-associate-review/)
-- [Working at JCPenney as an Associate: Pay, Pros, Cons & What to Expect](/posts/jcpenney-associate-review/)
-- [Working at Target as a Team Member: Pay, Pros, Cons & What to Expect](/posts/target-team-member-review/)

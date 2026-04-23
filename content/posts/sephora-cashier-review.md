@@ -91,7 +91,4 @@ This role is best suited for people who love beauty products, don't mind standin
 ## You Might Also Like
 
 - [Working at Sephora as a Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/sephora-beauty-advisor-review/)
-- [Working at Walgreens as a Pharmacy Technician: Pay, Pros, Cons & What to Expect](/posts/walgreens-pharmacy-tech-review/)
 - [Working as a Retail Pharmacy Technician: Pay, Pros, Cons & What to Expect](/posts/retail-pharmacy-tech-review/)
-- [Working at Ulta Beauty as a Prestige Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/ulta-beauty-prestige-advisor-review/)
-- [Working at Walgreens as a Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/walgreens-beauty-advisor-review/)

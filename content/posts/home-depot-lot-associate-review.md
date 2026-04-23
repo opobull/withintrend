@@ -94,8 +94,4 @@ If you're someone who likes staying active, doesn't mind working independently, 
 
 ## You Might Also Like
 
-- [Working at Walmart as a Self-Checkout Host: Pay, Pros, Cons & What to Expect](/posts/walmart-self-checkout-host-review/)
-- [Working at Old Navy as an Associate: Pay, Pros, Cons & What to Expect](/posts/old-navy-associate-review/)
-- [Working at Marshalls as a Cashier: Pay, Pros, Cons & What to Expect](/posts/marshalls-cashier-review/)
-- [Working at Family Dollar as an Associate: Pay, Pros, Cons & What to Expect](/posts/family-dollar-associate-review/)
 - [Working at Target as a Fulfillment Associate: Pay, Pros, Cons & What to Expect](/posts/target-fulfillment-associate-review/)

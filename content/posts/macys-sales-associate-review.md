@@ -94,8 +94,5 @@ This role is best suited for people who need flexible scheduling, value employee
 
 ## You Might Also Like
 
-- [Working at Gap as an Associate: Pay, Pros, Cons & What to Expect](/posts/gap-associate-review/)
-- [Working at PetSmart as a Pet Care Associate: Pay, Pros, Cons & What to Expect](/posts/petsmart-associate-review/)
 - [Working at Target as a Fulfillment Associate: Pay, Pros, Cons & What to Expect](/posts/target-fulfillment-associate-review/)
 - [Working at Burlington as an Associate: Pay, Pros, Cons & What to Expect](/posts/burlington-associate-review/)
-- [Working at GameStop as an Associate: Pay, Pros, Cons & What to Expect](/posts/gamestop-associate-review/)

@@ -92,8 +92,4 @@ This role is best suited for sneaker enthusiasts, student athletes, or anyone wh
 
 ## You Might Also Like
 
-- [Working at Best Buy as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/best-buy-sales-associate-review/)
-- [Working at PetSmart as a Pet Care Associate: Pay, Pros, Cons & What to Expect](/posts/petsmart-associate-review/)
-- [Working at Staples Print Center: Pay, Pros, Cons & What to Expect](/posts/staples-print-center-review/)
-- [Working at Ross Stores as a Retail Associate: Pay, Pros, Cons & What to Expect](/posts/ross-stores-associate-review/)
 - [Working at Barnes & Noble as a Bookseller: Pay, Pros, Cons & What to Expect](/posts/barnes-and-noble-bookseller-review/)

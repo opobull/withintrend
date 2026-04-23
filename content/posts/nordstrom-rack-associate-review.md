@@ -154,9 +154,5 @@ This role is best suited for people who don't mind physical work, can handle the
 ## You Might Also Like
 
 - [Working at Nordstrom as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/nordstrom-sales-associate-review/)
-- [Working at Marshalls as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/marshalls-associate-review/)
-- [Working at Marshalls as a Cashier: Pay, Pros, Cons & What to Expect](/posts/marshalls-cashier-review/)
-- [Working at TJ Maxx as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/tj-maxx-associate-review/)
-- [Working at Ross as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/ross-stores-associate-review/)
 - [Working at Burlington as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/burlington-associate-review/)
 - [Working at Barnes & Noble as a Bookseller: Pay, Pros, Cons & What to Expect](/posts/barnes-and-noble-bookseller-review/)

@@ -80,8 +80,4 @@ Dollar Tree associate is best suited for people who need a quick, easy-to-get jo
 
 ## You Might Also Like
 
-- [Working at Ross Stores as a Retail Associate: Pay, Pros, Cons & What to Expect](/posts/ross-stores-associate-review/)
-- [Working at TJ Maxx as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/tj-maxx-associate-review/)
 - [Working at Nordstrom as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/nordstrom-sales-associate-review/)
-- [Working at Lowe's as a Stocker: Pay, Pros, Cons & What to Expect](/posts/lowes-stocker-review/)
-- [Working at Bath & Body Works as an Associate: Pay, Pros, Cons & What to Expect](/posts/bath-and-body-works-associate-review/)

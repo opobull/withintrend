@@ -94,8 +94,5 @@ That said, the sales pressure, understaffing, and management inconsistencies are
 
 ## You Might Also Like
 
-- [Working at GameStop as an Associate: Pay, Pros, Cons & What to Expect](/posts/gamestop-associate-review/)
-- [Working at Ross Stores as a Retail Associate: Pay, Pros, Cons & What to Expect](/posts/ross-stores-associate-review/)
 - [Working at Goodwill as a Cashier: Pay, Pros, Cons & What to Expect](/posts/goodwill-cashier-review/)
-- [Working at Best Buy as a Warehouse Associate: Pay, Pros, Cons & What to Expect](/posts/best-buy-warehouse-review/)
 - [Working at Office Depot as an Associate: Pay, Pros, Cons & What to Expect](/posts/office-depot-associate-review/)

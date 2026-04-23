@@ -182,12 +182,7 @@ Netflix's licensing deals mean movies rotate in and out of the catalog. If a fav
 
 ## Related Posts
 
-- [Best Netflix Shows to Binge in 2026](/posts/best-netflix-shows-binge-2026/)
 - [Best Romance Movies on Netflix in 2026](/posts/best-romance-movies-netflix-2026/)
 - [Best Crime Shows on Netflix in 2026](/posts/best-crime-shows-netflix-2026/)
 - [Best Anime on Netflix in 2026](/posts/best-anime-on-netflix-2026/)
-- [Underrated Netflix Shows Worth Binging](/posts/underrated-netflix-shows-worth-binging/)
-- [Best Horror Movies You've Never Heard Of](/posts/best-horror-movies-youve-never-heard-of/)
-- [Most Anticipated Movie Sequels of 2026](/posts/most-anticipated-movie-sequels-2026/)
-- [Best Free-to-Play Games in 2026](/posts/best-free-to-play-games-2026/)
 - [Peacock vs Paramount Plus in 2026](/posts/peacock-vs-paramount-plus-2026/)

@@ -92,8 +92,4 @@ This role is best suited for people who enjoy staying busy, don't mind physical 
 
 ## You Might Also Like
 
-- [Working at Lowe's as a Stocker: Pay, Pros, Cons & What to Expect](/posts/lowes-stocker-review/)
 - [Working at Dollar Tree as a Cashier: Pay, Pros, Cons & What to Expect](/posts/dollar-tree-cashier-review/)
-- [Working at Bath & Body Works as an Associate: Pay, Pros, Cons & What to Expect](/posts/bath-and-body-works-associate-review/)
-- [Working as a Home Depot Cashier: Pay, Pros, Cons & What to Expect](/posts/home-depot-cashier-review/)
-- [Working at Family Dollar as an Associate: Pay, Pros, Cons & What to Expect](/posts/family-dollar-associate-review/)

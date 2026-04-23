@@ -100,6 +100,3 @@ For those who can handle the intensity, it's a job that builds real skills, offe
 
 - [Working at Sephora as a Cashier: Pay, Pros, Cons & What to Expect](/posts/sephora-cashier-review/)
 - [Working at Ulta Beauty as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/ulta-beauty-associate-review/)
-- [Working at Ulta Beauty as a Prestige Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/ulta-beauty-prestige-advisor-review/)
-- [Working at Walgreens as a Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/walgreens-beauty-advisor-review/)
-- [Working at CVS as a Cashier: Pay, Pros, Cons & What to Expect](/posts/cvs-cashier-review/)

@@ -86,8 +86,5 @@ Working as a Safeway cashier offers a mixed but generally acceptable experience.
 
 ## You Might Also Like
 
-- [Working at Publix as a Deli Clerk: Pay, Pros, Cons & What to Expect](/posts/publix-deli-clerk-review/)
-- [Working at Trader Joe's as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/trader-joes-crew-member-review/)
 - [Working at ALDI as a Store Associate: Pay, Pros, Cons & What to Expect](/posts/aldi-store-associate-review/)
-- [Working at Walmart as a Deli Associate: Pay, Pros, Cons & What to Expect](/posts/walmart-deli-associate-review/)
 - [Working at Publix as a Bagger: Pay, Pros, Cons & What to Expect](/posts/publix-bagger-review/)

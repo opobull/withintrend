@@ -82,8 +82,5 @@ UPS package handler is an honest, physical job that rewards people who show up c
 
 ## You Might Also Like
 
-- [Working as a USPS Clerk: Pay, Pros, Cons & What to Expect](/posts/usps-clerk-review/)
 - [Working at FedEx as a Package Handler: Pay, Pros, Cons & What to Expect](/posts/fedex-package-handler-review/)
 - [Working as a UPS Driver Helper: Pay, Pros, Cons & What to Expect](/posts/ups-driver-helper-review/)
-- [Working as an Amazon Sortation Associate: Pay, Pros, Cons & What to Expect](/posts/amazon-sortation-associate-review/)
-- [Working at Lowe's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/lowes-deliveries-review/)

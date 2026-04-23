@@ -92,8 +92,5 @@ If you're a student looking for a flexible beauty retail gig, someone building a
 
 ## You Might Also Like
 
-- [Working at CVS as a Cashier: Pay, Pros, Cons & What to Expect](/posts/cvs-cashier-review/)
 - [Working at Sephora as a Cashier: Pay, Pros, Cons & What to Expect](/posts/sephora-cashier-review/)
-- [Working at Walgreens as a Beauty Advisor: Pay, Pros, Cons & What to Expect](/posts/walgreens-beauty-advisor-review/)
 - [Working as a Retail Pharmacy Technician: Pay, Pros, Cons & What to Expect](/posts/retail-pharmacy-tech-review/)
-- [Working at Walgreens as a Pharmacy Technician: Pay, Pros, Cons & What to Expect](/posts/walgreens-pharmacy-tech-review/)

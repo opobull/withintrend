@@ -94,8 +94,5 @@ This role is best suited for students, tech enthusiasts, or anyone who wants a l
 
 ## You Might Also Like
 
-- [Working at Old Navy as a Cashier: Pay, Pros, Cons & What to Expect](/posts/old-navy-cashier-review/)
 - [Working at Goodwill as a Cashier: Pay, Pros, Cons & What to Expect](/posts/goodwill-cashier-review/)
 - [Working at Burlington as an Associate: Pay, Pros, Cons & What to Expect](/posts/burlington-associate-review/)
-- [Working at Petco as a Groomer: Pay, Pros, Cons & What to Expect](/posts/petco-groomer-review/)
-- [Working at Gap as an Associate: Pay, Pros, Cons & What to Expect](/posts/gap-associate-review/)

@@ -81,7 +81,4 @@ The Publix bagger position is one of the best first jobs available, especially f
 ## You Might Also Like
 
 - [Working at 7-Eleven as a Clerk: Pay, Pros, Cons & What to Expect](/posts/7-eleven-clerk-review/)
-- [Working at Trader Joe's as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/trader-joes-crew-member-review/)
-- [Working at Kroger as a Deli Clerk: Pay, Pros, Cons & What to Expect](/posts/kroger-deli-clerk-review/)
 - [Working at Safeway as a Cashier: Pay, Pros, Cons & What to Expect](/posts/safeway-cashier-review/)
-- [Working at Whole Foods as a Cashier: Pay, Pros, Cons & What to Expect](/posts/whole-foods-cashier-review/)

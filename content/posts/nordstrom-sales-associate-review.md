@@ -94,8 +94,5 @@ This role is best suited for self-motivated sellers who are comfortable with com
 
 ## You Might Also Like
 
-- [Working at Marshalls as an Associate: Pay, Pros, Cons & What to Expect](/posts/marshalls-associate-review/)
-- [Working at Gap as an Associate: Pay, Pros, Cons & What to Expect](/posts/gap-associate-review/)
 - [Working at Staples as an Associate: Pay, Pros, Cons & What to Expect](/posts/staples-associate-review/)
 - [Working at Goodwill as a Cashier: Pay, Pros, Cons & What to Expect](/posts/goodwill-cashier-review/)
-- [Working at GameStop as an Associate: Pay, Pros, Cons & What to Expect](/posts/gamestop-associate-review/)

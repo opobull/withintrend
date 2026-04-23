@@ -86,8 +86,6 @@ Working movie theater concessions is a solid option for students, young adults, 
 
 ## You Might Also Like
 
-- [Working in Six Flags Food Service: Pay, Pros, Cons & What to Expect](/posts/six-flags-food-service-review/)
 - [Working as a Disney Cast Member: Pay, Pros, Cons & What to Expect](/posts/disney-cast-member-review/)
 - [Working in Disney Food & Beverage: Pay, Pros, Cons & What to Expect](/posts/disney-food-beverage-review/)
 - [Working at Universal Studios as a Team Member: Pay, Pros, Cons & What to Expect](/posts/universal-studios-team-member-review/)
-- [Working at AMC Theatres as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/amc-theaters-crew-review/)

@@ -89,6 +89,4 @@ This position is best suited for people who want a simple, low-intensity part-ti
 
 ## You Might Also Like
 
-- [Working at Walmart as a Self-Checkout Host: Pay, Pros, Cons & What to Expect](/posts/walmart-self-checkout-host-review/)
 - [Working at Ulta Beauty as a Sales Associate: Pay, Pros, Cons & What to Expect](/posts/ulta-beauty-associate-review/)
-- [Working at CVS as a Pharmacy Technician: Pay, Pros, Cons & What to Expect](/posts/cvs-pharmacy-technician-review/)

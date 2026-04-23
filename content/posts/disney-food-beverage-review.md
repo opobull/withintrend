@@ -94,8 +94,5 @@ If you go in prepared for the physical demands, take immediate advantage of the 
 
 ## You Might Also Like
 
-- [Working in Six Flags Food Service: Pay, Pros, Cons & What to Expect](/posts/six-flags-food-service-review/)
-- [Working at AMC Theatres as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/amc-theaters-crew-review/)
 - [Working as a Disney Cast Member: Pay, Pros, Cons & What to Expect](/posts/disney-cast-member-review/)
-- [Working as a Six Flags Ride Operator: Pay, Pros, Cons & What to Expect](/posts/six-flags-ride-operator-review/)
 - [Working Movie Theater Concessions: Pay, Pros, Cons & What to Expect](/posts/movie-theater-concessions-review/)

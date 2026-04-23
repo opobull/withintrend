@@ -201,12 +201,6 @@ Yes — beyond series, Netflix streams anime films including *Your Name* (Makoto
 
 ## Related Posts
 
-- [Best Netflix Shows to Binge in 2026](/posts/best-netflix-shows-binge-2026/)
 - [Best Crime Shows on Netflix in 2026](/posts/best-crime-shows-netflix-2026/)
 - [Best Comedy Movies on Netflix in 2026](/posts/best-comedy-movies-netflix-2026/)
 - [Best Romance Movies on Netflix in 2026](/posts/best-romance-movies-netflix-2026/)
-- [Best Couch Co-op Games for Couples in 2026](/posts/best-couch-co-op-games-for-couples-2026/)
-- [Most Anticipated Games Coming in 2026](/posts/most-anticipated-games-coming-in-2026/)
-- [Best Free-to-Play Games in 2026](/posts/best-free-to-play-games-2026/)
-- [Best Indie Games Under $10 on Steam](/posts/best-indie-games-under-10-steam/)
-- [Underrated Netflix Shows Worth Binging](/posts/underrated-netflix-shows-worth-binging/)

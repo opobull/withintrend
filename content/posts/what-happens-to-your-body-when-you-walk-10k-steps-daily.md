@@ -118,11 +118,3 @@ Walking 10,000 steps daily transforms your body from the inside out — stronger
 
 Lace up your shoes. Your body will thank you for every single step.
 
----
-
-## You Might Also Like
-
-- [The Real Benefits of Cold Water Therapy (And How to Start Safely)](/posts/benefits-of-cold-water-therapy/)
-- [5 Simple Morning Stretches That Change Your Day](/posts/simple-morning-stretches-change-your-day/)
-- [Zone 2 Cardio Training: Why Low-Intensity Exercise Is the Hottest Fitness Trend](/posts/zone-2-cardio-training-benefits-guide/)
-- [Beginner Bodyweight Workout You Can Do at Home](/posts/beginner-bodyweight-workout-you-can-do-at-home/)

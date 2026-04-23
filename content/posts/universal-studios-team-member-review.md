@@ -96,8 +96,6 @@ If you go in understanding that the hours will fluctuate, prepare physically for
 
 ## You Might Also Like
 
-- [Working as a Six Flags Ride Operator: Pay, Pros, Cons & What to Expect](/posts/six-flags-ride-operator-review/)
-- [Working in Six Flags Food Service: Pay, Pros, Cons & What to Expect](/posts/six-flags-food-service-review/)
 - [Working as a Disney Cast Member: Pay, Pros, Cons & What to Expect](/posts/disney-cast-member-review/)
 - [Working Movie Theater Concessions: Pay, Pros, Cons & What to Expect](/posts/movie-theater-concessions-review/)
 - [Working in Disney Food & Beverage: Pay, Pros, Cons & What to Expect](/posts/disney-food-beverage-review/)

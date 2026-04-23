@@ -287,7 +287,5 @@ If you go in with realistic expectations about the pay, scheduling system, and p
 ## You Might Also Like
 
 - [Working in Disney Food & Beverage: Pay, Pros, Cons & What to Expect](/posts/disney-food-beverage-review/)
+- [Working at Universal Studios: Pay, Pros, Cons & What to Expect](/posts/universal-studios-team-member-review/)
 - [Working Movie Theater Concessions: Pay, Pros, Cons & What to Expect](/posts/movie-theater-concessions-review/)
-- [Working at Regal Cinemas as a Crew Member: Pay, Pros, Cons & What to Expect](/posts/regal-cinemas-crew-review/)
-- [Working as a Six Flags Ride Operator: Pay, Pros, Cons & What to Expect](/posts/six-flags-ride-operator-review/)
-- [Working in Six Flags Food Service: Pay, Pros, Cons & What to Expect](/posts/six-flags-food-service-review/)

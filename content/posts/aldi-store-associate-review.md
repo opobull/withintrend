@@ -86,8 +86,4 @@ Working at ALDI as a store associate is a high-effort, high-reward proposition. 
 
 ## You Might Also Like
 
-- [Working as a Costco Stocker: Pay, Pros, Cons & What to Expect](/posts/costco-stocker-review/)
-- [Working at Publix as a Deli Clerk: Pay, Pros, Cons & What to Expect](/posts/publix-deli-clerk-review/)
-- [Working at Whole Foods as a Shopper: Pay, Pros, Cons & What to Expect](/posts/whole-foods-shopper-review/)
-- [Working at Circle K as a Clerk: Pay, Pros, Cons & What to Expect](/posts/circle-k-clerk-review/)
 - [Working at 7-Eleven as a Clerk: Pay, Pros, Cons & What to Expect](/posts/7-eleven-clerk-review/)

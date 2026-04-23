@@ -128,8 +128,4 @@ Whether you're a first-time viewer about to discover Middle-earth or a lifelong 
 
 ## Related Posts
 
-- [Best Netflix Shows to Binge in 2026](/posts/best-netflix-shows-binge-2026/)
-- [Most Anticipated Movie Sequels of 2026](/posts/most-anticipated-movie-sequels-2026/)
 - [Best Shows on Max (HBO) in 2026](/posts/best-shows-on-max-hbo-2026/)
-- [Best Limited Series on Streaming in 2026](/posts/best-limited-series-streaming-2026/)
-- [Best Horror Movies You've Never Heard Of](/posts/best-horror-movies-youve-never-heard-of/)

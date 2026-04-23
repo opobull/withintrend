@@ -82,7 +82,5 @@ Working as a car wash attendant is best suited for people who don't mind physica
 
 ## You Might Also Like
 
-- [Working as a Part-Time Receptionist: Pay, Pros, Cons & What to Expect](/posts/receptionist-part-time-review/)
 - [Working as a Call Center Agent: Pay, Pros, Cons & What to Expect](/posts/call-center-agent-review/)
-- [Working as a Gas Station Attendant: Pay, Pros, Cons & What to Expect](/posts/gas-station-attendant-review/)
 - [Working as a Part-Time Bank Teller: Pay, Pros, Cons & What to Expect](/posts/bank-teller-part-time-review/)

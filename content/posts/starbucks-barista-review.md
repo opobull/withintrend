@@ -103,5 +103,3 @@ As many former baristas advise: go in with realistic expectations, find a store 
 ## You Might Also Like
 
 - [Working at Office Depot as an Associate: Pay, Pros, Cons & What to Expect](/posts/office-depot-associate-review/)
-- [Raised Bed Gardening for Beginners: How to Build and Plant Your First Bed](/posts/raised-bed-gardening-beginners-complete-guide/)
-- [Working at Wendy's as a Shift Manager: Pay, Pros, Cons & What to Expect](/posts/wendys-shift-manager-review/)

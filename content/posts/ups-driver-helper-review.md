@@ -80,8 +80,5 @@ The UPS driver helper position is ideal for people who want fast seasonal cash, 
 
 ## You Might Also Like
 
-- [Working as an Amazon Sortation Associate: Pay, Pros, Cons & What to Expect](/posts/amazon-sortation-associate-review/)
 - [Working at UPS as a Package Handler: Pay, Pros, Cons & What to Expect](/posts/ups-package-handler-review/)
-- [Working as a USPS Clerk: Pay, Pros, Cons & What to Expect](/posts/usps-clerk-review/)
 - [Working at FedEx as a Package Handler: Pay, Pros, Cons & What to Expect](/posts/fedex-package-handler-review/)
-- [Working at Lowe's as a Delivery Driver: Pay, Pros, Cons & What to Expect](/posts/lowes-deliveries-review/)

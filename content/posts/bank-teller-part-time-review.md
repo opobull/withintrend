@@ -96,7 +96,5 @@ If you're looking for a part-time job that treats you like a professional, value
 
 ## You Might Also Like
 
-- [Working as a Part-Time Receptionist: Pay, Pros, Cons & What to Expect](/posts/receptionist-part-time-review/)
 - [Working as a Car Wash Attendant: Pay, Pros, Cons & What to Expect](/posts/car-wash-attendant-review/)
 - [Working as a Call Center Agent: Pay, Pros, Cons & What to Expect](/posts/call-center-agent-review/)
-- [Working as a Gas Station Attendant: Pay, Pros, Cons & What to Expect](/posts/gas-station-attendant-review/)

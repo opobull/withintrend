@@ -194,12 +194,6 @@ Netflix regularly adds new romance films throughout the year. Additional Emily H
 
 ## Related Posts
 
-- [Best Netflix Shows to Binge in 2026](/posts/best-netflix-shows-binge-2026/)
 - [Best Comedy Movies on Netflix in 2026](/posts/best-comedy-movies-netflix-2026/)
 - [Best Crime Shows on Netflix in 2026](/posts/best-crime-shows-netflix-2026/)
 - [Best Anime on Netflix in 2026](/posts/best-anime-on-netflix-2026/)
-- [Biggest Celebrity Couples of 2026](/posts/biggest-celebrity-couples-2026/)
-- [Dating Apps for Serious Relationships in 2026](/posts/dating-apps-serious-relationships-2026/)
-- [Green Flags in a New Relationship](/posts/green-flags-new-relationship/)
-- [Long Distance Relationship Tips That Actually Work](/posts/long-distance-relationship-tips-that-actually-work/)
-- [Underrated Netflix Shows Worth Binging](/posts/underrated-netflix-shows-worth-binging/)
