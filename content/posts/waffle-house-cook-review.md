@@ -4,7 +4,7 @@ date: 2026-03-14T10:00:00-05:00
 description: "A complete guide to working as a grill operator (cook) at Waffle House, covering pay, daily duties, the ranking system, and honest pros and cons."
 tags: ["waffle house", "cook", "grill operator", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

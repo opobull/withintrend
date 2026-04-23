@@ -4,6 +4,7 @@ date: 2026-03-28T12:15:00+09:00
 description: "Kill every plant you touch? These low-maintenance indoor plants are practically indestructible. Perfect for beginners, busy people, and self-proclaimed black thumbs."
 tags: ["indoor plants", "low maintenance plants", "houseplants", "beginner plants", "home garden", "plant care", "easy plants"]
 categories: ["Home & Garden"]
+draft: true
 ---
 
 Let's be real. Not everyone is a plant person. Some people forget to water. Some overwater in a panic. Some put sun-loving plants in dark corners and wonder why they die. If you've ever described yourself as having a "black thumb," this guide is specifically for you.

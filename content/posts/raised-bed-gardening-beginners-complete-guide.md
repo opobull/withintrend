@@ -4,7 +4,7 @@ date: 2026-03-28T21:22:30+09:00
 description: "A step-by-step guide to raised bed gardening including how to build, fill, and plant your first raised bed for a productive home garden."
 tags: ["home", "garden", "raised beds", "landscaping", "home improvement"]
 categories: ["Home & Garden"]
-draft: false
+draft: true
 ---
 
 ## Why Raised Bed Gardening Is Perfect for Beginners

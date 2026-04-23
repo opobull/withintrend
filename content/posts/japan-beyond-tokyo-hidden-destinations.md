@@ -4,7 +4,7 @@ date: 2026-04-03T18:30:00+09:00
 description: "Skip the tourist crowds and explore Japan's lesser-known gems. From the art islands of the Seto Inland Sea to the volcanic landscapes of Kagoshima, these destinations offer authentic experiences."
 tags: ["Japan travel", "hidden destinations", "off the beaten path", "travel guide"]
 categories: ["Travel & Places"]
-draft: false
+draft: true
 ---
 
 Japan welcomes over 30 million international visitors annually, and most of them follow the same well-worn path: Tokyo, Kyoto, Osaka, maybe Hiroshima. These cities are incredible and absolutely worth visiting — but they're also crowded, expensive during peak season, and represent only a fraction of what Japan has to offer.

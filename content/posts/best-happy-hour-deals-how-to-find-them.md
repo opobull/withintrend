@@ -4,7 +4,7 @@ date: 2026-04-03T20:25:00+09:00
 description: "Learn how to find the best happy hour deals in your city. From apps and timing strategies to maximizing food and drink specials, this guide helps you enjoy dining out for less."
 tags: ["happy hour", "restaurant deals", "cheap eats", "bar specials", "dining on a budget"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 Happy hour might be the best-kept secret in affordable dining. While restaurants charge full price during peak hours, the same establishments often offer dramatically discounted food and drinks during off-peak windows. Knowing how to find, evaluate, and maximize happy hour deals can save you hundreds of dollars a year while letting you enjoy restaurants you might otherwise skip.

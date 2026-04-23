@@ -4,6 +4,7 @@ date: 2026-03-31T21:50:00+09:00
 description: "Discover the best low-maintenance indoor plants for beginners. From snake plants to pothos, these hardy houseplants survive low light, irregular watering, and busy schedules."
 tags: ["indoor plants", "houseplants", "gardening", "home decor", "low maintenance plants", "beginner gardening"]
 categories: ["home-garden"]
+draft: true
 ---
 
 ## Why Indoor Plants Are Worth the Effort

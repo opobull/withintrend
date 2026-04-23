@@ -4,7 +4,7 @@ date: 2026-03-24T11:45:00+09:00
 description: "A detailed guide to working as a sales associate at Orangetheory Fitness, covering pay, daily responsibilities, culture, and honest employee reviews."
 tags: ["orangetheory", "sales associate", "fitness", "part-time jobs", "job reviews"]
 categories: ["Fitness & Recreation"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at Orangetheory Fitness as a Sales Associate

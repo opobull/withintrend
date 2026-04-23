@@ -4,7 +4,7 @@ date: 2026-03-29T20:53:00+09:00
 description: "Not all celebrity restaurants are gimmicks. These star-owned spots deliver genuinely great food, atmosphere, and experiences worth the trip."
 tags: ["celebrities", "entertainment", "pop culture", "celebrity news", "Hollywood"]
 categories: ["Celebrity & Entertainment News"]
-draft: false
+draft: true
 ---
 
 Let's get the uncomfortable truth out of the way: most celebrity restaurants are terrible. They coast on a famous name, charge outrageous prices for mediocre food, and rely on Instagram tourists who care more about posting a photo than eating a decent meal. We've all seen the headlines — another A-lister opens a vanity project, critics pan it, and it quietly closes eighteen months later.

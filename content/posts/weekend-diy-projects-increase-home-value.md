@@ -4,7 +4,7 @@ date: 2026-03-29T21:09:00+09:00
 description: "Simple weekend DIY projects that boost your home's value without breaking the bank. Practical upgrades any homeowner can tackle."
 tags: ["DIY", "life hacks", "home improvement", "tips and tricks", "productivity"]
 categories: ["DIY & Life Hacks"]
-draft: false
+draft: true
 ---
 
 Not every home improvement project needs a contractor, a second mortgage, and three months of construction dust. Some of the most impactful upgrades you can make to your home take a single weekend and cost less than a nice dinner out. The trick is knowing which projects actually move the needle on your home's value versus which ones are just expensive hobbies.

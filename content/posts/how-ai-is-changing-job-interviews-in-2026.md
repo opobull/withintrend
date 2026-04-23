@@ -4,6 +4,7 @@ date: 2026-03-28T12:50:00+09:00
 description: "Discover how artificial intelligence is transforming the hiring process in 2026, from AI-powered screening tools to virtual interview coaches and what candidates need to know."
 tags: ["AI", "job interviews", "hiring", "technology", "career tips"]
 categories: ["Tech & AI"]
+draft: true
 ---
 
 ## The New Era of AI-Powered Hiring

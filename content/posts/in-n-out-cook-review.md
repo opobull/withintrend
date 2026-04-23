@@ -4,7 +4,7 @@ date: 2026-03-12T14:00:00-05:00
 description: "A detailed look at the In-N-Out Burger cook position, covering pay, daily responsibilities, what real employees say, and advice for new hires."
 tags: ["in-n-out", "cook", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: 2026-03-09T03:30:00+09:00
 description: "A complete guide to working as a Walmart Deli Associate — covering pay, daily duties, pros, cons, and what real employees say about the experience."
 tags: ["walmart", "deli associate", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

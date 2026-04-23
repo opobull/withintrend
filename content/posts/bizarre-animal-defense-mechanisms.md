@@ -4,7 +4,7 @@ date: 2026-03-28T21:28:30+09:00
 description: "From exploding ants to blood-shooting lizards, discover the weirdest and most fascinating defense mechanisms in the animal kingdom."
 tags: ["interesting facts", "weird facts", "animals", "fun facts", "curiosity"]
 categories: ["Weird & Interesting Facts"]
-draft: false
+draft: true
 ---
 
 ## Nature's Most Creative Solutions to Not Getting Eaten

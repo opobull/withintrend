@@ -4,7 +4,7 @@ date: 2026-03-14T11:00:00-05:00
 description: "A detailed guide to working as a Chipotle line server, covering pay, daily responsibilities, pros, cons, and insider tips."
 tags: ["Chipotle", "line server", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

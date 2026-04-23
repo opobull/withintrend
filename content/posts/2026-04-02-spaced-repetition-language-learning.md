@@ -4,7 +4,7 @@ date: 2026-04-02T21:32:00+09:00
 description: "Learn how spaced repetition transforms language learning by optimizing your brain's memory systems, and discover the best tools and techniques to implement it effectively."
 tags: ["education", "study tips", "language learning", "learning", "academic success"]
 categories: ["Education & Study Tips"]
-draft: false
+draft: true
 ---
 
 ## Why Most Language Learners Plateau and Quit

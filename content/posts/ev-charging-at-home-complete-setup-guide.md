@@ -4,7 +4,7 @@ date: 2026-03-28T21:13:30+09:00
 description: "Everything you need to know about installing a home EV charging station including costs, charger types, installation tips, and how to maximize charging efficiency."
 tags: ["cars", "electric vehicles", "EV charging", "home improvement", "auto reviews"]
 categories: ["Cars & Auto"]
-draft: false
+draft: true
 ---
 
 ## Why Home Charging Changes the EV Experience

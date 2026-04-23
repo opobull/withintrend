@@ -4,7 +4,7 @@ date: 2026-03-17T15:00:00-05:00
 description: "A detailed guide to working in the Staples Copy & Print Center — covering pay, daily tasks, pros, cons, and tips from real employee experiences."
 tags: ["Staples", "print center", "copy center", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

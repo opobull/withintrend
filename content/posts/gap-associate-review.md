@@ -4,7 +4,7 @@ date: 2026-03-18T04:00:00-05:00
 description: "A comprehensive guide to working as a Gap retail associate, covering pay, daily duties, employee experiences, and tips for new hires."
 tags: ["Gap", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

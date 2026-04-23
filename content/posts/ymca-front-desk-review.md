@@ -4,7 +4,7 @@ date: 2026-03-24T11:50:00+09:00
 description: "A complete guide to working at the YMCA front desk, covering pay, daily duties, benefits, and real employee insights."
 tags: ["ymca", "front desk", "community center", "part-time jobs", "job reviews"]
 categories: ["Fitness & Recreation"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at the YMCA Front Desk

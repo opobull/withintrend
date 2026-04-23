@@ -4,7 +4,7 @@ date: 2026-03-26T12:30:00+09:00
 description: "A comprehensive guide to working as a crew member at AMC Theatres — covering pay, daily tasks, perks like free movies, and what real employees say about the experience."
 tags: ["AMC Theatres", "crew member", "movie theater jobs", "part-time jobs", "job reviews"]
 categories: ["Entertainment"]
-draft: false
+draft: true
 ---
 
 If you've ever thought about getting paid to work at a movie theater, AMC Theatres is probably the first name that comes to mind. As the largest movie theater chain in the world, AMC employs thousands of crew members across hundreds of locations — and opinions about the job vary wildly depending on location, management, and how busy the theater gets.

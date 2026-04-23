@@ -4,7 +4,7 @@ date: 2026-04-02T21:17:00+09:00
 description: "These 10 one-pot pasta recipes require minimal cleanup, simple ingredients, and under 30 minutes of cooking time for stress-free weeknight dinners."
 tags: ["recipes", "cooking", "pasta", "meal ideas", "kitchen tips"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 ## Why One-Pot Pasta Changed Everything

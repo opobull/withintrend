@@ -4,7 +4,7 @@ date: 2026-03-24T12:05:00+09:00
 description: "Everything you need to know about working at Planet Fitness front desk, including pay, daily tasks, and honest employee reviews."
 tags: ["planet fitness", "front desk", "gym", "part-time jobs", "job reviews"]
 categories: ["Fitness & Recreation"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at Planet Fitness Front Desk

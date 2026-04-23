@@ -4,7 +4,7 @@ date: 2026-03-10T07:45:00-05:00
 description: "A complete guide to working as a cashier at Lowe's Home Improvement, covering pay, daily duties, pros, cons, and real employee insights."
 tags: ["lowes", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

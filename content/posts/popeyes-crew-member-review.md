@@ -4,7 +4,7 @@ date: 2026-03-12T10:00:00-05:00
 description: "Everything you need to know about working as a Popeyes crew member, from pay and daily tasks to the real pros and cons reported by employees."
 tags: ["popeyes", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

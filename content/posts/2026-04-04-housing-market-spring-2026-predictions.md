@@ -4,7 +4,7 @@ date: 2026-04-04T21:20:00+09:00
 description: "Expert analysis of the spring 2026 housing market with predictions on mortgage rates, inventory levels, and whether now is the right time to buy or sell."
 tags: ["real estate", "home buying", "housing market", "property", "mortgage"]
 categories: ["Real Estate"]
-draft: false
+draft: true
 ---
 
 ## The Spring Market Has Arrived

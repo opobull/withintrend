@@ -4,7 +4,7 @@ date: 2026-03-29T21:05:00+09:00
 description: "Discover the best couch co-op games for couples in 2026. From relaxing adventures to competitive fun, these games will strengthen your bond."
 tags: ["gaming", "video games", "PC gaming", "console gaming", "game reviews"]
 categories: ["Gaming"]
-draft: false
+draft: true
 ---
 
 There's something special about sitting on the couch with your partner, controllers in hand, working together to solve puzzles or absolutely destroying each other in a friendly competition. Couch co-op gaming has made a massive comeback in recent years, and 2026 is shaping up to be one of the best years yet for couples who game together.

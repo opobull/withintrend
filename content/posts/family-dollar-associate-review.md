@@ -4,7 +4,7 @@ date: 2026-03-18T08:30:00-05:00
 description: "Everything you need to know about working as a Family Dollar store associate, from pay and daily duties to real employee pros and cons."
 tags: ["Family Dollar", "store associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

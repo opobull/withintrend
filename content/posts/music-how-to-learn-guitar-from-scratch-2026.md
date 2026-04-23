@@ -4,6 +4,7 @@ date: 2026-03-31T21:42:00+09:00
 description: "A step-by-step guide to learning guitar as a complete beginner in 2026. Covers choosing your first guitar, essential chords, practice routines, and the best free and paid resources available."
 tags: ["guitar", "learn guitar", "music", "beginner guitar", "guitar chords", "music lessons"]
 categories: ["music"]
+draft: true
 ---
 
 ## The Best Time to Start Playing Guitar

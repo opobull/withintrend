@@ -4,7 +4,7 @@ date: 2026-03-27T12:25:00+09:00
 description: "Everything you need to know about working as a dog walker on Rover — real pay rates, daily tasks, pros, cons, and tips from experienced walkers."
 tags: ["rover", "dog walker", "pet sitting", "part-time jobs", "job reviews", "gig economy"]
 categories: ["Freelance & Gig"]
-draft: false
+draft: true
 ---
 
 Dog walking sounds like a dream gig — get paid to hang out with puppies, stay active, and set your own schedule. And for many people on Rover, that's pretty close to reality. But like any gig, there's more to it than meets the eye.

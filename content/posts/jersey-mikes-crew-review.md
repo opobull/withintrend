@@ -4,7 +4,7 @@ date: 2026-03-12T16:30:00-06:00
 description: "A detailed look at working as a Jersey Mike's crew member — covering pay, daily tasks, pros, cons, and practical tips for new hires."
 tags: ["jersey mikes", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

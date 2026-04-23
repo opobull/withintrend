@@ -4,7 +4,7 @@ date: 2026-04-03T19:40:00+09:00
 description: "Practical tips and lesser-known tricks to save money at fast food drive-thrus, including app deals, secret menus, timing strategies, and smart ordering techniques."
 tags: ["fast food savings", "drive thru tips", "restaurant deals", "money saving", "fast food hacks"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 Fast food is supposed to be the affordable dining option, but prices have climbed steadily over the past few years. A combo meal at most major chains now costs $10 to $14, and a family of four can easily spend $40 to $50 on a single fast food run. That is not exactly budget-friendly anymore.

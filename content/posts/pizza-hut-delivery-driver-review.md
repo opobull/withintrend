@@ -4,7 +4,7 @@ date: 2026-03-12T14:15:00-06:00
 description: "A comprehensive look at what it's like working as a Pizza Hut delivery driver — from tips and hourly pay to daily duties and honest pros and cons."
 tags: ["pizza hut", "delivery driver", "fast food", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 ## Introduction

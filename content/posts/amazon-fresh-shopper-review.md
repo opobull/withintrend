@@ -4,7 +4,7 @@ date: 2026-03-08T12:00:00-05:00
 description: "A detailed guide to working as an Amazon Fresh shopper, covering pay, daily duties, scheduling, and real employee experiences."
 tags: ["amazon", "amazon fresh", "shopper", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 Amazon Fresh shoppers are the people behind the scenes making same-day grocery delivery possible. When a customer places an Amazon Fresh order, a shopper walks the aisles of an Amazon Fresh store or warehouse, picks each item, packs it, and stages it for delivery. It's a relatively new type of grocery job, and opinions on it range from "chill and easy" to "repetitive and underpaid."

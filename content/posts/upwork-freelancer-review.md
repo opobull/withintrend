@@ -4,7 +4,7 @@ date: 2026-03-27T12:05:00+09:00
 description: "A comprehensive guide to freelancing on Upwork — covering real earnings, the proposal system, pros, cons, and tips for success on the platform."
 tags: ["upwork", "freelancer", "gig economy", "freelance", "part-time jobs", "job reviews"]
 categories: ["Freelance & Gig"]
-draft: false
+draft: true
 ---
 
 Upwork is the world's largest freelancing platform, connecting millions of clients with freelancers across every conceivable skill set. Unlike Fiverr's gig-based model, Upwork operates more like a job board where freelancers submit proposals to clients who post projects. It's been a launchpad for countless freelance careers — but it's also a source of frustration for many.

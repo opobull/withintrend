@@ -4,7 +4,7 @@ date: 2026-04-02T21:15:00+09:00
 description: "Explore the latest quantum computing breakthroughs of 2026 and how they are reshaping cryptography, drug discovery, and the future of everyday technology."
 tags: ["technology", "quantum computing", "artificial intelligence", "tech trends", "machine learning"]
 categories: ["Tech & AI"]
-draft: false
+draft: true
 ---
 
 ## Quantum Computing Has Left the Lab

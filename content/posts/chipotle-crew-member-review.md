@@ -4,7 +4,7 @@ date: 2026-03-08T12:00:00+09:00
 description: "What's it really like working at Chipotle? Pay, hours, pros, cons, and tips from real crew members."
 tags: ["chipotle", "crew member", "fast food jobs", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 Chipotle has grown from a single Denver burrito shop into one of the most recognizable fast-casual chains in America, with over 3,500 locations nationwide. The company frequently hires part-time crew members, making it a common option for students, people seeking flexible work, and anyone who enjoys free burritos. But behind the line, is Chipotle a good place to work — or is the reality much harder than it looks from the customer side of the counter? Keep reading.

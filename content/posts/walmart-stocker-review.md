@@ -4,7 +4,7 @@ date: 2026-03-09T05:00:00+09:00
 description: "A complete guide to working as a Walmart stocker — covering pay, overnight vs. day shifts, daily tasks, and honest employee reviews."
 tags: ["walmart", "stocker", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: 2026-03-09T10:00:00-05:00
 description: "A complete guide to working as a stocker or night merchandiser at Costco, covering pay, daily duties, and real employee experiences."
 tags: ["costco", "stocker", "night merchandiser", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 Costco's warehouse floors don't stock themselves. Behind those towering pallets of bulk goods is a team of stockers and night merchandisers who keep everything organized, replenished, and ready for the next day's rush. It's one of the most physical roles at Costco, but it also comes with the same impressive pay and benefits the company is known for.

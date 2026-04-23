@@ -4,7 +4,7 @@ date: 2026-03-13T15:00:00-05:00
 description: "A detailed guide to working as an Olive Garden server, including tips, pay, daily responsibilities, and the real pros and cons."
 tags: ["Olive Garden", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

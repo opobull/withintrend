@@ -4,7 +4,7 @@ date: 2026-03-13T09:15:00-06:00
 description: "A comprehensive look at what it's like working as a Whataburger team member — covering pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["whataburger", "team member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

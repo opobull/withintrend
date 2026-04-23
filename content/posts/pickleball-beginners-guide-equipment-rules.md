@@ -4,7 +4,7 @@ date: 2026-03-28T21:18:00+09:00
 description: "A complete beginner's guide to pickleball covering rules, equipment, basic strategies, and where to find courts near you."
 tags: ["sports", "pickleball", "athletics", "fitness", "sports news"]
 categories: ["Sports"]
-draft: false
+draft: true
 ---
 
 ## Why Pickleball Is the Fastest-Growing Sport in America

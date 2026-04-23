@@ -4,7 +4,7 @@ date: 2026-03-26T10:30:00+09:00
 description: "A comprehensive guide to working as a tutor at Kumon — covering pay, daily responsibilities, work environment, and what real employees say about the experience."
 tags: ["Kumon", "tutor", "education", "part-time jobs", "job reviews"]
 categories: ["Education & Childcare"]
-draft: false
+draft: true
 ---
 
 Kumon is one of the largest supplemental education programs in the world, with thousands of learning centers across the United States. If you've ever seen those storefronts with kids working through math and reading worksheets, that's Kumon. For tutors and classroom assistants, Kumon offers a structured part-time role that's especially popular among college students, education majors, and anyone who enjoys working with children.

@@ -4,7 +4,7 @@ date: "2026-04-03T21:03:00+09:00"
 description: "Discover easy and delicious weeknight pasta recipes that take under 30 minutes. Perfect for busy families looking for quick dinner ideas with simple ingredients."
 tags: ["recipes", "cooking", "pasta", "quick dinners", "family meals", "meal ideas"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 ## Why Pasta Is the Ultimate Weeknight Savior

@@ -4,6 +4,7 @@ date: 2026-03-28T11:50:00+09:00
 description: "Decode your cat's mysterious behavior with this complete guide to feline body language. Understand what your cat's tail, ears, eyes, and posture are really telling you."
 tags: ["cat behavior", "cat body language", "pet care", "cat tips", "understanding cats"]
 categories: ["Pets & Animals"]
+draft: true
 ---
 
 ## Your Cat Is Talking to You — Are You Listening?

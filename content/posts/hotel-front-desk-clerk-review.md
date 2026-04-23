@@ -4,7 +4,7 @@ date: 2026-03-25T12:30:00+09:00
 description: "A comprehensive guide to working as a hotel front desk clerk, covering pay, daily duties, pros, cons, and tips from real employee experiences."
 tags: ["hotel", "front desk clerk", "hospitality", "part-time jobs", "job reviews"]
 categories: ["Hotel & Hospitality"]
-draft: false
+draft: true
 ---
 
 If you've ever wondered what it's really like to stand behind that polished counter greeting guests, handling complaints, and juggling a dozen tasks at once — you're in the right place. Hotel front desk clerk positions are among the most popular entry points into the hospitality industry, and for good reason: decent pay, unique perks, and plenty of room for growth.

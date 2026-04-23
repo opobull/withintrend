@@ -4,7 +4,7 @@ date: 2026-03-25T12:10:00+09:00
 description: "Everything you need to know about working as a Marriott front desk agent — pay, daily responsibilities, benefits, and honest employee insights."
 tags: ["marriott", "front desk", "hotel", "part-time jobs", "job reviews"]
 categories: ["Hotel & Hospitality"]
-draft: false
+draft: true
 ---
 
 Marriott International runs the largest hotel portfolio on the planet — from budget-friendly Fairfield Inns to the ultra-luxury Ritz-Carlton. A front desk agent position at any Marriott property puts you at the center of one of hospitality's biggest operations. But the reality behind the desk is more nuanced than the polished lobby might suggest.

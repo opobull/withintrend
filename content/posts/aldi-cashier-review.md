@@ -4,7 +4,7 @@ date: 2026-03-11T13:00:00-05:00
 description: "A complete guide to working as a part-time cashier at ALDI, covering pay, daily responsibilities, pros, cons, and advice for new hires."
 tags: ["ALDI", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

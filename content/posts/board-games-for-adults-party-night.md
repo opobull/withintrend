@@ -4,7 +4,7 @@ date: 2026-04-03T20:15:00+09:00
 description: "Discover the 15 best board games for adults in 2026. From strategy games to party favorites, find the perfect game for your next game night with friends or family."
 tags: ["board games", "game night", "party games", "adult board games", "tabletop games"]
 categories: ["Entertainment"]
-draft: false
+draft: true
 ---
 
 Board games are experiencing a golden age. Forget the dusty Monopoly boxes gathering cobwebs in closets — modern tabletop games offer incredible variety, from deep strategic experiences to laugh-out-loud party games. Whether you're hosting a dinner party, planning a date night, or looking for a new hobby, there's a board game that fits perfectly.

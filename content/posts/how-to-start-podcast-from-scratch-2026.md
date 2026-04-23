@@ -4,7 +4,7 @@ date: 2026-04-03T20:10:00+09:00
 description: "Everything you need to start a podcast in 2026 — from equipment and software to recording tips, publishing, and growing your audience. A complete step-by-step guide for beginners."
 tags: ["start a podcast", "podcasting guide", "podcast equipment", "podcast hosting", "content creation"]
 categories: ["Entertainment"]
-draft: false
+draft: true
 ---
 
 Starting a podcast has never been more accessible. The barrier to entry is lower than ever, with affordable equipment, free editing software, and hosting platforms that handle distribution automatically. But while starting is easy, creating a podcast that people actually listen to requires planning, consistency, and an understanding of what makes audio content compelling.

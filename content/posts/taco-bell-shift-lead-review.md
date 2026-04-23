@@ -4,7 +4,7 @@ date: 2026-03-11T07:45:00-05:00
 description: "Everything you need to know about being a Taco Bell shift lead, including pay, daily responsibilities, pros, cons, and practical advice from real employees."
 tags: ["Taco Bell", "shift lead", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

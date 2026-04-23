@@ -4,7 +4,7 @@ date: 2026-04-02T21:33:00+09:00
 description: "A practical guide to understanding and applying the five love languages in modern relationships, including how digital communication has changed the way we express love."
 tags: ["relationships", "dating", "love", "dating tips", "relationship advice"]
 categories: ["Relationships & Dating"]
-draft: false
+draft: true
 ---
 
 ## Love Languages Are More Relevant Than Ever — But Need an Update

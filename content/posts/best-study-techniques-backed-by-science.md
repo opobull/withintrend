@@ -4,6 +4,7 @@ date: 2026-03-28T10:25:00+09:00
 description: "Stop wasting time with ineffective study methods. These science-backed techniques are proven to improve retention, understanding, and test performance."
 tags: ["study tips", "learning techniques", "education", "study hacks", "memory improvement"]
 categories: ["Education & Study Tips"]
+draft: true
 ---
 
 ## Most People Study Wrong

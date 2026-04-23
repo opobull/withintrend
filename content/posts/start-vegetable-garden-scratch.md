@@ -4,7 +4,7 @@ date: 2026-04-01T21:31:31+09:00
 description: "How to Start a Vegetable Garden from Scratch"
 tags: ["home","garden","landscaping","interior design","home improvement"]
 categories: ["Home & Garden"]
-draft: false
+draft: true
 ---
 Dreaming of fresh, homegrown tomatoes? Yearning for crisp lettuce straight from your backyard? Starting a vegetable garden from scratch can seem like a daunting task, especially if you've never had a green thumb before. But imagine the satisfaction of harvesting your own organic produce, knowing exactly where your food comes from, and saving money at the grocery store. The good news is, you don't need acres of land or years of experience to embark on this incredibly rewarding journey. This comprehensive guide will walk you through every essential step, from choosing the perfect spot to enjoying your first delicious harvest. Get ready to dig in and discover the simple joys of growing your own vegetables!
 

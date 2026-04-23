@@ -4,7 +4,7 @@ date: 2026-04-02T21:28:00+09:00
 description: "Learn how to build a capsule wardrobe that simplifies your mornings, saves money, and ensures you always look put-together with fewer, better clothing pieces."
 tags: ["fashion", "style", "capsule wardrobe", "clothing", "trends"]
 categories: ["Fashion & Style"]
-draft: false
+draft: true
 ---
 
 ## The Case for Owning Less Clothing

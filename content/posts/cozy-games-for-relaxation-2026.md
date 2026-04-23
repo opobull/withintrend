@@ -4,7 +4,7 @@ date: 2026-03-28T21:07:30+09:00
 description: "Discover the best cozy games perfect for relaxing after a long day. From farming sims to exploration adventures, these stress-free games are trending in 2026."
 tags: ["gaming", "cozy games", "video games", "relaxation", "game reviews"]
 categories: ["Gaming"]
-draft: false
+draft: true
 ---
 
 ## The Cozy Game Revolution Is Here to Stay

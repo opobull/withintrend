@@ -4,7 +4,7 @@ date: 2026-03-22T11:55:00+09:00
 description: "A complete guide to working as a cashier at H-E-B, covering pay, culture, daily duties, and honest insights from real employees."
 tags: ["HEB", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 H-E-B is a Texas institution — a beloved grocery chain that consistently ranks among the best employers in the state. If you're in Texas and looking for a part-time grocery job, H-E-B is likely on your short list. But what's the cashier experience actually like behind the register?

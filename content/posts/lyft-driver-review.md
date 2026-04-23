@@ -4,7 +4,7 @@ date: 2026-03-16T03:15:00-05:00
 description: "Everything you need to know about working as a Lyft driver, including pay, daily routine, pros, cons, and tips for maximizing your earnings."
 tags: ["Lyft", "rideshare", "driver", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 ## Introduction

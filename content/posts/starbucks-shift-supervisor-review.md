@@ -4,7 +4,7 @@ date: 2026-03-09T08:00:00+09:00
 description: "A comprehensive guide to working as a Starbucks Shift Supervisor — covering pay, daily responsibilities, benefits, and real employee insights."
 tags: ["starbucks", "shift supervisor", "coffee", "part-time jobs", "job reviews"]
 categories: ["Coffee & Beverage"]
-draft: false
+draft: true
 ---
 
 ## Introduction

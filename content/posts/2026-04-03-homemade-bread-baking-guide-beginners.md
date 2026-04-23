@@ -4,7 +4,7 @@ date: "2026-04-03T21:07:00+09:00"
 description: "Learn how to bake delicious homemade bread from scratch with this beginner-friendly guide. Step-by-step instructions, tips, and common mistakes to avoid."
 tags: ["cooking", "bread baking", "homemade bread", "kitchen tips", "baking basics"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 ## The Joy of Baking Your Own Bread

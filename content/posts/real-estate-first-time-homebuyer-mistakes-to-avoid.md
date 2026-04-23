@@ -4,6 +4,7 @@ date: 2026-03-31T21:29:00+09:00
 description: "Avoid costly first-time homebuyer mistakes with this comprehensive guide. Learn about pre-approval, hidden costs, inspections, and negotiation strategies."
 tags: ["first time homebuyer", "home buying tips", "real estate mistakes", "mortgage advice", "house hunting"]
 categories: ["real-estate"]
+draft: true
 ---
 
 ## The Journey to Your First Home Does Not Have to Be Stressful

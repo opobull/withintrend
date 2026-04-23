@@ -4,6 +4,7 @@ date: 2026-03-28T11:10:00+09:00
 description: "A complete beginner's guide to fantasy football. Learn how drafting, scoring, waivers, and trades work so you can join a league with confidence this season."
 tags: ["fantasy football", "NFL", "fantasy sports", "beginner guide", "football tips"]
 categories: ["Sports"]
+draft: true
 ---
 
 ## Fantasy Football: The Game Within the Game

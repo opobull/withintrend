@@ -4,6 +4,7 @@ date: 2026-03-28T11:25:00+09:00
 description: "From tech investments to unexpected product lines, these celebrities have built impressive business empires you probably didn't know existed beyond their fame."
 tags: ["celebrity business", "celebrity entrepreneurs", "side business", "famous entrepreneurs", "entertainment"]
 categories: ["Celebrity & Entertainment News"]
+draft: true
 ---
 
 ## Hollywood's Best-Kept Business Secrets

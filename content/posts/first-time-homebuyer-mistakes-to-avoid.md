@@ -4,6 +4,7 @@ date: 2026-03-28T11:35:00+09:00
 description: "Don't learn these expensive lessons the hard way. Here are the most common first-time homebuyer mistakes and how to avoid them to save thousands on your biggest purchase."
 tags: ["homebuying", "first time buyer", "real estate tips", "mortgage", "house hunting"]
 categories: ["Real Estate"]
+draft: true
 ---
 
 ## Buying Your First Home Is Exciting — and Risky

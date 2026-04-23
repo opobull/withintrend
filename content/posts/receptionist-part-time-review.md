@@ -4,7 +4,7 @@ date: 2026-03-28T12:30:00+09:00
 description: "Everything you need to know about working as a part-time receptionist, including pay, daily tasks, pros, cons, and advice from real workers."
 tags: ["receptionist", "office jobs", "part-time jobs", "job reviews", "administrative"]
 categories: ["Other"]
-draft: false
+draft: true
 ---
 
 The receptionist is often the first face people see when they walk into an office, clinic, or business — and that makes the role more important (and more demanding) than many people realize. If you're considering a part-time receptionist position, here's what dozens of real workers have to say about the experience.

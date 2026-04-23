@@ -4,7 +4,7 @@ date: 2026-03-29T20:50:00+09:00
 description: "Remote work has fundamentally changed where people want to live. Here's how suburban housing markets are booming and what it means for buyers."
 tags: ["real estate", "home buying", "property", "housing market", "mortgage"]
 categories: ["Real Estate"]
-draft: false
+draft: true
 ---
 
 Five years ago, the idea of working from home full-time felt like a luxury reserved for freelancers and tech entrepreneurs. Fast forward to 2026, and roughly 35% of American workers operate remotely at least three days a week, according to recent Bureau of Labor Statistics data. That shift hasn't just changed how we work — it's fundamentally redrawn the map of where we want to live.

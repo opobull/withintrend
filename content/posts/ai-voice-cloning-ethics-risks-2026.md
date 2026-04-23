@@ -4,7 +4,7 @@ date: 2026-04-03T18:15:00+09:00
 description: "AI voice cloning has become shockingly realistic. Here's how the technology works, why it matters, the ethical concerns, and how to protect yourself from voice-based scams."
 tags: ["AI voice cloning", "deepfake audio", "AI ethics", "voice scams"]
 categories: ["Tech & AI"]
-draft: false
+draft: true
 ---
 
 Three seconds of audio. That's all modern AI voice cloning technology needs to create a convincing replica of someone's voice. In 2026, the gap between a real human voice and an AI-generated clone has become nearly imperceptible to the average listener — and that has enormous implications for everything from entertainment to fraud.

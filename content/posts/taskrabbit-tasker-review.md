@@ -4,7 +4,7 @@ date: 2026-03-27T12:15:00+09:00
 description: "Everything you need to know about working as a Tasker on TaskRabbit — real pay rates, daily tasks, pros, cons, and tips from experienced Taskers."
 tags: ["taskrabbit", "tasker", "gig economy", "freelance", "part-time jobs", "job reviews"]
 categories: ["Freelance & Gig"]
-draft: false
+draft: true
 ---
 
 TaskRabbit has carved out a unique niche in the gig economy — instead of driving people around or delivering food, you're doing actual tasks: assembling furniture, cleaning homes, moving boxes, running errands, and just about anything else people need help with. It's one of the few gig platforms where skilled labor meets flexible scheduling.

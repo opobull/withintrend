@@ -4,7 +4,7 @@ date: 2026-03-23T12:15:00+09:00
 description: "A complete guide to working as a Sheetz associate, covering hourly pay, daily responsibilities, benefits, and real employee reviews."
 tags: ["sheetz", "associate", "convenience store", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

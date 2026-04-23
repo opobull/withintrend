@@ -4,7 +4,7 @@ date: 2026-03-11T10:00:00-05:00
 description: "A comprehensive look at what it's really like working as a crew member at Burger King, including pay, daily duties, pros, cons, and advice for new hires."
 tags: ["Burger King", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

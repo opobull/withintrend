@@ -4,7 +4,7 @@ date: 2026-04-04T21:16:00+09:00
 description: "Looking for a dog that thrives in an apartment? These 8 breeds are perfectly suited for smaller living spaces while still being wonderful companions."
 tags: ["pets", "dogs", "animal care", "pet health", "apartment living"]
 categories: ["Pets & Animals"]
-draft: false
+draft: true
 ---
 
 ## Size Is Not Everything

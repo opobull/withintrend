@@ -4,7 +4,7 @@ date: 2026-04-02T21:34:00+09:00
 description: "Discover 12 of the most bizarre and fascinating deep-sea creatures ever found, from the barreleye fish to the vampire squid, and learn about the extreme adaptations that let them survive."
 tags: ["interesting facts", "deep sea", "ocean", "fun facts", "curiosity"]
 categories: ["Weird & Interesting Facts"]
-draft: false
+draft: true
 ---
 
 ## We Know More About Mars Than Our Own Ocean Floor

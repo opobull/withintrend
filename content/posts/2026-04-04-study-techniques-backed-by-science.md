@@ -4,7 +4,7 @@ date: 2026-04-04T21:34:00+09:00
 description: "Stop wasting time with ineffective study methods. These 7 techniques are backed by decades of cognitive science research and proven to boost retention."
 tags: ["education", "study tips", "learning", "academic success", "online courses"]
 categories: ["Education & Study Tips"]
-draft: false
+draft: true
 ---
 
 ## Most Study Advice Is Wrong

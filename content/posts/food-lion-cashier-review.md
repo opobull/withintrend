@@ -4,7 +4,7 @@ date: 2026-03-23T12:25:00+09:00
 description: "Everything you need to know about working as a cashier at Food Lion, including pay rates, daily duties, benefits, and honest employee experiences."
 tags: ["food lion", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

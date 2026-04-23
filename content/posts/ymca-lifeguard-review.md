@@ -4,7 +4,7 @@ date: 2026-03-24T11:55:00+09:00
 description: "A comprehensive guide to working as a YMCA lifeguard, covering pay, certification requirements, daily responsibilities, and real employee experiences."
 tags: ["ymca", "lifeguard", "aquatics", "part-time jobs", "job reviews"]
 categories: ["Fitness & Recreation"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working as a YMCA Lifeguard

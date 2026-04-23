@@ -4,7 +4,7 @@ date: 2026-03-17T08:00:00-05:00
 description: "A comprehensive guide to working as a GameStop associate — covering pay, daily duties, pros, cons, and tips from real employee experiences."
 tags: ["GameStop", "associate", "retail", "part-time jobs", "job reviews", "gaming"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

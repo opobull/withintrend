@@ -4,7 +4,7 @@ date: 2026-03-12T13:00:00-05:00
 description: "A complete guide to the Panda Express front counter service team member position, with real employee insights on pay, tasks, and work experience."
 tags: ["panda express", "front counter", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

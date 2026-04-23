@@ -4,7 +4,7 @@ date: 2026-03-14T10:00:00-05:00
 description: "Everything you need to know about working as a Papa John's in-store team member, from pay and daily tasks to the real pros and cons."
 tags: ["Papa Johns", "team member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

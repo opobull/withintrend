@@ -4,7 +4,7 @@ date: 2026-03-13T08:30:00-06:00
 description: "Everything you need to know about working as a carhop at Sonic Drive-In — from tips and hourly pay to daily duties and honest pros and cons."
 tags: ["sonic", "carhop", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

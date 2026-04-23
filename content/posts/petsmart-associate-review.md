@@ -4,7 +4,7 @@ date: 2026-03-08T04:00:00+09:00
 description: "What's it really like working at PetSmart? Pay, hours, pros, cons, and tips from real associates."
 tags: ["petsmart", "pet care associate", "retail jobs", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 PetSmart is the largest specialty pet retailer in North America, operating over 1,650 stores across the United States and Canada. For animal lovers, a job at PetSmart sounds like a dream — getting paid to be around pets all day. But while the animals are certainly a perk, the reality of working at PetSmart involves much more than cuddling puppies and feeding fish. Is the job actually worth it, or does the retail grind overshadow the furry benefits? Keep reading.

@@ -4,7 +4,7 @@ date: 2026-03-16T14:00:00+00:00
 description: "A comprehensive guide to working as a FedEx Ground delivery driver, covering pay, daily work, contractor model, and real driver experiences."
 tags: ["fedex", "ground driver", "delivery & gig", "logistics & shipping", "part-time jobs", "job reviews"]
 categories: ["Logistics & Shipping"]
-draft: false
+draft: true
 ---
 
 ## Introduction

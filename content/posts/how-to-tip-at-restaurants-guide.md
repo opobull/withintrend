@@ -4,7 +4,7 @@ date: 2026-04-03T20:20:00+09:00
 description: "Confused about restaurant tipping? This complete guide covers how much to tip servers, bartenders, and delivery drivers in 2026, plus tipping etiquette for every dining situation."
 tags: ["tipping etiquette", "restaurant tips", "how much to tip", "dining etiquette", "server tips"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 Tipping culture in the United States continues to evolve, and it's more confusing than ever. Digital payment terminals prompt you to tip at counter-service restaurants. Delivery apps suggest tip amounts before your food even arrives. And the ongoing debate about whether tipping should exist at all doesn't change the fact that most restaurant workers still depend on tips to earn a living wage.

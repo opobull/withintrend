@@ -4,7 +4,7 @@ date: 2026-03-19T10:00:00-05:00
 description: "An in-depth look at the Prestige Beauty Advisor role at Ulta Beauty, including pay rates, daily responsibilities, and real employee feedback."
 tags: ["ulta beauty", "prestige beauty advisor", "retail", "part-time jobs", "job reviews"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 ## Introduction

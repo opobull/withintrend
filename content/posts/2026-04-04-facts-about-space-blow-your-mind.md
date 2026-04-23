@@ -4,7 +4,7 @@ date: 2026-04-04T21:38:00+09:00
 description: "From neutron star density to the cosmic web, these 15 space facts are so extraordinary they sound made up but are completely, verifiably real."
 tags: ["interesting facts", "space", "curiosity", "fun facts", "trivia"]
 categories: ["Weird & Interesting Facts"]
-draft: false
+draft: true
 ---
 
 ## The Universe Is Stranger Than Fiction

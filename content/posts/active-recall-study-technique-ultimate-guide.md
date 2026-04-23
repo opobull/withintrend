@@ -4,7 +4,7 @@ date: 2026-03-28T21:25:30+09:00
 description: "Learn why active recall is the most effective study technique according to cognitive science and how to implement it for better grades and deeper learning."
 tags: ["education", "study tips", "active recall", "learning", "academic success"]
 categories: ["Education & Study Tips"]
-draft: false
+draft: true
 ---
 
 ## Why Most Study Methods Are Wasting Your Time

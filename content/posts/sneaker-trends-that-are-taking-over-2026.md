@@ -4,6 +4,7 @@ date: 2026-03-28T11:00:00+09:00
 description: "From retro revivals to tech-forward designs, these are the sneaker trends dominating 2026. Stay ahead of the curve with this guide to what's hot in footwear right now."
 tags: ["sneaker trends", "2026 fashion", "footwear", "streetwear", "sneaker culture"]
 categories: ["Fashion & Style"]
+draft: true
 ---
 
 ## Sneaker Culture Never Stops Evolving

@@ -4,6 +4,7 @@ date: 2026-03-28T10:15:00+09:00
 description: "Learn how to set healthy boundaries in relationships, at work, and with family without the guilt. Practical scripts and strategies for protecting your energy and well-being."
 tags: ["boundaries", "mental health", "self-care", "relationships", "communication"]
 categories: ["Relationships & Dating"]
+draft: true
 ---
 
 ## Why Boundaries Feel So Hard

@@ -4,7 +4,7 @@ date: "2026-04-03T21:11:00+09:00"
 description: "Create a beautiful low-maintenance garden with these beginner-friendly ideas. Learn which plants thrive with minimal care and how to design a garden that practically tends itself."
 tags: ["garden", "landscaping", "home improvement", "beginner gardening", "low maintenance plants"]
 categories: ["Home & Garden"]
-draft: false
+draft: true
 ---
 
 ## Gardening Does Not Have to Be Hard Work

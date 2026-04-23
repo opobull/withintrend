@@ -4,7 +4,7 @@ date: 2026-03-10T04:00:00-05:00
 description: "A detailed guide to working as a Whole Foods Market cashier, including pay, daily duties, pros, cons, and tips from real employee experiences."
 tags: ["whole foods", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

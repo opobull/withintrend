@@ -4,7 +4,7 @@ date: 2026-03-27T12:00:00+09:00
 description: "Everything you need to know about working as a summer camp counselor — real pay, daily responsibilities, pros, cons, and tips from experienced counselors."
 tags: ["camp counselor", "summer job", "childcare", "seasonal work", "part-time jobs", "job reviews"]
 categories: ["Education & Childcare"]
-draft: false
+draft: true
 ---
 
 Being a camp counselor is one of those jobs that people either describe as the best experience of their life or the most exhausting thing they've ever done — and often both at the same time. It's a uniquely intense role that combines childcare, outdoor education, team leadership, and a healthy dose of chaos.

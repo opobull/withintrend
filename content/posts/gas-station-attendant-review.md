@@ -4,7 +4,7 @@ date: 2026-03-26T11:30:00+09:00
 description: "Everything you need to know about working as a gas station attendant — from pay and daily tasks to the real pros and cons based on employee experiences."
 tags: ["gas station", "attendant", "clerk", "part-time jobs", "job reviews"]
 categories: ["Other"]
-draft: false
+draft: true
 ---
 
 Gas station attendant jobs are everywhere, and they're one of the most accessible part-time positions you can find. Whether it's a Shell, BP, independent station, or a convenience-store-attached gas station like Wawa or Sheetz, the role is fundamentally similar: keep the pumps running, the store stocked, and the customers moving.

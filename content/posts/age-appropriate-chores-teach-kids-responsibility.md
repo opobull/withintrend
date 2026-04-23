@@ -4,7 +4,7 @@ date: 2026-03-29T21:02:00+09:00
 description: "Giving kids chores builds responsibility, confidence, and life skills. Here's a practical age-by-age guide to household tasks for children."
 tags: ["parenting", "family", "kids", "child development", "family life"]
 categories: ["Parenting & Family"]
-draft: false
+draft: true
 ---
 
 There's a parenting instinct that's hard to fight: doing everything for your kids because it's faster, easier, and produces better results. Your five-year-old's bed-making attempt looks like a fabric tornado hit the room. Your eight-year-old takes twenty minutes to unload a dishwasher you could empty in three. The temptation to just handle it yourself is real.

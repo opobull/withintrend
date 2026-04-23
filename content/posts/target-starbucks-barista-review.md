@@ -4,7 +4,7 @@ date: 2026-03-09T05:30:00+09:00
 description: "A complete guide to working as a Starbucks barista inside Target — covering pay, daily duties, benefits, and what real employees say about the experience."
 tags: ["target", "starbucks", "barista", "coffee", "part-time jobs", "job reviews"]
 categories: ["Coffee & Beverage"]
-draft: false
+draft: true
 ---
 
 ## Introduction

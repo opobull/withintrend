@@ -4,7 +4,7 @@ date: 2026-04-03T19:15:00+09:00
 description: "Learn how to write a clear and professional resignation letter with templates, formatting tips, and advice on maintaining good relationships when leaving a job."
 tags: ["resignation letter", "quitting a job", "career advice", "professional development", "job transition"]
 categories: ["Other"]
-draft: false
+draft: true
 ---
 
 Quitting a job is a significant career moment, and how you handle it matters more than most people realize. A well-written resignation letter protects your professional reputation, keeps doors open for future opportunities, and ensures a smooth transition for everyone involved.

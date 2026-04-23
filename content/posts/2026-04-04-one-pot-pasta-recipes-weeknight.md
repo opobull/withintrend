@@ -4,7 +4,7 @@ date: 2026-04-04T21:04:00+09:00
 description: "These 7 delicious one-pot pasta recipes require minimal cleanup and are ready in under 30 minutes, perfect for busy weeknight dinners."
 tags: ["recipes", "cooking", "pasta", "meal ideas", "kitchen tips"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 ## One Pot, Zero Stress

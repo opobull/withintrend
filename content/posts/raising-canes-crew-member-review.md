@@ -4,7 +4,7 @@ date: 2026-03-12T11:00:00-05:00
 description: "An in-depth guide to working as a Raising Cane's crew member, including real employee insights on pay, culture, pros, cons, and tips."
 tags: ["raising canes", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

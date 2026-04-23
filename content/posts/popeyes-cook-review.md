@@ -4,7 +4,7 @@ date: 2026-03-12T10:30:00-05:00
 description: "A detailed look at the Popeyes cook position, covering pay, daily responsibilities, pros, cons, and advice from real employees."
 tags: ["popeyes", "cook", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

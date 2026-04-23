@@ -4,7 +4,7 @@ date: 2026-03-18T07:45:00-05:00
 description: "A detailed guide to working as a Marshalls retail associate, covering pay, daily responsibilities, employee pros and cons, and advice for new hires."
 tags: ["Marshalls", "retail associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,6 +4,7 @@ date: 2026-03-28T10:40:00+09:00
 description: "Transform your tiny balcony into a thriving garden with these practical ideas for container gardening, vertical planters, and growing food in small spaces."
 tags: ["balcony garden", "small space gardening", "container gardening", "urban gardening", "apartment garden"]
 categories: ["Home & Garden"]
+draft: true
 ---
 
 ## Your Balcony Is a Garden Waiting to Happen

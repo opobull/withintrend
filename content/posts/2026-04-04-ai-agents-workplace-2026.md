@@ -4,7 +4,7 @@ date: 2026-04-04T21:00:00+09:00
 description: "Discover how AI agents are transforming daily workflows, automating repetitive tasks, and changing what it means to work in an office in 2026."
 tags: ["technology", "artificial intelligence", "workplace automation", "tech trends", "AI agents"]
 categories: ["Tech & AI"]
-draft: false
+draft: true
 ---
 
 ## The Rise of AI Agents in Everyday Work

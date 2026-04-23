@@ -4,6 +4,7 @@ date: 2026-03-28T12:45:00+09:00
 description: "Everything you need to know about traveling Southeast Asia on a budget, from cheap accommodation and street food to transportation hacks and money-saving strategies."
 tags: ["budget travel", "Southeast Asia", "backpacking", "travel tips", "cheap travel"]
 categories: ["Travel & Places"]
+draft: true
 ---
 
 ## Why Southeast Asia Is the Ultimate Budget Destination

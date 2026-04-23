@@ -4,7 +4,7 @@ date: 2026-03-09T07:30:00+09:00
 description: "Everything you need to know about working as a McDonald's manager — from pay and daily duties to the real pros and cons reported by employees."
 tags: ["mcdonalds", "manager", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

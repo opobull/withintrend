@@ -4,6 +4,7 @@ date: 2026-03-28T11:55:00+09:00
 description: "Living in an apartment doesn't mean you can't have a dog. These breeds thrive in smaller spaces and make perfect companions for apartment dwellers."
 tags: ["dog breeds", "apartment dogs", "pet ownership", "small dogs", "dog care"]
 categories: ["Pets & Animals"]
+draft: true
 ---
 
 ## You Don't Need a Yard to Have a Happy Dog

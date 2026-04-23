@@ -4,7 +4,7 @@ date: 2026-03-13T07:45:00-06:00
 description: "A detailed guide to working as a crew member at Jack in the Box — covering pay, daily tasks, honest pros and cons, and tips for new hires."
 tags: ["jack in the box", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

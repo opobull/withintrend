@@ -4,7 +4,7 @@ date: 2026-03-11T08:30:00-05:00
 description: "A complete guide to working as a Taco Bell team member, including pay, daily responsibilities, honest pros and cons, and tips for new hires."
 tags: ["Taco Bell", "team member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

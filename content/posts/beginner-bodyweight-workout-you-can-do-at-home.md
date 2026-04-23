@@ -4,6 +4,7 @@ date: 2026-03-28T13:10:00+09:00
 description: "No gym, no equipment, no excuses. This complete beginner bodyweight workout plan helps you build strength, burn calories, and get fit from the comfort of your living room."
 tags: ["bodyweight workout", "home fitness", "beginner exercise", "no equipment workout", "strength training"]
 categories: ["Health & Fitness"]
+draft: true
 ---
 
 ## Why Bodyweight Training Works

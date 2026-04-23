@@ -4,7 +4,7 @@ date: 2026-03-16T14:30:00-05:00
 description: "A comprehensive guide to working as a server at Buffalo Wild Wings, covering pay, tips, daily duties, pros, cons, and advice for new hires."
 tags: ["Buffalo Wild Wings", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

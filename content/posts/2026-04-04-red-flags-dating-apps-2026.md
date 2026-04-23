@@ -4,7 +4,7 @@ date: 2026-04-04T21:36:00+09:00
 description: "Protect yourself from wasted time and worse with these 11 dating app red flags that experienced daters have learned to spot instantly in 2026."
 tags: ["relationships", "dating", "dating tips", "relationship advice", "love"]
 categories: ["Relationships & Dating"]
-draft: false
+draft: true
 ---
 
 ## Swipe Smarter, Not Harder

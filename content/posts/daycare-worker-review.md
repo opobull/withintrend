@@ -4,7 +4,7 @@ date: 2026-03-27T11:55:00+09:00
 description: "A complete guide to working at a daycare — covering real pay, daily tasks, pros, cons, and tips from experienced childcare workers."
 tags: ["daycare", "childcare", "daycare worker", "part-time jobs", "job reviews"]
 categories: ["Education & Childcare"]
-draft: false
+draft: true
 ---
 
 Working at a daycare might seem simple from the outside — play with kids, read stories, hand out snacks. But anyone who's actually done it knows it's one of the most demanding, undervalued, and emotionally complex jobs in the entire service industry. It's also one of the most rewarding, if it's the right fit for you.

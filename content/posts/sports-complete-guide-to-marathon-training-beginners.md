@@ -4,6 +4,7 @@ date: 2026-03-31T21:20:00+09:00
 description: "Everything beginners need to know about marathon training, from building a base to race day strategy. A practical 16-week training plan and essential tips."
 tags: ["marathon training", "running for beginners", "marathon guide", "endurance running", "race training"]
 categories: ["sports"]
+draft: true
 ---
 
 ## You Can Run a Marathon

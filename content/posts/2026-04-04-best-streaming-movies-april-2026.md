@@ -4,7 +4,7 @@ date: 2026-04-04T21:12:00+09:00
 description: "From Oscar-winning dramas to blockbuster action films, here are the best movies arriving on Netflix, Disney+, and other streaming platforms in April 2026."
 tags: ["movies", "streaming", "entertainment", "reviews", "TV shows"]
 categories: ["Movies & TV"]
-draft: false
+draft: true
 ---
 
 ## April 2026 Is Stacked

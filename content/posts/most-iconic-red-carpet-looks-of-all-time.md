@@ -4,6 +4,7 @@ date: 2026-03-28T11:20:00+09:00
 description: "From Marilyn Monroe to Zendaya, these are the most unforgettable red carpet fashion moments in entertainment history that defined eras and broke the internet."
 tags: ["red carpet", "celebrity fashion", "iconic looks", "fashion history", "awards fashion"]
 categories: ["Celebrity & Entertainment News"]
+draft: true
 ---
 
 ## When Fashion Becomes History

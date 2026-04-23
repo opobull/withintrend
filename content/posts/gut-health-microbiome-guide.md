@@ -4,7 +4,7 @@ date: 2026-04-03T18:20:00+09:00
 description: "Your gut microbiome influences far more than digestion. Learn how gut bacteria affect mental health, immunity, and weight — plus practical steps to improve yours."
 tags: ["gut health", "microbiome", "probiotics", "digestive health"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 
 Your gut contains roughly 38 trillion microorganisms — bacteria, viruses, fungi, and other microbes that collectively weigh about 3-5 pounds. This community, known as your gut microbiome, does far more than help you digest food. It influences your immune system, mental health, metabolism, sleep quality, and even your risk for chronic diseases.

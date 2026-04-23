@@ -4,7 +4,7 @@ date: 2026-03-29T20:47:00+09:00
 description: "From Lincoln and Kennedy parallels to the Titanic novel written 14 years early — the wildest historical coincidences that actually happened."
 tags: ["interesting facts", "weird facts", "trivia", "fun facts", "curiosity"]
 categories: ["Weird & Interesting Facts"]
-draft: false
+draft: true
 ---
 
 History is full of strange patterns, eerie parallels, and timing so improbable that it almost feels scripted. While most coincidences have perfectly rational explanations rooted in statistics and human pattern recognition, some are so specific and so unlikely that they stop you in your tracks.

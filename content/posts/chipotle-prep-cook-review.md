@@ -4,7 +4,7 @@ date: 2026-03-14T11:30:00-05:00
 description: "Everything you need to know about working as a Chipotle prep cook, from daily tasks and pay to the real pros and cons."
 tags: ["Chipotle", "prep cook", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

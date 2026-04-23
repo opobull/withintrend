@@ -4,7 +4,7 @@ date: 2026-03-18T09:15:00-05:00
 description: "A comprehensive look at what it's really like working as a Dollar General associate, including pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["Dollar General", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

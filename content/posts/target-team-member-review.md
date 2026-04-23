@@ -4,7 +4,7 @@ date: 2026-03-08T18:00:00+09:00
 description: "What's it really like working at Target? Pay, hours, pros, cons, and tips from real team members."
 tags: ["target", "team member", "retail jobs", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 Target has long been considered one of the more desirable places to work in retail. With its clean stores, trendy merchandise, and reputation for treating employees relatively well, it attracts millions of job applications every year. But does working at Target actually live up to the hype? Is the pay as good as they advertise? And what's it really like to spend a shift stocking shelves, running the register, or fulfilling online orders? Keep reading for an honest look at what real Target team members have to say.

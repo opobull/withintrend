@@ -4,6 +4,7 @@ date: 2026-03-31T21:10:00+09:00
 description: "Explore how AI-powered code assistants are transforming software development workflows, boosting productivity, and reshaping the future of programming in 2026."
 tags: ["AI code assistants", "software development", "programming tools", "AI productivity", "developer tools 2026"]
 categories: ["tech-ai"]
+draft: true
 ---
 
 ## The Rise of AI Code Assistants

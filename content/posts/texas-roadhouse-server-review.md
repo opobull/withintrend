@@ -4,7 +4,7 @@ date: 2026-03-16T13:15:00-05:00
 description: "Everything you need to know about working as a server at Texas Roadhouse, including pay, tips, daily duties, pros, cons, and tips for new hires."
 tags: ["Texas Roadhouse", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

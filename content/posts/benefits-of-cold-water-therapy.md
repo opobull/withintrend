@@ -4,7 +4,7 @@ date: 2026-03-29T21:18:00+09:00
 description: "Explore the science-backed benefits of cold water therapy, from reduced inflammation to better mental health, plus tips to start safely."
 tags: ["health", "fitness", "wellness", "exercise", "nutrition"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 
 Cold water therapy has gone from a niche biohacker obsession to something your coworker casually mentions at lunch. Ice baths, cold plunges, and even just turning the shower dial to freezing — it's everywhere in 2026. But behind the social media spectacle of people gasping in ice-filled tubs, there's legitimate science worth paying attention to.

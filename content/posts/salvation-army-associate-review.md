@@ -4,7 +4,7 @@ date: 2026-03-18T13:00:00-05:00
 description: "A complete guide to working as a Salvation Army thrift store associate — covering pay, duties, pros, cons, and real employee insights."
 tags: ["Salvation Army", "associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

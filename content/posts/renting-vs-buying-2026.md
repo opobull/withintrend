@@ -4,6 +4,7 @@ date: 2026-03-28T12:36:00+09:00
 description: "Renting vs buying a home in 2026 — a realistic comparison of costs, flexibility, and long-term wealth building to help you make the right decision."
 tags: ["renting vs buying", "real estate", "home buying", "rent", "housing market", "2026", "financial planning"]
 categories: ["Real Estate"]
+draft: true
 ---
 
 The renting vs. buying debate has been going on for as long as mortgages have existed, and in 2026, the conversation is more nuanced than ever. Interest rates, housing prices, rental costs, and lifestyle preferences have all shifted significantly in recent years, making the "right" answer more personal than any blanket advice can capture.

@@ -4,7 +4,7 @@ date: 2026-03-19T07:00:00-05:00
 description: "Everything you need to know about the Nike cashier role, from hourly pay and employee discounts to daily duties and real worker experiences."
 tags: ["nike", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

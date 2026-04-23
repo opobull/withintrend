@@ -4,7 +4,7 @@ date: 2026-04-04T21:22:00+09:00
 description: "From Hollywood power couples to music industry romances, here is a complete timeline of every major celebrity breakup that has made headlines in 2026."
 tags: ["celebrities", "entertainment", "pop culture", "celebrity news", "Hollywood"]
 categories: ["Celebrity & Entertainment News"]
-draft: false
+draft: true
 ---
 
 ## Love Is Hard When Everyone Is Watching

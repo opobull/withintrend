@@ -4,7 +4,7 @@ date: 2026-03-23T12:30:00+09:00
 description: "A comprehensive guide to working as a cashier at Albertsons, covering pay, daily tasks, benefits, and real employee experiences."
 tags: ["albertsons", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

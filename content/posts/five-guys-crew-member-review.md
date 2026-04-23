@@ -4,7 +4,7 @@ date: 2026-03-12T09:30:00-05:00
 description: "A comprehensive look at what it's really like working as a crew member at Five Guys, including pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["five guys", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: 2026-03-26T11:00:00+09:00
 description: "Everything you need to know about working as a beach lifeguard — from ocean rescue training and pay to the real pros and cons of protecting beachgoers."
 tags: ["lifeguard", "beach", "ocean", "summer jobs", "part-time jobs", "job reviews"]
 categories: ["Fitness & Recreation"]
-draft: false
+draft: true
 ---
 
 Beach lifeguarding is the more intense cousin of pool lifeguarding. Instead of a contained, chlorinated rectangle, you're monitoring open water with currents, tides, waves, and unpredictable ocean conditions. It's a job that demands strong swimming ability, sharp situational awareness, and the physical fitness to perform rescues in challenging environments. For those who can handle it, many describe it as one of the best summer jobs you can have.

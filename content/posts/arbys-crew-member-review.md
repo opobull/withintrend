@@ -4,7 +4,7 @@ date: 2026-03-13T07:00:00-06:00
 description: "A complete guide to working as an Arby's crew member — covering hourly pay, daily responsibilities, pros, cons, and advice for new hires."
 tags: ["arbys", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

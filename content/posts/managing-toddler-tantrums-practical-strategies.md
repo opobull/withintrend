@@ -4,7 +4,7 @@ date: 2026-03-28T21:21:00+09:00
 description: "Evidence-based strategies for handling toddler tantrums with patience and effectiveness, from understanding triggers to de-escalation techniques."
 tags: ["parenting", "family", "toddlers", "child development", "family life"]
 categories: ["Parenting & Family"]
-draft: false
+draft: true
 ---
 
 ## Why Toddler Tantrums Happen (And Why They Are Normal)

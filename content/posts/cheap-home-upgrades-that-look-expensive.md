@@ -4,6 +4,7 @@ date: 2026-03-28T12:00:00+09:00
 description: "Transform your home on a budget with these affordable upgrades that look like they cost a fortune. From simple hardware swaps to painting tricks, make your space look luxurious for less."
 tags: ["home upgrades", "budget decor", "home improvement", "DIY home", "interior design"]
 categories: ["DIY & Life Hacks"]
+draft: true
 ---
 
 ## Looking Expensive Doesn't Have to Be Expensive

@@ -4,7 +4,7 @@ date: 2026-03-10T05:30:00-05:00
 description: "Everything you need to know about working as a Whole Foods Market team member, including pay, daily tasks, pros, cons, and tips from real employees."
 tags: ["whole foods", "team member", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

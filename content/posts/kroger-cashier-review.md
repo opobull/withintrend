@@ -4,7 +4,7 @@ date: 2026-03-22T12:10:00+09:00
 description: "A detailed guide to the Kroger cashier position, including hourly pay, union benefits, daily tasks, and real employee reviews."
 tags: ["Kroger", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 Kroger is the largest supermarket chain in the United States, operating thousands of stores under various banners. With that size comes a massive workforce, and the cashier position is one of the most frequently hired roles. But what's it actually like to work behind a Kroger register?

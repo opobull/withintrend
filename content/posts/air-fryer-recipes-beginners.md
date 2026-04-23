@@ -4,7 +4,7 @@ date: 2026-04-05T18:54:51+09:00
 description: "Top 10 Air Fryer Recipes for Beginners"
 tags: ["recipes","cooking","food","meal ideas","kitchen tips"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 Are you new to the world of air frying and wondering where to begin? You've come to the right place! Air fryers have taken kitchens by storm, promising crispy, delicious results with significantly less oil than traditional deep frying. But beyond the hype, they're incredibly versatile, user-friendly appliances perfect for beginners looking to whip up quick, healthy, and satisfying meals. If your air fryer is still sitting in its box or you’ve only used it for reheating pizza, get ready to unlock its full potential. We've curated a list of the top 10 air fryer recipes specifically designed for novices, ensuring success and building your confidence with every delicious bite.
 

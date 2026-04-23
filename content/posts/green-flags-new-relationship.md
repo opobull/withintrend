@@ -4,6 +4,7 @@ date: 2026-03-28T12:21:00+09:00
 description: "We talk a lot about red flags, but what about green flags? These positive signs in a new relationship show you might have found something real and healthy."
 tags: ["green flags", "relationships", "dating advice", "healthy relationships", "new relationship", "love", "dating tips"]
 categories: ["Relationships & Dating"]
+draft: true
 ---
 
 The internet has taught us to be excellent at spotting red flags. We can identify love bombing, gaslighting, and avoidant attachment from a mile away. And that's genuinely useful — recognizing warning signs early can save you from months or years of heartache.

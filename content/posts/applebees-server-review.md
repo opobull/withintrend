@@ -4,7 +4,7 @@ date: 2026-03-13T18:00:00-05:00
 description: "A comprehensive guide to working as an Applebee's server, covering tips, pay, daily responsibilities, and the real pros and cons."
 tags: ["Applebees", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

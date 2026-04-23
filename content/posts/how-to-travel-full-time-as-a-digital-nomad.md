@@ -4,6 +4,7 @@ date: 2026-03-28T12:40:00+09:00
 description: "A practical guide to becoming a digital nomad in 2026, covering remote work, finances, visas, gear, and how to build a sustainable location-independent lifestyle."
 tags: ["digital nomad", "remote work", "travel lifestyle", "work from anywhere", "location independent"]
 categories: ["Travel & Places"]
+draft: true
 ---
 
 ## The Digital Nomad Dream Is More Achievable Than Ever

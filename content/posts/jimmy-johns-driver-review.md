@@ -4,7 +4,7 @@ date: 2026-03-12T15:45:00-06:00
 description: "Everything you need to know about working as a Jimmy John's delivery driver — covering pay, tips, daily duties, and honest pros and cons."
 tags: ["jimmy johns", "delivery driver", "fast food", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 ## Introduction

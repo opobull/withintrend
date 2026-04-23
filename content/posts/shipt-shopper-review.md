@@ -4,7 +4,7 @@ date: 2026-03-16T05:45:00-05:00
 description: "A comprehensive guide to working as a Shipt Shopper, covering pay, daily duties, pros, cons, and tips for maximizing your earnings."
 tags: ["Shipt", "shopper", "delivery", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: 2026-03-18T07:00:00-05:00
 description: "What it's really like working as a cashier at Marshalls, including hourly pay, daily duties, benefits, and honest employee feedback."
 tags: ["Marshalls", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: "2026-04-03T21:04:00+09:00"
 description: "Start your day with this effective morning stretching routine. Improve flexibility, reduce stiffness, and boost energy with these simple stretches for all fitness levels."
 tags: ["fitness", "exercise", "stretching", "wellness", "morning routine", "flexibility"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 
 ## Why Morning Stretching Changes Everything

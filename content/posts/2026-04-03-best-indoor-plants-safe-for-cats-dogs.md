@@ -4,7 +4,7 @@ date: "2026-04-03T21:15:00+09:00"
 description: "Discover beautiful indoor plants that are completely safe for your cats and dogs. Create a lush home environment without worrying about pet toxicity."
 tags: ["pets", "cats", "dogs", "pet health", "indoor plants", "animal care"]
 categories: ["Pets & Animals"]
-draft: false
+draft: true
 ---
 
 ## Creating a Pet-Safe Indoor Garden

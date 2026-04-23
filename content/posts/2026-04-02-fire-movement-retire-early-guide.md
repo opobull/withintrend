@@ -4,7 +4,7 @@ date: 2026-04-02T21:19:00+09:00
 description: "A comprehensive guide to the FIRE movement in 2026, covering savings strategies, investment approaches, and realistic expectations for achieving financial independence."
 tags: ["personal finance", "FIRE movement", "investing", "budgeting", "savings"]
 categories: ["Personal Finance"]
-draft: false
+draft: true
 ---
 
 ## What the FIRE Movement Actually Looks Like in 2026

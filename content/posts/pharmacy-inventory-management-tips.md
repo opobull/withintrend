@@ -4,7 +4,7 @@ date: 2026-04-03T18:00:00+09:00
 description: "Learn practical pharmacy inventory management strategies that reduce expired stock, improve cash flow, and keep shelves stocked with what customers actually need."
 tags: ["pharmacy inventory", "retail pharmacy", "inventory management", "pharmacy operations"]
 categories: ["Pharmacy Retail"]
-draft: false
+draft: true
 ---
 
 Running a retail pharmacy means juggling thousands of SKUs, navigating insurance reimbursement timelines, and making sure the right medications are on the shelf when patients need them. Poor inventory management doesn't just hurt your bottom line — it can directly impact patient care.

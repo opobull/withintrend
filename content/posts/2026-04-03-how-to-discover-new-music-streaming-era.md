@@ -4,7 +4,7 @@ date: "2026-04-03T21:23:00+09:00"
 description: "Break out of your music bubble with these strategies for discovering fresh artists and songs. Navigate streaming algorithms and find music you'll actually love."
 tags: ["music", "music streaming", "artists", "songs", "music discovery"]
 categories: ["Music"]
-draft: false
+draft: true
 ---
 
 ## The Paradox of Infinite Music

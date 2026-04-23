@@ -4,7 +4,7 @@ date: 2026-03-18T06:15:00-05:00
 description: "An in-depth look at working as a Bath & Body Works sales associate, including pay, daily tasks, perks, and real employee experiences."
 tags: ["Bath and Body Works", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

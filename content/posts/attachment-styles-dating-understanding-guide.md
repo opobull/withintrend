@@ -4,7 +4,7 @@ date: 2026-03-28T21:27:00+09:00
 description: "Learn about the four attachment styles, how they shape your romantic relationships, and practical tips for building healthier connections."
 tags: ["relationships", "dating", "attachment styles", "dating tips", "relationship advice"]
 categories: ["Relationships & Dating"]
-draft: false
+draft: true
 ---
 
 ## Why Your Attachment Style Matters More Than Your Dating Profile

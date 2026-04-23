@@ -4,6 +4,7 @@ date: 2026-03-28T12:20:00+09:00
 description: "Quick and delicious one-pot pasta recipes perfect for busy weeknights. Minimal cleanup, maximum flavor — dinner ready in 30 minutes or less."
 tags: ["one pot pasta", "easy dinner", "weeknight meals", "quick recipes", "pasta recipes", "30 minute meals", "cooking tips"]
 categories: ["Recipes & Cooking"]
+draft: true
 ---
 
 There's a reason one-pot pasta has become a weeknight staple in kitchens around the world. You throw everything into a single pot, let it cook, and end up with a delicious dinner and barely any dishes to wash. It sounds too good to be true, but it works beautifully every time.

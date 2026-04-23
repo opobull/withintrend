@@ -4,7 +4,7 @@ date: 2026-03-29T21:27:00+09:00
 description: "You don't need thousands to start investing. Learn how to begin building wealth with just $50 using simple, proven strategies."
 tags: ["personal finance", "investing", "budgeting", "money management", "savings"]
 categories: ["Personal Finance"]
-draft: false
+draft: true
 ---
 
 There's a persistent myth that investing is something you do once you "have money." That you need a few thousand dollars — minimum — before it's even worth opening a brokerage account. This was arguably true 20 years ago, when trading commissions ate up small investments and minimum account balances locked out most beginners. In 2026, it's completely false.

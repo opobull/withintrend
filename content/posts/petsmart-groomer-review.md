@@ -4,7 +4,7 @@ date: 2026-03-24T12:25:00+09:00
 description: "Everything you need to know about working as a pet groomer at PetSmart, including pay structure, daily responsibilities, and honest pros and cons."
 tags: ["petsmart", "groomer", "pet care", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at PetSmart as a Groomer

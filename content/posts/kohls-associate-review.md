@@ -4,7 +4,7 @@ date: 2026-03-18T03:15:00-05:00
 description: "A detailed review of working as a Kohl's retail associate, covering pay, daily duties, employee pros and cons, and practical tips."
 tags: ["Kohls", "retail associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

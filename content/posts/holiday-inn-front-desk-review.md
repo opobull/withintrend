@@ -4,7 +4,7 @@ date: 2026-03-25T12:05:00+09:00
 description: "A complete guide to working as a Holiday Inn front desk agent — pay, daily duties, benefits, and what real employees say about the job."
 tags: ["holiday inn", "front desk", "hotel", "part-time jobs", "job reviews"]
 categories: ["Hotel & Hospitality"]
-draft: false
+draft: true
 ---
 
 Holiday Inn is one of the most recognizable hotel brands in the world, with thousands of locations across the globe under the IHG (InterContinental Hotels Group) umbrella. The front desk is the heartbeat of every Holiday Inn, and if you're considering a front desk agent position at one, you're likely wondering how it compares to other hotel or service industry jobs.

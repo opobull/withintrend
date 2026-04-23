@@ -4,6 +4,7 @@ date: 2026-03-31T21:22:00+09:00
 description: "Learn how to build a versatile capsule wardrobe that simplifies your mornings, saves money, and keeps you looking stylish with fewer pieces of clothing."
 tags: ["capsule wardrobe", "minimalist fashion", "wardrobe essentials", "style guide", "sustainable fashion"]
 categories: ["fashion-style"]
+draft: true
 ---
 
 ## What Is a Capsule Wardrobe and Why Does It Work

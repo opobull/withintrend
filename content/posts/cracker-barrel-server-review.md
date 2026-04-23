@@ -4,7 +4,7 @@ date: 2026-03-16T12:00:00-05:00
 description: "A complete guide to working as a server at Cracker Barrel, covering pay, tips, daily duties, pros, cons, and advice for new hires."
 tags: ["Cracker Barrel", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

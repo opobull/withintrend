@@ -4,7 +4,7 @@ date: 2026-03-10T06:15:00-05:00
 description: "A complete guide to working as a delivery driver at Lowe's Home Improvement, covering pay, daily duties, pros, cons, and real employee insights."
 tags: ["lowes", "delivery driver", "logistics", "part-time jobs", "job reviews"]
 categories: ["Logistics & Shipping"]
-draft: false
+draft: true
 ---
 
 ## Introduction

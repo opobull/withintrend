@@ -4,7 +4,7 @@ date: 2026-04-02T21:29:00+09:00
 description: "A practical guide for parents navigating screen time decisions in 2026, covering age-appropriate limits, quality content, and strategies for maintaining balance."
 tags: ["parenting", "family", "kids", "screen time", "child development"]
 categories: ["Parenting & Family"]
-draft: false
+draft: true
 ---
 
 ## The Screen Time Debate Has Changed

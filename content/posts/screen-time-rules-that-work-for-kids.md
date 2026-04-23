@@ -4,6 +4,7 @@ date: 2026-03-28T12:44:00+09:00
 description: "Struggling with your kids' screen time? These practical, realistic rules help manage technology use without constant battles. Evidence-based tips for every age group."
 tags: ["screen time", "parenting", "kids and technology", "parenting tips", "digital wellness", "children", "family rules"]
 categories: ["Parenting & Family"]
+draft: true
 ---
 
 Every parent in 2026 is fighting the same battle. Screens are everywhere — tablets, phones, laptops, gaming consoles, smart TVs — and kids are drawn to them like moths to a flame. The guilt, the arguments, the constant negotiation about "just five more minutes" — it's exhausting.

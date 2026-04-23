@@ -4,6 +4,7 @@ date: 2026-03-28T12:25:00+09:00
 description: "The biggest and most exciting video games releasing in 2026, from blockbuster AAA titles to indie gems that every gamer should have on their radar."
 tags: ["upcoming games", "2026 games", "video games", "gaming news", "game releases"]
 categories: ["Gaming"]
+draft: true
 ---
 
 ## 2026 Is Shaping Up to Be a Monster Year for Gaming

@@ -4,7 +4,7 @@ date: 2026-03-28T21:16:30+09:00
 description: "From Oprah to Reese Witherspoon, discover which celebrity book clubs are worth your time and how they are shaping what America reads in 2026."
 tags: ["celebrities", "entertainment", "books", "celebrity news", "pop culture"]
 categories: ["Celebrity & Entertainment News"]
-draft: false
+draft: true
 ---
 
 ## Celebrity Book Clubs Are Bigger Than Ever

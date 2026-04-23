@@ -4,7 +4,7 @@ date: 2026-03-22T11:50:00+09:00
 description: "A detailed guide to the H-E-B curbside associate position, covering pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["HEB", "curbside", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 H-E-B's curbside pickup service has become one of the most popular ways Texans shop for groceries, and that growth means constant demand for curbside associates. If you've been considering this role, you're probably wondering whether the reality matches the job listing. Here's what actual employees have to say.

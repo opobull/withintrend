@@ -4,7 +4,7 @@ date: 2026-04-02T21:16:00+09:00
 description: "Discover why Zone 2 cardio training is the most effective exercise for longevity, fat burning, and metabolic health, and learn how to implement it properly."
 tags: ["health", "fitness", "zone 2 cardio", "exercise", "wellness"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 
 ## The Exercise Paradox Most People Get Wrong

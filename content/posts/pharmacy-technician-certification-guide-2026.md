@@ -4,7 +4,7 @@ date: 2026-04-03T19:25:00+09:00
 description: "Everything you need to know about becoming a certified pharmacy technician, including education requirements, PTCB exam prep, salary expectations, and career paths."
 tags: ["pharmacy technician", "PTCB certification", "healthcare careers", "pharmacy jobs", "career guide"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 Pharmacy technicians play a critical role in the healthcare system, working alongside pharmacists to ensure patients receive the right medications safely and efficiently. With growing demand for healthcare services and expanding roles for pharmacy technicians, this career path offers stability, decent pay, and multiple opportunities for advancement.

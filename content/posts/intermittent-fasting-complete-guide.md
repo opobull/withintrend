@@ -4,7 +4,7 @@ date: 2026-04-01T21:30:16+09:00
 description: "How to Start Intermittent Fasting: Complete Guide"
 tags: ["health","fitness","wellness","exercise","nutrition"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 Embarking on a journey towards better health often involves exploring new approaches to eating, and one method gaining significant traction is intermittent fasting (IF). Far from being another restrictive diet, intermittent fasting is an eating pattern that cycles between periods of eating and voluntary fasting. It’s not about *what* you eat, but *when* you eat, focusing on creating a consistent schedule that allows your body to optimize various metabolic processes.
 

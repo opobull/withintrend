@@ -4,7 +4,7 @@ date: 2026-03-29T21:24:00+09:00
 description: "Skip the tourist crowds and explore these 7 underrated European cities perfect for summer 2026 travel on any budget."
 tags: ["travel", "destinations", "vacation", "travel tips", "tourism"]
 categories: ["Travel & Places"]
-draft: false
+draft: true
 ---
 
 Every summer, millions of tourists descend on the same European cities — Barcelona, Paris, Rome, Amsterdam. These are wonderful places, but in peak season they're also expensive, crowded, and increasingly hostile to the tourist overflow that strains local infrastructure and patience.

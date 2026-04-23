@@ -4,7 +4,7 @@ date: 2026-04-02T21:31:00+09:00
 description: "Explore why vinyl records continue to outsell CDs, how the vinyl revival is reshaping the music industry, and what makes physical music formats relevant in 2026."
 tags: ["music", "vinyl", "albums", "artists", "music streaming"]
 categories: ["Music"]
-draft: false
+draft: true
 ---
 
 ## Vinyl Sales Are Still Growing — And Nobody Predicted This

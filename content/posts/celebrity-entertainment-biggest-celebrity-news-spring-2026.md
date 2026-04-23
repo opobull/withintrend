@@ -4,6 +4,7 @@ date: 2026-03-31T21:31:00+09:00
 description: "Catch up on the biggest celebrity entertainment news, trending stories, and pop culture moments from spring 2026. Awards season, new projects, and viral moments."
 tags: ["celebrity news", "entertainment 2026", "pop culture", "awards season", "celebrity trends"]
 categories: ["celebrity-entertainment"]
+draft: true
 ---
 
 ## Spring 2026 Has Been Packed With Entertainment News

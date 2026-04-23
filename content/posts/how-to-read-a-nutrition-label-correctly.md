@@ -4,7 +4,7 @@ date: 2026-04-03T19:20:00+09:00
 description: "A practical guide to understanding nutrition labels, including serving sizes, daily values, hidden sugars, and how to compare products effectively."
 tags: ["nutrition labels", "healthy eating", "food labels", "diet tips", "health awareness"]
 categories: ["Other"]
-draft: false
+draft: true
 ---
 
 Nutrition labels are on nearly every packaged food product in the United States, yet studies consistently show that most people either ignore them entirely or misinterpret the information they contain. Understanding how to read these labels correctly is one of the most practical health skills you can develop, and it takes less effort than you might think.

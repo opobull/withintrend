@@ -4,7 +4,7 @@ date: 2026-04-02T21:23:00+09:00
 description: "Discover the scientific reasons behind why dogs tilt their heads, what it reveals about canine cognition, and what your dog is actually thinking when they do it."
 tags: ["pets", "dogs", "animal care", "pet health", "animal behavior"]
 categories: ["Pets & Animals"]
-draft: false
+draft: true
 ---
 
 ## The Head Tilt That Melts Every Dog Owner's Heart

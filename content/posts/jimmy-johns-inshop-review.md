@@ -4,7 +4,7 @@ date: 2026-03-12T15:00:00-06:00
 description: "A complete guide to working as a Jimmy John's inshop crew member — covering hourly pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["jimmy johns", "inshop", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

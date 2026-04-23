@@ -4,7 +4,7 @@ date: 2026-04-03T19:35:00+09:00
 description: "Find the perfect sunscreen for oily, dry, sensitive, or acne-prone skin. Covers SPF, chemical vs mineral, application tips, and common sunscreen mistakes."
 tags: ["sunscreen guide", "skin protection", "SPF", "sun care", "dermatology tips"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 Sunscreen is the most universally recommended skincare product by dermatologists worldwide, yet choosing the right one can feel overwhelming. With hundreds of options on the market, different SPF levels, chemical versus mineral formulas, and varying textures, it is easy to grab whatever is on sale and hope for the best.

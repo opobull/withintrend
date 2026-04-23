@@ -4,7 +4,7 @@ date: "2026-04-03T21:18:00+09:00"
 description: "Discover how to identify the best neighborhoods for real estate investment properties. Learn key indicators of growth, rental demand, and long-term appreciation potential."
 tags: ["real estate", "property", "investment", "housing market", "rental property"]
 categories: ["Real Estate"]
-draft: false
+draft: true
 ---
 
 ## Finding the Right Neighborhood for Real Estate Investment

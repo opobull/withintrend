@@ -4,6 +4,7 @@ date: 2026-03-28T12:28:00+09:00
 description: "Looking for something new to watch? These underrated Netflix shows flew under the radar but deserve your attention. Hidden gems perfect for a weekend binge."
 tags: ["netflix shows", "underrated shows", "binge watching", "tv recommendations", "streaming", "hidden gems", "weekend binge"]
 categories: ["Movies & TV"]
+draft: true
 ---
 
 We've all been there. You open Netflix, scroll endlessly through the same promoted shows, watch three trailers, and end up rewatching The Office for the fourteenth time. The algorithm keeps pushing the same popular titles, and genuinely great shows get buried under the noise.

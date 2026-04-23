@@ -4,7 +4,7 @@ date: 2026-03-09T06:00:00+09:00
 description: "Everything you need to know about working as a Target Drive Up Associate — from daily tasks and pay to the honest pros and cons."
 tags: ["target", "drive up", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

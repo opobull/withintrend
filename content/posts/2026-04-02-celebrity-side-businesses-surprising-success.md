@@ -4,7 +4,7 @@ date: 2026-04-02T21:26:00+09:00
 description: "From Ryan Reynolds' marketing empire to Rihanna's beauty domination, discover the celebrity side businesses generating billions and reshaping entire industries."
 tags: ["celebrities", "entertainment", "pop culture", "celebrity news", "business"]
 categories: ["Celebrity & Entertainment News"]
-draft: false
+draft: true
 ---
 
 ## Celebrities Are Not Just Famous — They Are Building Empires

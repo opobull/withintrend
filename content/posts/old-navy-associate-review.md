@@ -4,7 +4,7 @@ date: 2026-03-18T05:30:00-05:00
 description: "A complete guide to working as an Old Navy sales associate, including hourly pay, daily responsibilities, and honest employee reviews."
 tags: ["Old Navy", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

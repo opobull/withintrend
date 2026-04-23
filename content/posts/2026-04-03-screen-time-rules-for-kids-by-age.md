@@ -4,7 +4,7 @@ date: "2026-04-03T21:06:00+09:00"
 description: "Establish healthy screen time rules for your children based on their age. Evidence-based guidelines for managing devices, apps, and digital media consumption."
 tags: ["parenting", "kids", "screen time", "child development", "family life"]
 categories: ["Parenting & Family"]
-draft: false
+draft: true
 ---
 
 ## The Screen Time Dilemma Every Parent Faces

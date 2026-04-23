@@ -4,7 +4,7 @@ date: 2026-03-28T21:03:00+09:00
 description: "Learn how to make Korean corn cheese at home with this simple recipe. A perfect cheesy, sweet, and savory side dish for any meal or gathering."
 tags: ["recipes", "cooking", "Korean food", "corn cheese", "easy recipes"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 ## Why Korean Corn Cheese Has Taken Over Social Media

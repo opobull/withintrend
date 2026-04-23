@@ -4,7 +4,7 @@ date: 2026-03-24T12:00:00+09:00
 description: "A complete guide to working at LA Fitness front desk, including real employee reviews on pay, daily tasks, management, and career prospects."
 tags: ["la fitness", "front desk", "gym", "part-time jobs", "job reviews"]
 categories: ["Fitness & Recreation"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at LA Fitness Front Desk

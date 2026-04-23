@@ -4,7 +4,7 @@ date: "2026-04-03T21:25:00+09:00"
 description: "Prevent running injuries with these essential stretching routines. Learn dynamic warm-up stretches and post-run recovery stretches every runner needs."
 tags: ["sports", "fitness", "running", "stretching", "athletics", "injury prevention"]
 categories: ["Sports"]
-draft: false
+draft: true
 ---
 
 ## Why Stretching Is Non-Negotiable for Runners

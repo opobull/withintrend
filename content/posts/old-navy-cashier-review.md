@@ -4,7 +4,7 @@ date: 2026-03-18T04:45:00-05:00
 description: "Everything you need to know about working as an Old Navy cashier, from hourly pay and daily tasks to honest pros and cons from real employees."
 tags: ["Old Navy", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

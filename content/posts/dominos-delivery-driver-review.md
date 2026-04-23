@@ -4,7 +4,7 @@ date: 2026-03-08T05:00:00+09:00
 description: "What's it really like driving for Domino's? Pay, tips, hours, pros, cons, and tips from real drivers."
 tags: ["dominos", "delivery driver", "food delivery", "part-time jobs", "job reviews"]
 categories: ["Food Delivery"]
-draft: false
+draft: true
 ---
 
 Domino's is one of the largest pizza delivery chains in the world, and its delivery driver position remains one of the most popular part-time jobs in America — especially for people who want to earn cash tips the same day they work. The combination of flexible hours, tip income, and relatively simple work makes it an appealing option. But between the wear on your vehicle, the low base pay, and the unpredictability of tips, is delivering pizza actually a smart financial move? Keep reading.

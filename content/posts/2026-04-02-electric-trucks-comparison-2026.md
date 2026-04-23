@@ -4,7 +4,7 @@ date: 2026-04-02T21:24:00+09:00
 description: "A comprehensive comparison of the top electric trucks available in 2026, including range, towing capacity, pricing, and real-world performance of each model."
 tags: ["cars", "electric vehicles", "automotive", "car maintenance", "auto reviews"]
 categories: ["Cars & Auto"]
-draft: false
+draft: true
 ---
 
 ## The Electric Truck Market Has Finally Matured

@@ -4,7 +4,7 @@ date: 2026-03-28T21:00:00+09:00
 description: "Discover how AI-powered agents are transforming customer service with faster response times, personalized interactions, and 24/7 availability across industries."
 tags: ["technology", "artificial intelligence", "customer service", "AI agents", "tech trends"]
 categories: ["Tech & AI"]
-draft: false
+draft: true
 ---
 
 ## The Rise of AI Agents in Customer Support

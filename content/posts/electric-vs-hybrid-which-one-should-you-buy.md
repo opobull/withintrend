@@ -4,6 +4,7 @@ date: 2026-03-28T11:45:00+09:00
 description: "EV or hybrid? This comprehensive comparison breaks down costs, range, charging, maintenance, and real-world driving to help you make the right choice in 2026."
 tags: ["electric cars", "hybrid cars", "EV vs hybrid", "car buying", "green vehicles"]
 categories: ["Cars & Auto"]
+draft: true
 ---
 
 ## The Great EV vs Hybrid Debate

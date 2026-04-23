@@ -4,7 +4,7 @@ date: 2026-03-11T10:45:00-05:00
 description: "Everything you need to know about being a Wendy's shift manager, from pay and responsibilities to honest pros and cons from real employees."
 tags: ["Wendy's", "shift manager", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: 2026-03-09T07:00:00+09:00
 description: "A complete guide to working the McDonald's drive-thru — covering pay, daily tasks, pros, cons, and tips from real employees."
 tags: ["mcdonalds", "drive-thru", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: 2026-04-02T21:20:00+09:00
 description: "Discover the best indie games of 2026 that flew under the radar, from atmospheric horror to innovative puzzle platformers and narrative-driven adventures."
 tags: ["gaming", "indie games", "video games", "game reviews", "PC gaming"]
 categories: ["Gaming"]
-draft: false
+draft: true
 ---
 
 ## Why 2026 Is a Golden Year for Indie Games

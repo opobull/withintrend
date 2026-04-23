@@ -4,7 +4,7 @@ date: "2026-04-03T21:01:00+09:00"
 description: "Everything you need to know about maintaining your electric vehicle in 2026. From battery care to tire rotation, learn how EV maintenance differs from traditional cars."
 tags: ["electric vehicles", "car maintenance", "automotive", "EV tips", "cars"]
 categories: ["Cars & Auto"]
-draft: false
+draft: true
 ---
 
 ## How EV Maintenance Differs From Traditional Cars

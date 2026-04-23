@@ -4,7 +4,7 @@ date: 2026-03-26T12:15:00+09:00
 description: "Everything you need to know about working as a crew member at Regal Cinemas — from hourly pay and scheduling to the perks and common complaints."
 tags: ["Regal Cinemas", "crew member", "movie theater jobs", "part-time jobs", "job reviews"]
 categories: ["Entertainment"]
-draft: false
+draft: true
 ---
 
 Regal Cinemas is one of the biggest movie theater chains in the United States, operating hundreds of locations under the Cineworld Group umbrella. For students, young adults, and anyone looking for a flexible part-time job, a crew member position at Regal is one of the most accessible entry points into the workforce. But is it actually worth it?

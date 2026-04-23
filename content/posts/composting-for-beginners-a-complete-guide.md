@@ -4,6 +4,7 @@ date: 2026-03-28T10:45:00+09:00
 description: "Start composting today with this beginner-friendly guide. Learn what to compost, how to set up a bin, troubleshoot common problems, and turn kitchen scraps into garden gold."
 tags: ["composting", "gardening", "sustainable living", "organic gardening", "eco-friendly"]
 categories: ["Home & Garden"]
+draft: true
 ---
 
 ## Turn Your Trash Into Garden Gold

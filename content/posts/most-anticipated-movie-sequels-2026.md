@@ -4,7 +4,7 @@ date: 2026-03-29T21:07:00+09:00
 description: "From superhero blockbusters to horror franchises, here are the most anticipated movie sequels hitting theaters in 2026."
 tags: ["movies", "TV shows", "streaming", "entertainment", "reviews"]
 categories: ["Movies & TV"]
-draft: false
+draft: true
 ---
 
 Hollywood loves a sequel, and honestly, so do we — at least when it's done right. 2026 is stacked with follow-ups to some of the biggest franchises in cinema, and while not every sequel earns its existence, several of this year's entries look genuinely promising. We're talking legacy sequels with returning directors, franchise entries that took years to develop, and a few surprises that nobody saw coming.

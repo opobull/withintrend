@@ -4,7 +4,7 @@ date: 2026-03-11T09:15:00-05:00
 description: "A detailed guide to working as a shift coordinator at Burger King, covering pay, responsibilities, pros, cons, and tips from real employees."
 tags: ["Burger King", "shift coordinator", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

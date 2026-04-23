@@ -4,7 +4,7 @@ date: 2026-03-29T20:35:00+09:00
 description: "Discover practical low-maintenance landscaping ideas that look stunning without eating up your weekends. Perfect for busy homeowners."
 tags: ["home", "garden", "landscaping", "interior design", "home improvement"]
 categories: ["Home & Garden"]
-draft: false
+draft: true
 ---
 
 You love the idea of a beautiful yard. The reality? You barely have time to mow the lawn, let alone maintain a garden that looks like it belongs in a magazine. Between work, family, and the occasional desire to just sit on your couch, landscaping often falls to the bottom of the priority list.

@@ -4,7 +4,7 @@ date: 2026-03-08T16:00:00-05:00
 description: "A comprehensive look at working as an Amazon DSP delivery driver, covering pay, daily routines, benefits, and real driver experiences."
 tags: ["amazon", "delivery driver", "DSP", "delivery & gig", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 You've seen the blue Amazon vans everywhere — weaving through neighborhoods, double-parked on side streets, and making the seemingly impossible happen: next-day delivery on everything from phone chargers to furniture. But what's it actually like to be the person behind the wheel?

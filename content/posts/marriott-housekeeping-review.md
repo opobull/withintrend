@@ -4,7 +4,7 @@ date: 2026-03-25T12:15:00+09:00
 description: "A complete guide to working as a Marriott housekeeper — real employee insights on pay, daily tasks, benefits, and challenges."
 tags: ["marriott", "housekeeping", "hotel", "part-time jobs", "job reviews"]
 categories: ["Hotel & Hospitality"]
-draft: false
+draft: true
 ---
 
 Marriott International is the largest hotel company in the world, with over 8,000 properties across 30+ brands. Housekeeping is one of the most commonly available positions at any Marriott property, and it's often one of the easiest to get hired for — no experience required. But the simplicity of getting the job doesn't mean the work itself is simple.

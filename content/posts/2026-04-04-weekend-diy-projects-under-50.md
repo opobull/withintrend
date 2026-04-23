@@ -4,7 +4,7 @@ date: 2026-04-04T21:14:00+09:00
 description: "Transform your living space with these 12 budget-friendly DIY projects that anyone can complete in a single weekend for under $50."
 tags: ["DIY", "life hacks", "home improvement", "tips and tricks", "productivity"]
 categories: ["DIY & Life Hacks"]
-draft: false
+draft: true
 ---
 
 ## Big Impact, Small Budget

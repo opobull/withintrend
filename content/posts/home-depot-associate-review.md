@@ -4,7 +4,7 @@ date: 2026-03-08T09:00:00+09:00
 description: "What's it really like working at Home Depot? Pay, hours, pros, cons, and tips from real associates."
 tags: ["home depot", "sales associate", "retail jobs", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 Home Depot is the world's largest home improvement retailer, operating over 2,300 stores across North America. Whether you're a DIY enthusiast who knows the difference between a Phillips and a flathead, or someone who's never touched a power tool, Home Depot hires associates at all experience levels. But what's it actually like to work there? Is the pay competitive, and can you handle the physical demands of a warehouse-style retail environment? Keep reading for the full picture.

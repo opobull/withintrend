@@ -4,6 +4,7 @@ date: 2026-03-28T11:05:00+09:00
 description: "Build a stylish, versatile capsule wardrobe without spending a fortune. This practical guide shows you how to dress well with fewer clothes and a smaller budget."
 tags: ["capsule wardrobe", "budget fashion", "minimalist style", "wardrobe essentials", "fashion tips"]
 categories: ["Fashion & Style"]
+draft: true
 ---
 
 ## Less Clothes, More Style

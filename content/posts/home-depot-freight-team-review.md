@@ -4,7 +4,7 @@ date: 2026-03-10T08:30:00-05:00
 description: "Everything you need to know about working as a Home Depot freight team associate, including pay, overnight schedule, pros, cons, and tips."
 tags: ["home depot", "freight team", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

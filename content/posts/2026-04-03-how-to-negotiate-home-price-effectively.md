@@ -4,7 +4,7 @@ date: "2026-04-03T21:09:00+09:00"
 description: "Master the art of home price negotiation with proven strategies. Learn when to negotiate, how to make strong offers, and what leverage points to use as a buyer."
 tags: ["real estate", "home buying", "negotiation", "property", "housing market"]
 categories: ["Real Estate"]
-draft: false
+draft: true
 ---
 
 ## The Art and Science of Home Price Negotiation

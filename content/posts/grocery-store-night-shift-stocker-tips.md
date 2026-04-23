@@ -4,7 +4,7 @@ date: 2026-04-03T19:05:00+09:00
 description: "An honest look at working overnight shifts as a grocery stocker, including pay, physical demands, schedules, and tips for surviving the night shift lifestyle."
 tags: ["grocery stocker", "night shift work", "overnight stocking", "grocery store jobs", "shift work tips"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 Working the night shift at a grocery store is one of those jobs that people either love or hate. There is rarely an in-between. The stores are quiet, the customers are gone, and the work is straightforward: unload trucks, break down pallets, and stock shelves until everything is filled and faced before the morning crew arrives.

@@ -4,7 +4,7 @@ date: 2026-03-09T12:15:00-05:00
 description: "Everything you need to know about working as a cashier at Costco, including pay, hours, benefits, and real employee experiences."
 tags: ["costco", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 Costco consistently ranks as one of the best retail employers in the country, and the cashier position is one of the most common entry points into the company. But what is it actually like to stand at a Costco register all day, scanning oversized carts full of bulk items for hours on end?

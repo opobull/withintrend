@@ -4,7 +4,7 @@ date: "2026-04-03T21:28:00+09:00"
 description: "Help your children develop strong money management skills with age-appropriate lessons. From toddler coin sorting to teen budgeting, build financial literacy early."
 tags: ["parenting", "kids", "child development", "money management", "family life"]
 categories: ["Parenting & Family"]
-draft: false
+draft: true
 ---
 
 ## Why Financial Literacy Starts at Home

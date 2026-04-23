@@ -4,7 +4,7 @@ date: 2026-03-22T12:00:00+09:00
 description: "Everything you need to know about working as a deli clerk at Kroger, including pay, daily duties, honest pros and cons, and new hire tips."
 tags: ["Kroger", "deli clerk", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 Kroger's deli department is one of the most demanding areas of the store, requiring food prep skills, customer service, and the ability to work under pressure. If you're considering a deli clerk position at Kroger, it's important to know what you're signing up for — the good and the challenging.

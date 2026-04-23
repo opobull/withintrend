@@ -4,7 +4,7 @@ date: 2026-04-02T21:30:00+09:00
 description: "Start your first garden with confidence using this beginner-friendly guide to low-maintenance plants, soil preparation, and simple garden designs that practically take care of themselves."
 tags: ["home", "garden", "landscaping", "gardening", "home improvement"]
 categories: ["Home & Garden"]
-draft: false
+draft: true
 ---
 
 ## Gardening Does Not Have to Be a Second Job

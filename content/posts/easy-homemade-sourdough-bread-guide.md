@@ -4,7 +4,7 @@ date: 2026-03-29T21:21:00+09:00
 description: "Learn how to make homemade sourdough bread from scratch with this simple beginner guide, from starter to perfect loaf."
 tags: ["recipes", "cooking", "food", "meal ideas", "kitchen tips"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 Sourdough bread has a reputation problem. Scroll through baking forums and you'll find people treating their starters like temperamental pets, obsessing over hydration percentages, and posting crumb shots with the intensity of proud parents at a recital. It's enough to make a beginner think sourdough requires a chemistry degree and a trust fund's worth of free time.

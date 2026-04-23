@@ -4,7 +4,7 @@ date: 2026-03-16T16:00:00+00:00
 description: "A complete guide to working as a USPS postal clerk, covering pay, daily duties, benefits, and real employee experiences."
 tags: ["usps", "clerk", "logistics & shipping", "part-time jobs", "job reviews"]
 categories: ["Logistics & Shipping"]
-draft: false
+draft: true
 ---
 
 ## Introduction

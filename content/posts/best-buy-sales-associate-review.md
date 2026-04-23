@@ -4,7 +4,7 @@ date: 2026-03-10T03:15:00-05:00
 description: "A comprehensive guide to working as a Best Buy sales associate, covering pay, daily duties, pros, cons, and tips from real employee experiences."
 tags: ["best buy", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

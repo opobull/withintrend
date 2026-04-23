@@ -4,7 +4,7 @@ date: 2026-03-16T09:30:00-05:00
 description: "A comprehensive guide to working as a DoorDash Dasher, covering pay structure, daily routine, pros, cons, and tips for maximizing earnings."
 tags: ["DoorDash", "dasher", "delivery", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 ## Introduction

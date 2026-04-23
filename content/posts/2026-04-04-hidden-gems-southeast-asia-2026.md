@@ -4,7 +4,7 @@ date: 2026-04-04T21:06:00+09:00
 description: "Skip the overcrowded hotspots and discover 8 stunning Southeast Asian destinations that remain relatively untouched by mass tourism in 2026."
 tags: ["travel", "destinations", "Southeast Asia", "travel tips", "tourism"]
 categories: ["Travel & Places"]
-draft: false
+draft: true
 ---
 
 ## Beyond the Tourist Trail

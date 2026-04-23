@@ -4,7 +4,7 @@ date: 2026-03-16T10:45:00-05:00
 description: "A complete guide to working as a server at Outback Steakhouse, including pay, tips, daily responsibilities, pros, cons, and new hire advice."
 tags: ["Outback Steakhouse", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

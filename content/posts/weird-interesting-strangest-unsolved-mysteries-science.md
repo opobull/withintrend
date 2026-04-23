@@ -4,6 +4,7 @@ date: 2026-03-31T21:38:00+09:00
 description: "From the wow signal to the placebo effect, explore 10 bizarre unsolved mysteries in science that researchers still cannot explain. These puzzles challenge everything we think we know."
 tags: ["science", "mysteries", "unsolved mysteries", "weird science", "interesting facts", "curiosity"]
 categories: ["weird-interesting"]
+draft: true
 ---
 
 ## Science Has More Questions Than Answers

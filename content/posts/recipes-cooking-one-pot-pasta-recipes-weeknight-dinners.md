@@ -4,6 +4,7 @@ date: 2026-03-31T21:14:00+09:00
 description: "Discover 10 delicious one-pot pasta recipes that are quick, easy, and perfect for weeknight dinners. Minimal cleanup and maximum flavor in under 30 minutes."
 tags: ["one pot pasta", "weeknight dinners", "easy recipes", "quick meals", "pasta recipes"]
 categories: ["recipes-cooking"]
+draft: true
 ---
 
 ## Why One-Pot Pasta Is a Game Changer

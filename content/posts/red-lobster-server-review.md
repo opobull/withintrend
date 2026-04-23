@@ -4,7 +4,7 @@ date: 2026-03-14T08:00:00-05:00
 description: "A comprehensive guide to working as a server at Red Lobster, covering pay, tips, daily responsibilities, and honest pros and cons from real employees."
 tags: ["red lobster", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

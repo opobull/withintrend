@@ -4,7 +4,7 @@ date: 2026-03-08T08:00:00-05:00
 description: "Everything you need to know about working in Chick-fil-A's kitchen, including pay, daily tasks, work culture, and real employee experiences."
 tags: ["chick-fil-a", "kitchen", "back of house", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 While Chick-fil-A's front-of-house team gets the spotlight for their "my pleasure" hospitality, it's the kitchen crew — the back-of-house (BOH) team — that keeps the operation running. Every perfectly breaded chicken sandwich, every batch of waffle fries, and every nugget tray starts with the people working behind the scenes in a hot, fast-paced kitchen.

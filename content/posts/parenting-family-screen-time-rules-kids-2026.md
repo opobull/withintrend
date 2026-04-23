@@ -4,6 +4,7 @@ date: 2026-03-31T21:48:00+09:00
 description: "Navigate the screen time debate with evidence-based guidelines for every age group. Learn practical rules, recommended apps, and strategies to balance technology and healthy child development."
 tags: ["parenting", "screen time", "kids", "child development", "digital parenting", "family"]
 categories: ["parenting-family"]
+draft: true
 ---
 
 ## The Screen Time Debate Is More Nuanced Than You Think

@@ -4,7 +4,7 @@ date: 2026-03-16T04:30:00-05:00
 description: "A complete guide to working as a Walmart Spark Driver, covering pay, daily routine, pros, cons, and tips for maximizing earnings."
 tags: ["Walmart", "Spark Driver", "delivery", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 ## Introduction

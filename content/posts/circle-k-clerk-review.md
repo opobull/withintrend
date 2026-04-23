@@ -4,7 +4,7 @@ date: 2026-03-23T12:05:00+09:00
 description: "A complete guide to working as a clerk at Circle K, covering hourly pay, daily duties, benefits, and real employee experiences."
 tags: ["circle k", "clerk", "convenience store", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

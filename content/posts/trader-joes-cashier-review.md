@@ -4,7 +4,7 @@ date: 2026-03-11T12:15:00-05:00
 description: "What it's really like working as a cashier at Trader Joe's, including pay, work culture, benefits, and honest pros and cons from real employees."
 tags: ["Trader Joe's", "cashier", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

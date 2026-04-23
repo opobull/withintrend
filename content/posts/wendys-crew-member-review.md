@@ -4,7 +4,7 @@ date: 2026-03-11T11:30:00-05:00
 description: "A complete guide to working as a Wendy's crew member, covering pay, daily tasks, honest pros and cons, and tips for new hires."
 tags: ["Wendy's", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

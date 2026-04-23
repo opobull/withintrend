@@ -4,6 +4,7 @@ date: 2026-03-31T21:40:00+09:00
 description: "Forget the red flags — learn to recognize the green flags that indicate a healthy, lasting relationship. These 12 positive signs show your partner is emotionally mature and genuinely invested."
 tags: ["relationships", "dating", "green flags", "healthy relationships", "love", "dating advice"]
 categories: ["relationships-dating"]
+draft: true
 ---
 
 ## Why We Need to Talk About Green Flags

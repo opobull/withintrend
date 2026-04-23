@@ -4,7 +4,7 @@ date: 2026-03-08T14:00:00-05:00
 description: "Everything you need to know about driving for Amazon Flex, including pay, vehicle requirements, flexibility, and real driver experiences."
 tags: ["amazon", "flex driver", "delivery", "gig work", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 Amazon Flex lets everyday people deliver packages using their own vehicles, picking up delivery blocks through an app whenever they want. It sounds like the perfect side hustle — drive when you want, earn extra cash, no boss looking over your shoulder. But is the reality as good as the pitch?

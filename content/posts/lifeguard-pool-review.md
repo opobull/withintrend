@@ -4,7 +4,7 @@ date: 2026-03-26T11:15:00+09:00
 description: "A complete guide to working as a pool lifeguard — covering pay, certification, daily responsibilities, and what real lifeguards say about the job."
 tags: ["lifeguard", "pool", "summer jobs", "part-time jobs", "job reviews"]
 categories: ["Fitness & Recreation"]
-draft: false
+draft: true
 ---
 
 Lifeguarding at a pool is one of the most iconic summer jobs in America. Whether it's a community pool, a gym facility, a hotel, or a water park, pool lifeguards are responsible for the safety of every person in and around the water. It's a role that comes with real responsibility, decent pay for a part-time gig, and — let's be honest — some serious downtime between the action.

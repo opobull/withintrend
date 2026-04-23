@@ -4,7 +4,7 @@ date: "2026-04-03T21:26:00+09:00"
 description: "Know the warning signs that indicate your pet needs immediate veterinary care. From breathing difficulties to sudden behavior changes, learn when to act fast."
 tags: ["pets", "pet health", "dogs", "cats", "animal care", "veterinary"]
 categories: ["Pets & Animals"]
-draft: false
+draft: true
 ---
 
 ## Recognizing Pet Emergencies Before It Is Too Late

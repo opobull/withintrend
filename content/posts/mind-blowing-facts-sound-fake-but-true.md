@@ -4,6 +4,7 @@ date: 2026-03-28T12:23:00+09:00
 description: "These 10 incredible facts sound completely made up but are 100% true. From bizarre animal abilities to mind-bending history, prepare to have your mind blown."
 tags: ["fun facts", "weird facts", "interesting facts", "mind blowing", "trivia", "did you know", "amazing facts"]
 categories: ["Weird & Interesting Facts"]
+draft: true
 ---
 
 The world is full of things that seem too absurd, too coincidental, or too perfectly strange to be real. But reality doesn't care about what seems plausible. Some of the most unbelievable facts are completely, verifiably true — and they'll make you question how little you actually know about the planet you live on.

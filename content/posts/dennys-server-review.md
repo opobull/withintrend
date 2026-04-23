@@ -4,7 +4,7 @@ date: 2026-03-14T14:30:00-05:00
 description: "A complete guide to working as a server at Denny's, covering pay, tips, daily responsibilities, and honest pros and cons from real employees."
 tags: ["dennys", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,6 +4,7 @@ date: 2026-03-28T12:48:00+09:00
 description: "Just got an air fryer? These easy, foolproof recipes will help you master your new kitchen gadget and make crispy, delicious meals with minimal effort."
 tags: ["air fryer", "easy recipes", "beginner cooking", "kitchen gadgets", "healthy cooking"]
 categories: ["Recipes & Cooking"]
+draft: true
 ---
 
 ## Your Air Fryer Is About to Change Everything

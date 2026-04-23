@@ -4,7 +4,7 @@ date: 2026-03-29T21:13:00+09:00
 description: "Buy or lease an electric vehicle in 2026? We break down costs, tax credits, battery concerns, and resale value to help you decide."
 tags: ["cars", "automotive", "electric vehicles", "car maintenance", "auto reviews"]
 categories: ["Cars & Auto"]
-draft: false
+draft: true
 ---
 
 The electric vehicle market in 2026 looks nothing like it did even two years ago. Prices have dropped significantly, charging infrastructure has expanded, and the variety of available models means there's an EV for almost every budget and lifestyle. But with these rapid changes comes a question that trips up a lot of buyers: should you buy or lease your next electric vehicle?

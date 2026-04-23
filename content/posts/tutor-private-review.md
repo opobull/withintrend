@@ -4,7 +4,7 @@ date: 2026-03-26T10:45:00+09:00
 description: "A complete guide to working as a private tutor — covering how much tutors earn, how to find clients, and the real pros and cons of tutoring as a part-time job."
 tags: ["tutor", "private tutor", "education", "part-time jobs", "job reviews", "freelance"]
 categories: ["Education & Childcare"]
-draft: false
+draft: true
 ---
 
 Private tutoring is one of the most flexible and potentially lucrative part-time jobs available — especially for college students, recent graduates, and professionals with expertise in high-demand subjects. Whether you're helping a middle schooler with algebra or preparing a high school senior for the SAT, private tutoring lets you set your own rates, choose your hours, and work one-on-one with students in a way that's impossible in a classroom.

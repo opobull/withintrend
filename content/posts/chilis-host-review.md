@@ -4,7 +4,7 @@ date: 2026-03-15T08:00:00-05:00
 description: "A complete guide to working as a host or hostess at Chili's, covering pay, daily duties, pros, cons, and advice for new hires."
 tags: ["chilis", "host", "hostess", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

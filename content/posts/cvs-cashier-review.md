@@ -4,7 +4,7 @@ date: 2026-03-23T11:50:00+09:00
 description: "Everything you need to know about working as a cashier at CVS Health, including pay, daily tasks, employee benefits, and real worker reviews."
 tags: ["cvs", "cashier", "pharmacy", "part-time jobs", "job reviews"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 ## Introduction

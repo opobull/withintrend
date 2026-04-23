@@ -4,7 +4,7 @@ date: 2026-03-29T20:56:00+09:00
 description: "From Moneyball to Moreyball: how data analytics revolutionized basketball strategy, shot selection, and the way teams build rosters."
 tags: ["sports", "athletics", "fitness", "sports news", "game analysis"]
 categories: ["Sports"]
-draft: false
+draft: true
 ---
 
 If you watched an NBA game in 2005 and then watched one today, you'd barely recognize the sport. The rules haven't changed much. The court is the same size. The basket is still ten feet high. But the way teams play — where they shoot from, how they space the floor, which players they value — has been completely transformed by data analytics.

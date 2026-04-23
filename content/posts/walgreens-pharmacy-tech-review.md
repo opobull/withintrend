@@ -4,7 +4,7 @@ date: 2026-03-23T12:00:00+09:00
 description: "A complete guide to working as a pharmacy technician at Walgreens, covering pay, daily duties, certification, and real employee experiences."
 tags: ["walgreens", "pharmacy technician", "pharmacy", "part-time jobs", "job reviews"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 ## Introduction

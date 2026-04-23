@@ -4,7 +4,7 @@ date: 2026-03-09T08:00:00-05:00
 description: "A complete guide to working as a sortation associate at Amazon, including pay, hours, daily tasks, and honest employee experiences."
 tags: ["amazon", "sortation associate", "warehouse", "part-time jobs", "job reviews"]
 categories: ["Logistics & Shipping"]
-draft: false
+draft: true
 ---
 
 Amazon's sortation centers are the critical link between fulfillment warehouses and the delivery drivers who bring packages to your door. Sortation associates are the workers who make that connection happen — scanning, sorting, and organizing thousands of packages each shift so they reach the right delivery route on time.

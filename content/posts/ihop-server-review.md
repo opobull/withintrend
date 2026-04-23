@@ -4,7 +4,7 @@ date: 2026-03-14T16:45:00-05:00
 description: "A complete guide to working as a server at IHOP, including pay, tips, what the job is really like, and honest pros and cons from real workers."
 tags: ["ihop", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

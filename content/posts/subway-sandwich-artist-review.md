@@ -4,7 +4,7 @@ date: 2026-03-08T08:00:00+09:00
 description: "What's it really like working at Subway? Pay, hours, pros, cons, and tips from real Sandwich Artists."
 tags: ["subway", "sandwich artist", "fast food jobs", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 Subway is one of the largest fast-food chains in the world, with tens of thousands of locations across the United States alone. The "Sandwich Artist" position — Subway's official title for its frontline workers — is one of the most widely available entry-level jobs in the country. But what's it actually like to build sandwiches all day for minimum wage (or close to it)? Is it an easy gig, or does the reality of franchise life make it harder than it looks? Keep reading.

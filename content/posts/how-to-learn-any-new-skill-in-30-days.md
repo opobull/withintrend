@@ -4,7 +4,7 @@ date: 2026-03-29T20:41:00+09:00
 description: "A practical 30-day framework for learning any new skill fast — from guitar to coding to cooking. Backed by learning science."
 tags: ["education", "study tips", "learning", "online courses", "academic success"]
 categories: ["Education & Study Tips"]
-draft: false
+draft: true
 ---
 
 We've all been there. You decide you want to learn something new — maybe it's playing guitar, speaking Spanish, coding in Python, or cooking Thai food. You're fired up for the first three days. By day seven, the initial excitement fades. By day fourteen, you've quietly abandoned the whole thing and moved on to your next fleeting interest.

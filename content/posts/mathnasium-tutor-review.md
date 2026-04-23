@@ -4,7 +4,7 @@ date: 2026-03-26T10:15:00+09:00
 description: "Everything you need to know about working as a tutor at Mathnasium — from hourly pay and daily responsibilities to the real pros and cons based on employee reviews."
 tags: ["Mathnasium", "tutor", "math tutor", "education", "part-time jobs", "job reviews"]
 categories: ["Education & Childcare"]
-draft: false
+draft: true
 ---
 
 Mathnasium is one of the largest math-focused tutoring franchises in the United States, with over 1,000 learning centers nationwide. If you're strong in math and enjoy working with kids, a tutor (or instructor) position at Mathnasium offers a structured, low-stress part-time job that many employees describe as genuinely fulfilling — even if the pay doesn't exactly reflect the value of the work.

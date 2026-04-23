@@ -4,7 +4,7 @@ date: 2026-03-10T07:00:00-05:00
 description: "A detailed guide to working as a stocker at Lowe's Home Improvement, including pay, overnight schedule, pros, cons, and tips from real employees."
 tags: ["lowes", "stocker", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

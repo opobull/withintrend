@@ -4,7 +4,7 @@ date: 2026-04-03T18:10:00+09:00
 description: "A practical guide to tax deductions for gig workers including DoorDash, Uber, Instacart, and freelancers. Stop overpaying the IRS with these commonly overlooked write-offs."
 tags: ["gig economy taxes", "tax deductions", "freelancer taxes", "self-employment tax"]
 categories: ["Gig Economy"]
-draft: false
+draft: true
 ---
 
 If you're driving for DoorDash, delivering with Amazon Flex, shopping for Instacart, or freelancing on any platform, you're self-employed in the eyes of the IRS. That means you're responsible for paying your own taxes — but it also means you have access to deductions that W-2 employees don't.

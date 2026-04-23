@@ -4,7 +4,7 @@ date: "2026-04-03T21:14:00+09:00"
 description: "Achieve professional car detailing results at home with these expert tips. Learn the right techniques for washing, polishing, and protecting your vehicle's finish."
 tags: ["cars", "automotive", "car maintenance", "car detailing", "auto reviews"]
 categories: ["Cars & Auto"]
-draft: false
+draft: true
 ---
 
 ## Why Professional Detailing Matters for Your Vehicle

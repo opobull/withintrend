@@ -4,6 +4,7 @@ date: 2026-03-28T11:30:00+09:00
 description: "Where should remote workers buy a home in 2026? These cities offer the perfect mix of affordability, quality of life, internet reliability, and community for location-independent professionals."
 tags: ["remote work", "real estate", "best cities", "work from home", "property investment"]
 categories: ["Real Estate"]
+draft: true
 ---
 
 ## Remote Work Changed Where We Can Live — Now It's Changing Where We Buy

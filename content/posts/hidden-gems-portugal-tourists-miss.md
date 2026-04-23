@@ -4,6 +4,7 @@ date: 2026-03-28T12:22:00+09:00
 description: "Discover Portugal's best-kept secrets beyond Lisbon and Porto. From stunning villages to secret beaches, these hidden gems are worth adding to your itinerary."
 tags: ["portugal travel", "hidden gems", "off the beaten path", "europe travel", "travel tips", "portugal villages", "secret beaches"]
 categories: ["Travel & Places"]
+draft: true
 ---
 
 Everyone knows about Lisbon's colorful trams, Porto's port wine cellars, and the Algarve's golden cliffs. These are spectacular destinations, and they deserve their fame. But Portugal is so much more than its greatest hits, and some of the country's most magical places are the ones that don't make it onto the typical tourist itinerary.

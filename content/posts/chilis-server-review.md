@@ -4,7 +4,7 @@ date: 2026-03-15T09:15:00-05:00
 description: "Everything you need to know about working as a server at Chili's, including pay, tips, daily responsibilities, and honest pros and cons."
 tags: ["chilis", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,6 +4,7 @@ date: 2026-03-31T21:19:00+09:00
 description: "Explore the best roguelike and roguelite games of 2026, from indie hits to major releases. Discover challenging, replayable games with procedural generation and permadeath."
 tags: ["roguelike games", "best games 2026", "indie games", "roguelite", "procedural generation"]
 categories: ["gaming"]
+draft: true
 ---
 
 ## Why Roguelikes Continue to Dominate

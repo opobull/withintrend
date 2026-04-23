@@ -4,7 +4,7 @@ date: 2026-03-09T04:30:00+09:00
 description: "A detailed guide to working as a Walmart Online Grocery Picker — covering pay, daily tasks, pros, cons, and what real employees say about the OGP department."
 tags: ["walmart", "online grocery picker", "OGP", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

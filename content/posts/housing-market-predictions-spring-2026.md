@@ -4,7 +4,7 @@ date: 2026-03-28T21:15:00+09:00
 description: "An analysis of the spring 2026 housing market with predictions for prices, inventory, mortgage rates, and strategies for both buyers and sellers."
 tags: ["real estate", "housing market", "home buying", "property", "mortgage"]
 categories: ["Real Estate"]
-draft: false
+draft: true
 ---
 
 ## The Spring 2026 Housing Market at a Glance

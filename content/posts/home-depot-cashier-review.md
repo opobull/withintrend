@@ -4,7 +4,7 @@ date: 2026-03-07T16:00:00-05:00
 description: "A comprehensive guide to working as a cashier at Home Depot, including pay, benefits, daily duties, and real employee experiences."
 tags: ["home depot", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 Home Depot is the largest home improvement retailer in the world, and its cashiers are the final stop for every customer hauling lumber, paint cans, and power tools to the checkout line. It's a retail cashier job, but with a twist — the products are bigger, the carts are heavier, and the customers often have very specific questions about their projects.

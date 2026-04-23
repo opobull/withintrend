@@ -4,7 +4,7 @@ date: 2026-04-04T21:24:00+09:00
 description: "Our comprehensive MLB 2026 season preview with division-by-division analysis, playoff predictions, and bold calls for the upcoming baseball season."
 tags: ["sports", "baseball", "MLB", "sports news", "game analysis"]
 categories: ["Sports"]
-draft: false
+draft: true
 ---
 
 ## Opening Day Is Here

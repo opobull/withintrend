@@ -4,7 +4,7 @@ date: 2026-03-08T13:00:00+09:00
 description: "What's it really like working at Trader Joe's? Pay, hours, pros, cons, and tips from real crew members."
 tags: ["trader joes", "crew member", "grocery jobs", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 Trader Joe's has earned an almost cult-like following — not just from customers who adore its quirky products and affordable prices, but also from employees who frequently rank it among the best places to work in retail. The Hawaiian shirts, the friendly atmosphere, and the reputation for treating workers well all contribute to its appeal. But does the reality match the image? Is Trader Joe's actually a great part-time job, or is there a less cheerful side behind those hand-painted signs? Keep reading to find out.

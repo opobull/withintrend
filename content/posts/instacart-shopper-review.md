@@ -4,7 +4,7 @@ date: 2026-03-16T08:15:00-05:00
 description: "Everything you need to know about working as an Instacart Shopper, including pay, daily routine, pros, cons, and tips for maximizing earnings."
 tags: ["Instacart", "shopper", "delivery", "gig economy", "part-time jobs", "job reviews"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 ## Introduction

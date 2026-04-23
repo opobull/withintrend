@@ -4,6 +4,7 @@ date: 2026-03-28T12:30:00+09:00
 description: "Stop believing these common credit score myths. Learn the truth about what actually affects your credit and how misconceptions could be costing you thousands of dollars."
 tags: ["credit score", "personal finance", "credit myths", "money tips", "financial literacy"]
 categories: ["Personal Finance"]
+draft: true
 ---
 
 ## Your Credit Score Confusion Is Expensive

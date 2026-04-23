@@ -4,7 +4,7 @@ date: 2026-03-27T12:30:00+09:00
 description: "A comprehensive guide to working as a nanny or babysitter — covering pay rates, daily responsibilities, pros, cons, and tips for getting started in childcare."
 tags: ["nanny", "babysitter", "childcare", "part-time jobs", "job reviews"]
 categories: ["Education & Childcare"]
-draft: false
+draft: true
 ---
 
 If you love kids and want a flexible, rewarding side gig — or even a full-time career — working as a nanny or babysitter might be one of the best options out there. But behind the heartwarming moments and cute kid antics, there's a real job with real challenges. So what's it actually like?

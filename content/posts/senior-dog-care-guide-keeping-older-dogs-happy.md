@@ -4,7 +4,7 @@ date: 2026-03-28T21:12:00+09:00
 description: "A comprehensive guide to senior dog care covering health, nutrition, exercise, and comfort tips to help your aging dog thrive in their golden years."
 tags: ["pets", "dogs", "senior dog care", "pet health", "animal care"]
 categories: ["Pets & Animals"]
-draft: false
+draft: true
 ---
 
 ## When Does a Dog Become a Senior

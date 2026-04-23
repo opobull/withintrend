@@ -4,7 +4,7 @@ date: 2026-03-13T16:30:00-05:00
 description: "A complete guide to working as a server at The Cheesecake Factory, including pay, tips, the massive menu, and honest pros and cons from real workers."
 tags: ["cheesecake factory", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

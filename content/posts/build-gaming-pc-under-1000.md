@@ -4,7 +4,7 @@ date: 2026-04-01T21:30:44+09:00
 description: "How to Build a Gaming PC Under $1000"
 tags: ["gaming","video games","PC gaming","console gaming","game reviews"]
 categories: ["Gaming"]
-draft: false
+draft: true
 ---
 Embarking on the journey to build your very own gaming PC can feel like a daunting task, especially when you consider the price tags often associated with high-end rigs. Many aspiring gamers assume that a powerful machine capable of running the latest titles smoothly will inevitably break the bank, pushing well over the $1500 or even $2000 mark. But what if we told you that exceptional gaming performance doesn't require emptying your savings account? The truth is, with smart component choices, a little research, and some elbow grease, you can absolutely construct a formidable gaming PC that delivers an incredible experience – all for under $1000. This comprehensive guide will walk you through everything you need to know, from selecting the right parts to putting it all together, proving that building a budget-friendly gaming powerhouse is not just a dream, but an achievable reality.
 

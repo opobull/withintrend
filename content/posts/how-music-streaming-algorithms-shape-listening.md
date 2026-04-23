@@ -4,7 +4,7 @@ date: 2026-03-29T20:38:00+09:00
 description: "Explore how Spotify, Apple Music, and other streaming algorithms influence your music taste — and what you can do about it."
 tags: ["music", "songs", "albums", "artists", "music streaming"]
 categories: ["Music"]
-draft: false
+draft: true
 ---
 
 Think about the last song you discovered and loved. There's a decent chance you didn't find it yourself — an algorithm found it for you. Maybe it appeared in your Discover Weekly playlist, or auto-played after something you were already listening to, or showed up in a curated "mood" playlist you'd never consciously chosen.

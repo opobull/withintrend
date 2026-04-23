@@ -4,6 +4,7 @@ date: 2026-03-28T12:38:00+09:00
 description: "From explosive Twitter wars to decade-long rivalries, these are the biggest celebrity feuds that broke the internet and kept fans picking sides."
 tags: ["celebrity feuds", "entertainment news", "celebrity drama", "pop culture", "hollywood", "celebrity rivalry", "viral moments"]
 categories: ["Celebrity & Entertainment News"]
+draft: true
 ---
 
 Celebrity feuds have existed as long as celebrity itself, but the internet era transformed them from whispered tabloid gossip into full-blown public spectacles played out in real time. Social media gave celebrities direct channels to their fans — and to each other — turning personal conflicts into viral entertainment that dominates timelines for weeks.

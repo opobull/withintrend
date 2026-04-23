@@ -4,6 +4,7 @@ date: 2026-03-28T10:30:00+09:00
 description: "The albums from 2015-2025 that changed music forever. From genre-bending masterpieces to cultural phenomena, these records shaped the sound of a generation."
 tags: ["influential albums", "best albums", "music history", "album reviews", "modern music"]
 categories: ["Music"]
+draft: true
 ---
 
 ## The Albums That Shaped Our Era

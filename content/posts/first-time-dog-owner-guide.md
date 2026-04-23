@@ -4,6 +4,7 @@ date: 2026-03-28T12:32:00+09:00
 description: "Essential tips for first-time dog owners that nobody mentions. From unexpected costs to emotional challenges, here's what you really need to know before getting a dog."
 tags: ["dog owner", "first time pet", "dog tips", "pet care", "puppy guide", "dog ownership", "pet advice"]
 categories: ["Pets & Animals"]
+draft: true
 ---
 
 Getting a dog is one of the most rewarding decisions you'll ever make. It's also one of the most challenging, expensive, and life-altering. The internet is full of cute puppy videos and heartwarming adoption stories, but there's a whole side of dog ownership that nobody talks about until you're already in the thick of it.

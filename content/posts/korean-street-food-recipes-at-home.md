@@ -4,7 +4,7 @@ date: 2026-04-03T18:25:00+09:00
 description: "Recreate authentic Korean street food at home with these five easy recipes: tteokbokki, hotteok, kimbap, tornado potato, and egg bread. No special equipment needed."
 tags: ["Korean recipes", "street food", "Korean cooking", "easy recipes"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 Korean street food has gone from a niche obsession to a global phenomenon. Between K-drama food scenes, TikTok videos, and the steady growth of Korean restaurants worldwide, more people than ever want to try these dishes — but authentic Korean street food vendors aren't exactly on every corner.

@@ -4,7 +4,7 @@ date: 2026-03-24T12:20:00+09:00
 description: "A complete guide to working as a dog trainer at PetSmart, covering pay, training program, daily responsibilities, and real employee experiences."
 tags: ["petsmart", "dog trainer", "pet care", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at PetSmart as a Dog Trainer

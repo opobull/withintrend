@@ -4,7 +4,7 @@ date: "2026-04-03T21:10:00+09:00"
 description: "Boost your daily productivity with these practical AI tools. From writing assistants to scheduling helpers, discover how AI can save you hours every week."
 tags: ["technology", "artificial intelligence", "tech trends", "productivity", "AI tools"]
 categories: ["Tech & AI"]
-draft: false
+draft: true
 ---
 
 ## AI Has Moved Beyond the Hype

@@ -4,7 +4,7 @@ date: 2026-03-29T20:44:00+09:00
 description: "Red flags and dealbreakers aren't the same thing. Learn how to tell them apart and make better decisions in dating and relationships."
 tags: ["relationships", "dating", "love", "dating tips", "relationship advice"]
 categories: ["Relationships & Dating"]
-draft: false
+draft: true
 ---
 
 The internet loves talking about red flags. Scroll through any dating advice thread and you'll find people declaring everything from "doesn't text back fast enough" to "chews loudly" as red flags. The term has been so overused that it's practically lost its meaning.

@@ -4,7 +4,7 @@ date: 2026-03-14T09:30:00-05:00
 description: "A comprehensive guide to working as a Papa John's delivery driver, covering pay, tips, pros, cons, and what the job is really like."
 tags: ["Papa Johns", "delivery driver", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

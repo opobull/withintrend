@@ -4,7 +4,7 @@ date: 2026-03-23T11:55:00+09:00
 description: "A detailed guide to working as a beauty advisor at Walgreens, covering pay, daily responsibilities, product knowledge, and real employee reviews."
 tags: ["walgreens", "beauty advisor", "beauty consultant", "part-time jobs", "job reviews"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ date: 2026-03-13T14:00:00-05:00
 description: "A comprehensive guide to working as a Chipotle Kitchen Manager, covering salary, responsibilities, pros, cons, and career growth."
 tags: ["Chipotle", "kitchen manager", "fast food", "job reviews", "management"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

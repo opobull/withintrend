@@ -4,7 +4,7 @@ date: 2026-03-19T08:45:00-05:00
 description: "A detailed guide to working as a Goodwill store associate — covering pay, daily responsibilities, pros, cons, and tips from real employees."
 tags: ["Goodwill", "associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

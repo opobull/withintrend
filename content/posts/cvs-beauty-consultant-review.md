@@ -4,7 +4,7 @@ date: 2026-03-23T11:45:00+09:00
 description: "A detailed guide to working as a beauty consultant at CVS Health, covering pay, commission, daily duties, and real employee experiences."
 tags: ["cvs", "beauty consultant", "beauty", "part-time jobs", "job reviews"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 ## Introduction

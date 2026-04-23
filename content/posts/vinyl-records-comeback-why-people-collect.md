@@ -4,7 +4,7 @@ date: 2026-03-28T21:24:00+09:00
 description: "Explore why vinyl records continue to outsell CDs, what is driving the collecting trend, and how to start your own record collection in 2026."
 tags: ["music", "vinyl records", "music streaming", "albums", "artists"]
 categories: ["Music"]
-draft: false
+draft: true
 ---
 
 ## Vinyl Is Not Just Surviving — It Is Thriving

@@ -4,7 +4,7 @@ date: 2026-04-01T21:14:59+09:00
 description: "Weirdest Laws Still on the Books Around the World"
 tags: ["interesting facts","weird facts","trivia","fun facts","curiosity"]
 categories: ["Weird & Interesting Facts"]
-draft: false
+draft: true
 ---
 The world is a tapestry woven with countless rules, regulations, and statutes designed to maintain order, protect citizens, and guide societal behavior. From traffic lights to tax codes, laws are an indispensable part of our daily lives. But beyond the sensible and the serious, there exists a curious collection of legal oddities, forgotten ordinances, and outright bizarre statutes that, despite their antiquated nature or sheer absurdity, remain officially "on the books" in various corners of the globe. These strange laws offer a fascinating glimpse into historical quirks, cultural anxieties, and sometimes, just a moment of collective legislative bewilderment. Prepare to embark on a journey through the most peculiar corners of global jurisprudence, where common sense often takes a holiday and laughter is the only logical response.
 

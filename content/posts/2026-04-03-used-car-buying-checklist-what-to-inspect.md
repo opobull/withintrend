@@ -4,7 +4,7 @@ date: "2026-04-03T21:22:00+09:00"
 description: "Use this comprehensive used car buying checklist to inspect any vehicle before purchase. Learn what to look for in the exterior, interior, engine, and test drive."
 tags: ["cars", "automotive", "car maintenance", "used cars", "auto reviews"]
 categories: ["Cars & Auto"]
-draft: false
+draft: true
 ---
 
 ## Why a Thorough Inspection Saves You Thousands

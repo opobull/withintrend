@@ -4,6 +4,7 @@ date: 2026-03-31T21:17:00+09:00
 description: "Learn how to build an emergency fund from scratch with practical strategies, savings tips, and a step-by-step plan to reach financial security even on a tight budget."
 tags: ["emergency fund", "personal finance", "savings tips", "financial security", "budgeting"]
 categories: ["personal-finance"]
+draft: true
 ---
 
 ## Why an Emergency Fund Is Your Most Important Financial Priority

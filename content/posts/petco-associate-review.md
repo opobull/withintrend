@@ -4,7 +4,7 @@ date: 2026-03-24T12:15:00+09:00
 description: "A detailed guide to working at Petco as a sales associate, covering pay, daily tasks, real employee reviews, and advice for new hires."
 tags: ["petco", "sales associate", "pet store", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at Petco as a Sales Associate

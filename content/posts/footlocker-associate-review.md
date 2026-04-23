@@ -4,7 +4,7 @@ date: 2026-03-18T16:00:00-05:00
 description: "A detailed guide to working at Foot Locker as a sales associate, covering pay, perks, daily tasks, and honest employee experiences."
 tags: ["foot locker", "sales associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,6 +4,7 @@ date: 2026-03-28T12:15:00+09:00
 description: "Tired of the same mainstream horror recommendations? These underrated and overlooked horror films deliver genuine scares that most people have never seen."
 tags: ["horror movies", "underrated films", "movie recommendations", "scary movies", "hidden gems"]
 categories: ["Movies & TV"]
+draft: true
 ---
 
 ## Beyond the Mainstream Horror Canon

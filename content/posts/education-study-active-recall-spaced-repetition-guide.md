@@ -4,6 +4,7 @@ date: 2026-03-31T21:45:00+09:00
 description: "Learn how active recall and spaced repetition can transform your study habits. Backed by cognitive science, these techniques help you retain information longer and study more efficiently."
 tags: ["study tips", "active recall", "spaced repetition", "learning techniques", "education", "memory"]
 categories: ["education-study"]
+draft: true
 ---
 
 ## Why Most Students Study Wrong

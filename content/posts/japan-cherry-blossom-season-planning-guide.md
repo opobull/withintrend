@@ -4,7 +4,7 @@ date: 2026-03-28T21:04:30+09:00
 description: "A complete guide to planning a cherry blossom trip to Japan including best timing, top viewing spots, budget tips, and common mistakes to avoid."
 tags: ["travel", "Japan", "cherry blossom", "travel tips", "destinations"]
 categories: ["Travel & Places"]
-draft: false
+draft: true
 ---
 
 ## Why Japan During Cherry Blossom Season Is Worth the Hype

@@ -4,7 +4,7 @@ date: 2026-04-04T21:10:00+09:00
 description: "From chaotic kitchen sims to epic dungeon crawlers, these are the 10 best couch co-op games for local multiplayer fun in 2026."
 tags: ["gaming", "video games", "co-op games", "console gaming", "game reviews"]
 categories: ["Gaming"]
-draft: false
+draft: true
 ---
 
 ## Local Multiplayer Is Back

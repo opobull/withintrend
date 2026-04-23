@@ -4,7 +4,7 @@ date: 2026-04-02T21:18:00+09:00
 description: "Skip the tourist crowds and explore Portugal's most beautiful hidden gems, from the wild Alentejo coast to the mystical forests of Sintra and the Azores islands."
 tags: ["travel", "Portugal", "destinations", "travel tips", "tourism"]
 categories: ["Travel & Places"]
-draft: false
+draft: true
 ---
 
 ## Portugal Has More Than Lisbon and Porto

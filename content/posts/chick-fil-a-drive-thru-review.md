@@ -4,7 +4,7 @@ date: 2026-03-08T10:00:00-05:00
 description: "A complete guide to working the drive-thru at Chick-fil-A, including pay, daily duties, work culture, and real employee experiences."
 tags: ["chick-fil-a", "drive-thru", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 Chick-fil-A's drive-thru is legendary for its efficiency — consistently ranked as the fastest and most polite in the fast food industry. But being part of that well-oiled machine is a very different experience from rolling through the line as a customer. The drive-thru is often the busiest and most high-pressure station in any Chick-fil-A location.

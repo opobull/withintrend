@@ -4,7 +4,7 @@ date: 2026-04-02T21:25:00+09:00
 description: "Navigate the 2026 housing market with this comprehensive guide for first-time buyers, covering mortgage rates, down payments, bidding strategies, and common mistakes to avoid."
 tags: ["real estate", "home buying", "housing market", "mortgage", "property"]
 categories: ["Real Estate"]
-draft: false
+draft: true
 ---
 
 ## The Housing Market in 2026 Is Not What You Expected

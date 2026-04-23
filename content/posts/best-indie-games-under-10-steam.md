@@ -4,6 +4,7 @@ date: 2026-03-28T12:26:00+09:00
 description: "Discover the best indie games under $10 on Steam in 2026. From roguelikes to story-driven gems, these affordable titles punch way above their price tag."
 tags: ["indie games", "steam games", "cheap games", "gaming", "budget gaming", "pc games", "game recommendations"]
 categories: ["Gaming"]
+draft: true
 ---
 
 You don't need a $70 AAA title to have an incredible gaming experience. Some of the most memorable, creative, and downright addictive games on Steam cost less than your lunch. Indie developers continue to prove that a small budget and big ideas can produce games that rival — and often surpass — the biggest studio releases.

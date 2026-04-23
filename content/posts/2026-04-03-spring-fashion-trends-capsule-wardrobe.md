@@ -4,7 +4,7 @@ date: "2026-04-03T21:17:00+09:00"
 description: "Discover the top spring fashion trends and learn how to build a versatile capsule wardrobe. Dress stylishly every day with fewer pieces and smarter choices."
 tags: ["fashion", "style", "trends", "outfit ideas", "capsule wardrobe", "clothing"]
 categories: ["Fashion & Style"]
-draft: false
+draft: true
 ---
 
 ## Why a Capsule Wardrobe Makes Sense This Spring

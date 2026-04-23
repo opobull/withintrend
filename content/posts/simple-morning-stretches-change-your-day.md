@@ -4,6 +4,7 @@ date: 2026-03-28T12:18:00+09:00
 description: "Start your day right with these 5 simple morning stretches that boost energy, reduce stiffness, and improve flexibility. No equipment needed — just 10 minutes."
 tags: ["morning stretches", "flexibility", "morning routine", "exercise", "wellness", "stretching routine", "health tips"]
 categories: ["Health & Fitness"]
+draft: true
 ---
 
 You don't need a gym membership, fancy equipment, or an hour of free time to transform how you feel every morning. All you need is about 10 minutes and five simple stretches.

@@ -4,7 +4,7 @@ date: 2026-04-03T20:30:00+09:00
 description: "Know the food safety red flags that indicate a restaurant might not be safe to eat at. Learn what health inspectors look for and how to protect yourself when dining out."
 tags: ["food safety", "restaurant hygiene", "health inspection", "dining safety", "restaurant red flags"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 Most restaurants maintain excellent food safety standards. But foodborne illness sickens an estimated 48 million Americans each year, and restaurants are a significant source. You don't need to be paranoid about dining out, but knowing what to look for can help you make informed decisions about where you eat.

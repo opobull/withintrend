@@ -4,7 +4,7 @@ date: "2026-04-03T21:02:00+09:00"
 description: "Avoid costly first-time homebuyer mistakes with this comprehensive guide. Learn about common pitfalls in mortgage selection, home inspections, and negotiations."
 tags: ["real estate", "home buying", "first-time buyer", "mortgage", "housing market"]
 categories: ["Real Estate"]
-draft: false
+draft: true
 ---
 
 ## The Excitement and Anxiety of Buying Your First Home

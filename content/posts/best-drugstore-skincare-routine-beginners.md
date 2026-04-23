@@ -4,7 +4,7 @@ date: 2026-04-03T19:30:00+09:00
 description: "Build an effective skincare routine using affordable drugstore products. Covers cleansers, moisturizers, sunscreen, and active ingredients for every skin type."
 tags: ["drugstore skincare", "skincare routine", "affordable beauty", "skincare for beginners", "beauty products"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 Starting a skincare routine does not require a $200 trip to Sephora. Some of the most effective skincare products available today sit on drugstore shelves at a fraction of the cost of luxury brands. Dermatologists frequently recommend drugstore products to their patients, and for good reason: the active ingredients are often identical to those found in high-end formulations.

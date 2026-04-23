@@ -4,7 +4,7 @@ date: 2026-03-24T12:30:00+09:00
 description: "A comprehensive guide to working at Rite Aid as a store associate, covering pay, daily tasks, pros, cons, and tips for new employees."
 tags: ["rite aid", "store associate", "pharmacy", "part-time jobs", "job reviews"]
 categories: ["Pharmacy & Beauty"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at Rite Aid as a Store Associate

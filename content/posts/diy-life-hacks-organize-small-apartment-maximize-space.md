@@ -4,6 +4,7 @@ date: 2026-03-31T21:23:00+09:00
 description: "Practical tips and clever hacks to organize a small apartment, maximize storage space, and create a comfortable living environment even in tight quarters."
 tags: ["small apartment", "organization tips", "space saving", "home organization", "apartment hacks"]
 categories: ["diy-life-hacks"]
+draft: true
 ---
 
 ## The Art of Living Large in a Small Space

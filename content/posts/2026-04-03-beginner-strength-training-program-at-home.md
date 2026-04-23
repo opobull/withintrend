@@ -4,7 +4,7 @@ date: "2026-04-03T21:16:00+09:00"
 description: "Start building muscle and strength at home with this beginner-friendly training program. No gym membership needed — just bodyweight exercises and simple equipment."
 tags: ["fitness", "exercise", "strength training", "home workout", "health"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 
 ## Why Strength Training Matters for Everyone

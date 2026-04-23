@@ -4,6 +4,7 @@ date: 2026-03-31T21:25:00+09:00
 description: "Learn the best methods for introducing a new cat to your home, whether you have existing pets or not. Step-by-step advice for a smooth, stress-free transition."
 tags: ["new cat", "cat introduction", "pet adoption", "cat behavior", "multi-cat household"]
 categories: ["pets-animals"]
+draft: true
 ---
 
 ## Bringing a New Cat Home Is a Big Transition

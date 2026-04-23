@@ -4,7 +4,7 @@ date: 2026-03-24T12:10:00+09:00
 description: "A comprehensive review of working as a pet groomer at Petco, including commission pay structure, daily duties, and real employee insights."
 tags: ["petco", "groomer", "pet stylist", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## What It's Like Working at Petco as a Groomer

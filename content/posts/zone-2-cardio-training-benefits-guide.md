@@ -4,7 +4,7 @@ date: 2026-03-28T21:01:30+09:00
 description: "Learn why Zone 2 cardio training has become the most talked-about fitness trend, how it improves metabolic health, and how to incorporate it into your routine."
 tags: ["health", "fitness", "zone 2 training", "cardio", "exercise"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 
 ## What Is Zone 2 Cardio and Why Is Everyone Talking About It

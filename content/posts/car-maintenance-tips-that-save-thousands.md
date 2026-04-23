@@ -4,6 +4,7 @@ date: 2026-03-28T11:40:00+09:00
 description: "Simple car maintenance habits that prevent expensive repairs and keep your vehicle running longer. These tips can save you thousands of dollars over the life of your car."
 tags: ["car maintenance", "auto repair", "save money", "vehicle care", "car tips"]
 categories: ["Cars & Auto"]
+draft: true
 ---
 
 ## Prevention Is Always Cheaper Than Repair

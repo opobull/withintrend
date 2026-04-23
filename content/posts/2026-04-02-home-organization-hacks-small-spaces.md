@@ -4,7 +4,7 @@ date: 2026-04-02T21:22:00+09:00
 description: "Transform your small apartment or home with these 15 practical organization hacks that maximize storage, reduce clutter, and make tiny spaces feel spacious."
 tags: ["DIY", "life hacks", "home improvement", "organization", "tips and tricks"]
 categories: ["DIY & Life Hacks"]
-draft: false
+draft: true
 ---
 
 ## Small Space Living Does Not Have to Mean Constant Clutter

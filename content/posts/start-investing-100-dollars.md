@@ -4,7 +4,7 @@ date: 2026-03-30T21:25:36+09:00
 description: "How to Start Investing with Just $100"
 tags: ["personal finance","investing","budgeting","money management","savings"]
 categories: ["Personal Finance"]
-draft: false
+draft: true
 ---
 You’ve heard the saying, "The best time to plant a tree was 20 years ago. The second-best time is now." The same wisdom applies to investing. Many people believe they need a hefty sum of money – thousands, even tens of thousands – to begin their investment journey. This common misconception often prevents individuals from ever getting started, leading to missed opportunities for wealth growth. The truth? You can absolutely start investing with just $100. This isn't a get-rich-quick scheme; it's about leveraging the power of compound interest and consistent contributions to build a more secure financial future, even if you're starting small. This comprehensive guide will walk you through the practical steps, platforms, and strategies to turn that initial $100 into a foundation for long-term financial success.
 

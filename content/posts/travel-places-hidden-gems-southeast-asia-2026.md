@@ -4,6 +4,7 @@ date: 2026-03-31T21:15:00+09:00
 description: "Discover 10 underrated Southeast Asian destinations that offer stunning scenery, rich culture, and authentic experiences without the overcrowded tourist spots."
 tags: ["Southeast Asia travel", "hidden gems", "underrated destinations", "budget travel", "travel 2026"]
 categories: ["travel-places"]
+draft: true
 ---
 
 ## Beyond the Tourist Trail in Southeast Asia

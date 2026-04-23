@@ -4,7 +4,7 @@ date: 2026-04-04T21:30:00+09:00
 description: "Stop killing your houseplants. These 10 species genuinely thrive in low-light conditions and are nearly impossible to kill, even for beginners."
 tags: ["home", "garden", "interior design", "home improvement", "plants"]
 categories: ["Home & Garden"]
-draft: false
+draft: true
 ---
 
 ## Not Every Apartment Gets Good Light

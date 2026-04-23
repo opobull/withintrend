@@ -4,7 +4,7 @@ date: 2026-03-18T02:30:00-05:00
 description: "What it's really like working as a Kohl's cashier, including hourly pay, credit card expectations, daily tasks, and real employee reviews."
 tags: ["Kohls", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

@@ -4,6 +4,7 @@ date: 2026-03-28T10:20:00+09:00
 description: "The honest truth about whether a college degree is worth the cost in 2026. We break down the data on earnings, debt, alternatives, and when college makes sense — and when it doesn't."
 tags: ["college degree", "education value", "student debt", "career advice", "higher education"]
 categories: ["Education & Study Tips"]
+draft: true
 ---
 
 ## The Million-Dollar Question

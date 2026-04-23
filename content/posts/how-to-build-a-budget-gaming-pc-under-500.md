@@ -4,6 +4,7 @@ date: 2026-03-28T12:20:00+09:00
 description: "Build a capable gaming PC for under $500 that runs modern games at 1080p. Complete parts list, build guide, and tips for getting the best performance on a tight budget."
 tags: ["gaming PC", "budget build", "PC building", "computer hardware", "gaming setup"]
 categories: ["Gaming"]
+draft: true
 ---
 
 ## Yes, You Can Game on a $500 PC

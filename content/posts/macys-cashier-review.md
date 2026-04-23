@@ -4,7 +4,7 @@ date: 2026-03-20T09:30:00-05:00
 description: "A comprehensive guide to working as a cashier at Macy's — covering pay, hours, pros, cons, and tips from real employee experiences."
 tags: ["Macy's", "cashier", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

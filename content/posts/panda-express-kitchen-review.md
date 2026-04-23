@@ -4,7 +4,7 @@ date: 2026-03-12T12:30:00-05:00
 description: "Everything you need to know about working as a kitchen team member at Panda Express, from pay and responsibilities to honest pros and cons."
 tags: ["panda express", "kitchen", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

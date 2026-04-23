@@ -4,6 +4,7 @@ date: 2026-03-31T21:12:00+09:00
 description: "Learn everything about Zone 2 cardio training, including how it improves metabolic health, burns fat efficiently, and promotes longevity through sustainable exercise."
 tags: ["zone 2 cardio", "fat loss", "longevity exercise", "metabolic health", "endurance training"]
 categories: ["health-fitness"]
+draft: true
 ---
 
 ## What Is Zone 2 Cardio Training

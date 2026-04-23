@@ -4,7 +4,7 @@ date: 2026-03-28T13:00:00+09:00
 description: "A comprehensive guide to working as a part-time library assistant, covering pay, daily duties, pros, cons, and tips from real employee experiences."
 tags: ["library assistant", "library jobs", "part-time jobs", "job reviews", "education jobs"]
 categories: ["Education & Childcare"]
-draft: false
+draft: true
 ---
 
 If you've ever wandered through a quiet library and thought, "I could work here," you're not alone. Library assistant positions are among the most sought-after part-time roles in the country, attracting everyone from college students to retirees looking for a calm, meaningful work environment. But what's the job really like behind the stacks?

@@ -4,7 +4,7 @@ date: 2026-04-03T19:10:00+09:00
 description: "A complete guide to disputing fraudulent or incorrect charges on your credit card, including timelines, documentation tips, and what to expect from your bank."
 tags: ["credit card dispute", "chargeback", "fraud protection", "consumer rights", "personal finance"]
 categories: ["Other"]
-draft: false
+draft: true
 ---
 
 Finding an unfamiliar charge on your credit card statement is an unsettling experience. Whether it is a fraudulent transaction, a billing error, or a charge for something you never received, knowing how to dispute it properly can mean the difference between getting your money back and losing it permanently.

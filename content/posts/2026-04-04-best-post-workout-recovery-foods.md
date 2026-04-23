@@ -4,7 +4,7 @@ date: 2026-04-04T21:02:00+09:00
 description: "Sports nutritionists reveal the top 10 post-workout recovery foods to reduce soreness, rebuild muscle, and maximize your training gains in 2026."
 tags: ["health", "fitness", "nutrition", "exercise", "wellness"]
 categories: ["Health & Fitness"]
-draft: false
+draft: true
 ---
 
 ## Why Post-Workout Nutrition Matters More Than You Think

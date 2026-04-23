@@ -4,6 +4,7 @@ date: 2026-03-28T12:24:00+09:00
 description: "Learn practical strategies to build an emergency fund even on a tight budget. Step-by-step tips for saving money when every dollar counts."
 tags: ["emergency fund", "saving money", "personal finance", "budgeting", "low income", "financial tips", "money management"]
 categories: ["Personal Finance"]
+draft: true
 ---
 
 Let's be honest — most financial advice about emergency funds is written for people who already have money to spare. "Just save 20% of your income" sounds great until your income barely covers rent, groceries, and utilities. When you're living paycheck to paycheck, the idea of setting aside three to six months of expenses can feel not just difficult but laughable.

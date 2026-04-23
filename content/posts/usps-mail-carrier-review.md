@@ -4,7 +4,7 @@ date: 2026-03-16T15:00:00+00:00
 description: "Everything you need to know about working as a USPS mail carrier, including pay, benefits, hours, and what real carriers report about the job."
 tags: ["usps", "mail carrier", "logistics & shipping", "part-time jobs", "job reviews"]
 categories: ["Logistics & Shipping"]
-draft: false
+draft: true
 ---
 
 ## Introduction

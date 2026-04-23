@@ -4,7 +4,7 @@ date: 2026-03-14T12:00:00-05:00
 description: "Everything you need to know about working as a server at Waffle House, including pay, tips, daily duties, and real pros and cons."
 tags: ["waffle house", "server", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

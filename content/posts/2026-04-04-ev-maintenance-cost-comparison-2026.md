@@ -4,7 +4,7 @@ date: 2026-04-04T21:18:00+09:00
 description: "A detailed comparison of electric vehicle versus gas car maintenance costs in 2026, with real data on repairs, battery health, and total cost of ownership."
 tags: ["cars", "electric vehicles", "car maintenance", "automotive", "auto reviews"]
 categories: ["Cars & Auto"]
-draft: false
+draft: true
 ---
 
 ## The Maintenance Question Everyone Asks

@@ -4,7 +4,7 @@ date: 2026-03-30T21:08:42+09:00
 description: "Biggest Celebrity Couples of 2026 So Far"
 tags: ["celebrities","entertainment","pop culture","celebrity news","Hollywood"]
 categories: ["Celebrity & Entertainment News"]
-draft: false
+draft: true
 ---
 The year is 2026, and if you thought the world of celebrity romance couldn't get more dramatic, exciting, or downright dazzling, think again! We're only a few months into the year, and already, Hollywood, the music scene, and even the tech world have delivered some truly unexpected and utterly captivating pairings. From clandestine dates to red carpet debuts that broke the internet, these are the couples who are not just making headlines, but are setting the tone for what promises to be an unforgettable year in pop culture.
 

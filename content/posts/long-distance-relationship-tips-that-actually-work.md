@@ -4,6 +4,7 @@ date: 2026-03-28T10:10:00+09:00
 description: "Practical, honest advice for making long-distance relationships work. From communication strategies to managing jealousy, these tips come from real couples who made it."
 tags: ["long-distance relationship", "dating advice", "relationship tips", "LDR", "communication"]
 categories: ["Relationships & Dating"]
+draft: true
 ---
 
 ## Long-Distance Relationships Are Hard — But They're Not Impossible

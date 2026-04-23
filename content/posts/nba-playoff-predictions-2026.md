@@ -4,6 +4,7 @@ date: 2026-03-28T12:40:00+09:00
 description: "NBA playoff predictions for 2026 — breaking down the contenders, dark horses, and teams that could surprise everyone this postseason."
 tags: ["nba playoffs", "basketball", "nba predictions", "sports", "2026 nba", "playoff contenders", "basketball analysis"]
 categories: ["Sports"]
+draft: true
 ---
 
 The NBA regular season is winding down, and the picture is coming into focus. Some teams have locked up their spots. Others are fighting for positioning. And a few are clinging to play-in hopes with white-knuckled desperation. This is the most exciting time of the basketball calendar — when every game matters and the storylines for the postseason start to crystallize.

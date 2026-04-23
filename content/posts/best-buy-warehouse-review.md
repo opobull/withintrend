@@ -4,7 +4,7 @@ date: 2026-03-11T14:30:00-05:00
 description: "A comprehensive look at what it's really like working as a warehouse associate at Best Buy, including pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["Best Buy", "warehouse associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

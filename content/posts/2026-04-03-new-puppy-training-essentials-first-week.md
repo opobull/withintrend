@@ -4,7 +4,7 @@ date: "2026-04-03T21:05:00+09:00"
 description: "Everything you need to know about training a new puppy during the critical first week. From crate training to house training, set your puppy up for success."
 tags: ["pets", "dogs", "puppy training", "animal care", "pet health"]
 categories: ["Pets & Animals"]
-draft: false
+draft: true
 ---
 
 ## The First Week With Your New Puppy

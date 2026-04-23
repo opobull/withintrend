@@ -4,7 +4,7 @@ date: 2026-03-09T14:30:00-05:00
 description: "A comprehensive guide to working at the Costco food court covering pay, daily tasks, benefits, and real employee experiences."
 tags: ["costco", "food court", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 If you've ever grabbed a $1.50 hot dog combo at Costco and wondered what it's like on the other side of that counter, you're not alone. The Costco food court is one of the busiest stations in any warehouse location, and the workers behind it keep things moving at a pace that would rival most fast food chains. But is it actually a good place to work?

@@ -4,7 +4,7 @@ date: 2026-03-19T14:15:00-05:00
 description: "Everything you need to know about working as a JCPenney associate — pay, scheduling, pros, cons, and real employee insights."
 tags: ["JCPenney", "associate", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

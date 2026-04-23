@@ -4,6 +4,7 @@ date: 2026-03-28T10:35:00+09:00
 description: "A beginner's guide to home music production in 2026. Learn about DAWs, essential gear, basic techniques, and how to start making professional-sounding music from your bedroom."
 tags: ["music production", "home studio", "beat making", "DAW", "beginner music"]
 categories: ["Music"]
+draft: true
 ---
 
 ## Your Bedroom Can Be a Recording Studio

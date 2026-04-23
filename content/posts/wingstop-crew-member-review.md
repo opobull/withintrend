@@ -4,7 +4,7 @@ date: 2026-03-13T06:15:00-06:00
 description: "An honest look at what it's like to work as a Wingstop crew member — covering pay, daily tasks, pros, cons, and tips for new hires."
 tags: ["wingstop", "crew member", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

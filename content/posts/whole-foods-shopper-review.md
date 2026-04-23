@@ -4,7 +4,7 @@ date: 2026-03-10T04:45:00-05:00
 description: "A complete guide to working as a Whole Foods shopper (Amazon Prime orders), covering pay, daily tasks, pros, cons, and real employee insights."
 tags: ["whole foods", "shopper", "grocery", "part-time jobs", "job reviews"]
 categories: ["Grocery"]
-draft: false
+draft: true
 ---
 
 ## Introduction

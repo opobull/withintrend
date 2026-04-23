@@ -4,7 +4,7 @@ date: 2026-03-27T12:10:00+09:00
 description: "A complete guide to freelancing on Fiverr — real earnings, daily experience, pros, cons, and tips from experienced sellers."
 tags: ["fiverr", "freelancer", "gig economy", "freelance", "part-time jobs", "job reviews"]
 categories: ["Freelance & Gig"]
-draft: false
+draft: true
 ---
 
 Fiverr has become one of the most recognizable names in the freelance world. Originally known as the place where everything cost five dollars, the platform has evolved into a massive marketplace where freelancers offer everything from graphic design and writing to video editing, programming, and voiceover work. But is it actually worth your time as a seller?

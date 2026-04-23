@@ -4,7 +4,7 @@ date: 2026-04-03T20:35:00+09:00
 description: "A complete guide to gig economy taxes for freelancers, delivery drivers, and independent contractors. Learn about deductions, quarterly payments, and how to avoid common tax mistakes."
 tags: ["gig economy taxes", "freelancer taxes", "delivery driver deductions", "self-employment tax", "1099 taxes"]
 categories: ["Delivery & Gig"]
-draft: false
+draft: true
 ---
 
 Working in the gig economy offers flexibility and independence, but it also comes with tax obligations that traditional employees never have to think about. If you drive for DoorDash, deliver packages for Amazon Flex, freelance on Upwork, or do tasks on TaskRabbit, you're considered self-employed by the IRS — and that changes everything about how you handle taxes.

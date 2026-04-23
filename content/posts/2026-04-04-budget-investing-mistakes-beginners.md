@@ -4,7 +4,7 @@ date: 2026-04-04T21:08:00+09:00
 description: "Avoid these 9 costly beginner investing mistakes that can derail your financial goals before you even get started in 2026."
 tags: ["personal finance", "investing", "budgeting", "money management", "savings"]
 categories: ["Personal Finance"]
-draft: false
+draft: true
 ---
 
 ## Your First $1,000 Matters More Than You Think

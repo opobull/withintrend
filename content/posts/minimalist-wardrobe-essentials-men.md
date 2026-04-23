@@ -4,6 +4,7 @@ date: 2026-03-28T12:42:00+09:00
 description: "Build a minimalist wardrobe that works for every occasion. These essential pieces for men create endless outfit combinations with fewer clothes."
 tags: ["minimalist wardrobe", "men's fashion", "capsule wardrobe", "style essentials", "men's style", "fashion tips", "wardrobe basics"]
 categories: ["Fashion & Style"]
+draft: true
 ---
 
 Most men own too many clothes and still feel like they have nothing to wear. The closet is stuffed, but half of it doesn't fit right, a quarter of it is outdated, and the rest doesn't go together. The solution isn't buying more — it's buying better and buying less.

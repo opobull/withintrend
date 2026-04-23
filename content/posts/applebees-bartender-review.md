@@ -4,7 +4,7 @@ date: 2026-03-15T10:30:00-05:00
 description: "A comprehensive guide to working as a bartender at Applebee's, covering pay, tips, daily tasks, pros, cons, and tips for new hires."
 tags: ["applebees", "bartender", "restaurant", "part-time jobs", "job reviews"]
 categories: ["Restaurant"]
-draft: false
+draft: true
 ---
 
 ## Introduction

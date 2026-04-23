@@ -4,7 +4,7 @@ date: 2026-03-09T04:00:00+09:00
 description: "Everything you need to know about working as a Walmart Self-Checkout Host — from daily duties and pay to the real pros and cons from employee reviews."
 tags: ["walmart", "self-checkout host", "retail", "part-time jobs", "job reviews"]
 categories: ["Retail"]
-draft: false
+draft: true
 ---
 
 ## Introduction

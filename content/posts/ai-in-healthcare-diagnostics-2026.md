@@ -4,7 +4,7 @@ date: 2026-03-29T21:15:00+09:00
 description: "Discover how AI-powered diagnostics are revolutionizing healthcare in 2026, from early cancer detection to real-time patient monitoring."
 tags: ["technology", "artificial intelligence", "machine learning", "tech trends"]
 categories: ["Tech & AI"]
-draft: false
+draft: true
 ---
 
 A decade ago, getting a medical diagnosis meant waiting days — sometimes weeks — for lab results, imaging reviews, and specialist opinions. In 2026, artificial intelligence is collapsing that timeline from weeks to minutes, and in some cases, catching diseases that human doctors would have missed entirely.

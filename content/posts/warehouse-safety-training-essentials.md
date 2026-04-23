@@ -4,7 +4,7 @@ date: 2026-04-03T18:05:00+09:00
 description: "A comprehensive guide to warehouse safety training covering OSHA requirements, common hazards, PPE basics, and practical tips for staying safe on the warehouse floor."
 tags: ["warehouse safety", "OSHA training", "warehouse jobs", "workplace safety"]
 categories: ["Warehouse"]
-draft: false
+draft: true
 ---
 
 Every year, roughly 5,000 workers suffer fatal injuries in the United States, and warehousing consistently ranks among the most dangerous industries. The Bureau of Labor Statistics reports that warehouse and storage workers experience injury rates nearly twice the national average for all industries.

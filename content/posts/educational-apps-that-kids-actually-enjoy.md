@@ -4,6 +4,7 @@ date: 2026-03-28T10:55:00+09:00
 description: "These educational apps make learning fun for kids of all ages. From math games to coding adventures, discover apps that children actually want to use."
 tags: ["educational apps", "kids learning", "parenting tech", "children education", "learning apps"]
 categories: ["Parenting & Family"]
+draft: true
 ---
 
 ## Screen Time That's Actually Worth It

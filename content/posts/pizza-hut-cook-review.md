@@ -4,7 +4,7 @@ date: 2026-03-12T13:30:00-06:00
 description: "Everything you need to know about working as a Pizza Hut cook — from hourly pay and daily duties to honest pros, cons, and tips for new hires."
 tags: ["pizza hut", "cook", "fast food", "part-time jobs", "job reviews"]
 categories: ["Fast Food"]
-draft: false
+draft: true
 ---
 
 ## Introduction

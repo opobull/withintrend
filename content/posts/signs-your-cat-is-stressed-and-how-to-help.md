@@ -4,7 +4,7 @@ date: 2026-03-29T21:11:00+09:00
 description: "Learn the subtle signs of stress in cats and practical ways to help your feline feel safe and relaxed at home."
 tags: ["pets", "dogs", "cats", "animal care", "pet health"]
 categories: ["Pets & Animals"]
-draft: false
+draft: true
 ---
 
 Cats have a reputation for being independent, low-maintenance companions — and compared to dogs, they certainly require less daily attention. But that independence comes with a downside: when cats are stressed, they're incredibly good at hiding it. By the time most owners notice something's wrong, their cat has been dealing with anxiety for weeks or even months.

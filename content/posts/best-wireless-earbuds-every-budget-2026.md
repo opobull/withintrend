@@ -4,6 +4,7 @@ date: 2026-03-28T12:17:00+09:00
 description: "Find the perfect wireless earbuds for your budget in 2026. From premium ANC to great budget picks under $50, we cover the best options at every price point."
 tags: ["wireless earbuds", "best earbuds", "earbuds 2026", "headphones", "audio", "tech reviews", "budget earbuds"]
 categories: ["Music"]
+draft: true
 ---
 
 Wireless earbuds have become the default way people listen to music, take calls, and consume content in 2026. The market is more competitive than ever, which is great news for buyers — quality has gone up across the board while prices for excellent options have come down significantly.

@@ -4,7 +4,7 @@ date: "2026-04-03T21:12:00+09:00"
 description: "Save time and money with these budget-friendly meal prep ideas. Learn how to plan, prepare, and store meals for the entire week without breaking the bank."
 tags: ["recipes", "meal prep", "budget cooking", "food", "meal ideas", "kitchen tips"]
 categories: ["Recipes & Cooking"]
-draft: false
+draft: true
 ---
 
 ## Why Meal Prep Is a Game Changer for Your Budget

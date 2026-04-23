@@ -4,7 +4,7 @@ date: 2026-04-04T21:32:00+09:00
 description: "From genre-bending pop to introspective hip-hop, these are the 8 best albums released in spring 2026 that deserve a spot in your rotation."
 tags: ["music", "albums", "artists", "music streaming", "songs"]
 categories: ["Music"]
-draft: false
+draft: true
 ---
 
 ## Fresh Sounds for the Season

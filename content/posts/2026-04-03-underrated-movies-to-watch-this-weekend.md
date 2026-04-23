@@ -4,7 +4,7 @@ date: "2026-04-03T21:08:00+09:00"
 description: "Discover hidden gem movies that deserve more attention. From indie dramas to overlooked thrillers, these underrated films will surprise and captivate you."
 tags: ["movies", "entertainment", "reviews", "streaming", "hidden gems"]
 categories: ["Movies & TV"]
-draft: false
+draft: true
 ---
 
 ## Why the Best Movies Often Fly Under the Radar
