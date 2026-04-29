@@ -531,5 +531,453 @@
         "avg": 1
       }
     }
+  },
+  {
+    "date": "2026-04-23",
+    "source": "ga4",
+    "totalPostHits": 4,
+    "unmappedHits": 0,
+    "categories": {
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 2,
+        "avg": 2
+      },
+      "gaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "streaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
+  },
+  {
+    "date": "2026-04-24",
+    "source": "ga4",
+    "totalPostHits": 5,
+    "unmappedHits": 0,
+    "categories": {
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 2,
+        "avg": 2
+      },
+      "streaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "pharmacy-retail": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "diy-and-life-hacks": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
+  },
+  {
+    "date": "2026-04-25",
+    "source": "ga4",
+    "totalPostHits": 13,
+    "unmappedHits": 0,
+    "categories": {
+      "pets-and-animals": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "tech-and-ai": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "gaming": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "sports": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "celebrity-and-entertainment-news": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "relationships-and-dating": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "home-and-garden": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "personal-finance": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "weird-and-interesting-facts": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "grocery": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
+  },
+  {
+    "date": "2026-04-26",
+    "source": "ga4",
+    "totalPostHits": 4,
+    "unmappedHits": 0,
+    "categories": {
+      "streaming": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "diy-and-life-hacks": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "education-and-study-tips": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
+  },
+  {
+    "date": "2026-04-27",
+    "source": "ga4",
+    "totalPostHits": 30,
+    "unmappedHits": 0,
+    "categories": {
+      "gaming": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "weird-and-interesting-facts": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "recipes-and-cooking": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "home-and-garden": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "fashion-and-style": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "real-estate": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "streaming": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "music": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "fast-food": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "pharmacy-and-beauty": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "parenting-and-family": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "pharmacy-retail": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "hotel-and-hospitality": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "education-and-childcare": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "retail": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "recipes-cooking": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "movies-and-tv": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "logistics-and-shipping": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
+  },
+  {
+    "date": "2026-04-28",
+    "source": "ga4",
+    "totalPostHits": 133,
+    "unmappedHits": 0,
+    "categories": {
+      "grocery": {
+        "posts": 8,
+        "visits": 9,
+        "avg": 1.13
+      },
+      "sports": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "fashion-and-style": {
+        "posts": 6,
+        "visits": 6,
+        "avg": 1
+      },
+      "personal-finance": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "travel-and-places": {
+        "posts": 7,
+        "visits": 7,
+        "avg": 1
+      },
+      "diy-and-life-hacks": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "relationships-and-dating": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "health-and-fitness": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "real-estate": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "cars-and-auto": {
+        "posts": 6,
+        "visits": 6,
+        "avg": 1
+      },
+      "education-and-study-tips": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "delivery-and-gig": {
+        "posts": 6,
+        "visits": 6,
+        "avg": 1
+      },
+      "logistics-and-shipping": {
+        "posts": 4,
+        "visits": 4,
+        "avg": 1
+      },
+      "entertainment": {
+        "posts": 5,
+        "visits": 5,
+        "avg": 1
+      },
+      "weird-and-interesting-facts": {
+        "posts": 5,
+        "visits": 5,
+        "avg": 1
+      },
+      "pets-and-animals": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "celebrity-and-entertainment-news": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "restaurant": {
+        "posts": 6,
+        "visits": 6,
+        "avg": 1
+      },
+      "fast-food": {
+        "posts": 10,
+        "visits": 10,
+        "avg": 1
+      },
+      "other": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "cars-auto": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "tech-and-ai": {
+        "posts": 4,
+        "visits": 4,
+        "avg": 1
+      },
+      "retail": {
+        "posts": 11,
+        "visits": 11,
+        "avg": 1
+      },
+      "gaming": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "food-delivery": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "recipes-and-cooking": {
+        "posts": 4,
+        "visits": 4,
+        "avg": 1
+      },
+      "fashion-style": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "freelance-and-gig": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "hotel-and-hospitality": {
+        "posts": 2,
+        "visits": 2,
+        "avg": 1
+      },
+      "home-garden": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "parenting-and-family": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "home-and-garden": {
+        "posts": 3,
+        "visits": 3,
+        "avg": 1
+      },
+      "movies-tv": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "music": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "education-and-childcare": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "parenting-family": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "pharmacy-retail": {
+        "posts": 4,
+        "visits": 4,
+        "avg": 1
+      },
+      "relationships-dating": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "pharmacy-and-beauty": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "travel-places": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      },
+      "weird-interesting": {
+        "posts": 1,
+        "visits": 1,
+        "avg": 1
+      }
+    }
   }
 ]
