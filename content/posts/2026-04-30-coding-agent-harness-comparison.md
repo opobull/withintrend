@@ -23,17 +23,17 @@ tags: ["하네스", "Claude Code", "Cursor", "Aider", "비교"]
 ```mermaid
 quadrantChart
     title 코딩 에이전트 하네스 포지셔닝
-    x-axis "CLI 중심" --> "IDE 통합"
-    y-axis "모델 잠금" --> "모델 자유"
-    quadrant-1 IDE통합 + 모델자유
-    quadrant-2 CLI + 모델자유
-    quadrant-3 CLI + 모델잠금
-    quadrant-4 IDE통합 + 모델잠금
-    "Aider": [0.15, 0.85]
-    "Continue": [0.75, 0.80]
-    "Cursor": [0.85, 0.30]
-    "Claude Code": [0.20, 0.15]
-    "Codex CLI": [0.25, 0.10]
+    x-axis CLI 중심 --> IDE 통합
+    y-axis 모델 잠금 --> 모델 자유
+    quadrant-1 IDE통합 모델자유
+    quadrant-2 CLI 모델자유
+    quadrant-3 CLI 모델잠금
+    quadrant-4 IDE통합 모델잠금
+    Aider: [0.15, 0.85]
+    Continue: [0.75, 0.80]
+    Cursor: [0.85, 0.30]
+    Claude Code: [0.20, 0.15]
+    Codex CLI: [0.25, 0.10]
 ```
 
 좌상-우하 대각선이 흥미로워요. 모델 자유를 추구하면 자연스럽게 OSS·확장형 (Aider, Continue), 모델 잠금이면 자체 통합 깊이로 차별화 (Claude Code, Cursor) — 둘이 정반대 전략이에요.
