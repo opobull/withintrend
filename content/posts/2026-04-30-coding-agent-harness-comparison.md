@@ -23,13 +23,13 @@ tags: ["하네스", "Claude Code", "Cursor", "OpenClaw", "비교"]
 
 ```mermaid
 quadrantChart
-    title 코딩 에이전트 하네스 포지셔닝
-    x-axis CLI 중심 --> IDE 통합
-    y-axis 모델 잠금 --> 모델 자유
-    quadrant-1 IDE통합 모델자유
-    quadrant-2 CLI 모델자유
-    quadrant-3 CLI 모델잠금
-    quadrant-4 IDE통합 모델잠금
+    title Coding Agent Harness Positioning
+    x-axis CLI Focus --> IDE Integration
+    y-axis Model Locked --> Model Free
+    quadrant-1 IDE and Free
+    quadrant-2 CLI and Free
+    quadrant-3 CLI and Locked
+    quadrant-4 IDE and Locked
     Aider: [0.15, 0.85]
     OpenClaw: [0.10, 0.90]
     Continue: [0.75, 0.80]

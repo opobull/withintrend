@@ -16,19 +16,19 @@ tags: ["하네스", "전략", "OpenClaw", "Devin"]
 
 ```mermaid
 timeline
-    title AI 하네스 채널 진화
-    2022.11 : 1세대 - 웹 클라우드
-            : ChatGPT 출시
-    2023.05 : 2세대 - 로컬 CLI
-            : Aider, Cursor, Continue
-    2025.02 : 2세대 심화
-            : Claude Code, Codex CLI
-    2025.후반 : 2.5세대 - 메신저 통합
-             : OpenClaw 등장
-    2026.~ : 3세대 - 클라우드 회귀
-           : Devin, Cursor Background, Operator
-    이후 : 4세대 (예측)
-       : 음성, AR/VR, 차량 인포테인먼트
+    title AI Harness Channel Evolution
+    2022 : Gen1 Web Cloud
+         : ChatGPT launch
+    2023 : Gen2 Local CLI and IDE
+         : Aider Cursor Continue
+    Early 2025 : Gen2 deepens
+               : Claude Code Codex CLI
+    Late 2025 : Gen2.5 Messenger
+              : OpenClaw emerges
+    2026 : Gen3 Cloud return
+         : Devin Cursor Background Operator
+    Future : Gen4 prediction
+           : Voice AR VR Vehicle
 ```
 
 각 세대를 풀어보면:
@@ -56,17 +56,17 @@ OpenClaw가 가져온 변화는 정확히 이 지점이에요. **2세대의 풍�
 
 ```mermaid
 quadrantChart
-    title 채널 진화 접근성과 도구 풍부함
-    x-axis 접근성 낮음 --> 접근성 높음
-    y-axis 도구 빈약 --> 도구 풍부
-    quadrant-1 강력하고 접근 쉬움
-    quadrant-2 강력하지만 접근 어려움
-    quadrant-3 빈약하고 접근 어려움
-    quadrant-4 빈약하지만 접근 쉬움
-    Gen1 웹: [0.85, 0.20]
+    title Channel Evolution Accessibility vs Tool Richness
+    x-axis Low Access --> High Access
+    y-axis Few Tools --> Rich Tools
+    quadrant-1 Strong and Easy
+    quadrant-2 Strong but Hard
+    quadrant-3 Weak and Hard
+    quadrant-4 Weak but Easy
+    Gen1 Web: [0.85, 0.20]
     Gen2 CLI: [0.20, 0.85]
-    Gen2.5 메신저: [0.75, 0.80]
-    Gen3 클라우드: [0.90, 0.95]
+    Gen2.5 Messenger: [0.75, 0.80]
+    Gen3 Cloud: [0.90, 0.95]
 ```
 
 1세대는 우하 (접근 쉬움 + 도구 빈약), 2세대는 좌상 (도구 풍부 + 접근 어려움), 2.5세대는 우상으로 진입, 3세대는 그 우상의 끝으로 향함. **결국 모든 진화는 "강력 + 접근 쉬움"의 우상으로 수렴**해요.
