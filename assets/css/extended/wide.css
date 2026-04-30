@@ -1,0 +1,19 @@
+:root {
+    --main-width: 1080px;
+}
+
+.post-content pre.mermaid,
+.post-content .mermaid {
+    background: transparent;
+    text-align: center;
+}
+
+.post-content pre.mermaid svg,
+.post-content .mermaid svg {
+    max-width: 100%;
+    height: auto;
+}
+
+.post-content table {
+    width: 100%;
+}
