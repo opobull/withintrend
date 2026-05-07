@@ -20,7 +20,7 @@ Claude Code(Anthropic이 만든 터미널 기반 AI 코딩 어시스턴트)를 �
 
 한국어 가이드에서 자주 인용되는 6-페인 구성은 이런 식이다. 팀장 페인이 사용자의 지시를 받아 작업을 쪼개고, PM이 아키텍처를 설계하고, Researcher가 자료를 조사하고, Designer가 화면이나 데이터 구조를 짜고, Developer가 실제 코드를 작성하고, Reviewer가 결과물을 검토한다. 한 사람이 작은 회사 하나를 돌리는 셈이다.
 
-Anthropic도 이 운영 패턴을 공식 기능으로 정착시켰다. Claude Code 2.1.32 이후의 실험 기능 "Agent Teams"는 환경변수 `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1`로 활성화되며, 메인 세션이 Team Lead가 되어 다른 인스턴스(Teammate)를 자동 스폰한다. 핵심은 sub-agent와 달리 teammate끼리 직접 메시지를 주고받는다는 점이다. 공식 문서는 적정 팀 규모로 3~5명을 권장하며, 페인당 5~6개 작업이 효율적이라고 명시한다.
+Anthropic도 이 운영 패턴을 공식 기능으로 정착시켰다. Claude Code 2.1.32 이후의 실험 기능 "Agent Teams"는 환경변수 `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1`로 활성화되며, 메인 세션이 Team Lead가 되어 다른 인스턴스(Teammate)를 자동 스폰한다. 핵심은 sub-agent와 달리 teammate끼리 직접 메시지를 주고받는다는 점이다. 공식 문서는 적정 팀 규모로 3-5명을 권장하며, 페인당 5-6개 작업이 효율적이라고 명시한다.
 
 ## 어디까지 효과가 있나
 
