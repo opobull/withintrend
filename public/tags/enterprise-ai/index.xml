@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Enterprise AI on WithinTrend — Trending Topics &amp; Guides</title><link>https://withintrend.org/tags/enterprise-ai/</link><description>Recent content in Enterprise AI on WithinTrend — Trending Topics &amp; Guides</description><generator>Hugo -- 0.146.0</generator><language>ko-kr</language><lastBuildDate>Tue, 12 May 2026 05:55:00 +0900</lastBuildDate><atom:link href="https://withintrend.org/tags/enterprise-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Anthropic의 사흘: Claude가 챗봇에서 기업 도구가 되는 순간</title><link>https://withintrend.org/posts/2026-05-12-anthropic-three-days-claude-enterprise/</link><pubDate>Tue, 12 May 2026 05:55:00 +0900</pubDate><guid>https://withintrend.org/posts/2026-05-12-anthropic-three-days-claude-enterprise/</guid><description>5월 4-6일 사흘 동안 Anthropic이 연달아 발표한 엔터프라이즈 AI 회사 설립, 금융 에이전트 10종, SpaceX 데이터센터 확보를 한 흐름으로 읽는다.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Enterprise AI on WithinTrend — Trending Topics &amp; Guides</title>
+    <link>https://withintrend.org/tags/enterprise-ai/</link>
+    <description>Recent content in Enterprise AI on WithinTrend — Trending Topics &amp; Guides</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 12 May 2026 05:55:00 +0900</lastBuildDate>
+    <atom:link href="https://withintrend.org/tags/enterprise-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic의 사흘: Claude가 챗봇에서 기업 도구가 되는 순간</title>
+      <link>https://withintrend.org/posts/2026-05-12-anthropic-three-days-claude-enterprise/</link>
+      <pubDate>Tue, 12 May 2026 05:55:00 +0900</pubDate>
+      <guid>https://withintrend.org/posts/2026-05-12-anthropic-three-days-claude-enterprise/</guid>
+      <description>5월 4-6일 사흘 동안 Anthropic이 연달아 발표한 엔터프라이즈 AI 회사 설립, 금융 에이전트 10종, SpaceX 데이터센터 확보를 한 흐름으로 읽는다.</description>
+    </item>
+  </channel>
+</rss>

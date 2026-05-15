@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>금융 on WithinTrend — Trending Topics &amp; Guides</title><link>https://withintrend.org/tags/%EA%B8%88%EC%9C%B5/</link><description>Recent content in 금융 on WithinTrend — Trending Topics &amp; Guides</description><generator>Hugo -- 0.146.0</generator><language>ko-kr</language><lastBuildDate>Sat, 09 May 2026 05:55:00 +0900</lastBuildDate><atom:link href="https://withintrend.org/tags/%EA%B8%88%EC%9C%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>Anthropic이 만든 금융 전용 클로드 — 투자은행 데스크용 에이전트 10종 공개</title><link>https://withintrend.org/posts/2026-05-09-anthropic-claude-financial-services-agents/</link><pubDate>Sat, 09 May 2026 05:55:00 +0900</pubDate><guid>https://withintrend.org/posts/2026-05-09-anthropic-claude-financial-services-agents/</guid><description>Anthropic이 5월 5일 공개한 Claude for Financial Services 묶음 — 에이전트 10개·데이터 커넥터 16개·MS 365 통합.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>금융 on WithinTrend — Trending Topics &amp; Guides</title>
+    <link>https://withintrend.org/tags/%EA%B8%88%EC%9C%B5/</link>
+    <description>Recent content in 금융 on WithinTrend — Trending Topics &amp; Guides</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 09 May 2026 05:55:00 +0900</lastBuildDate>
+    <atom:link href="https://withintrend.org/tags/%EA%B8%88%EC%9C%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic이 만든 금융 전용 클로드 — 투자은행 데스크용 에이전트 10종 공개</title>
+      <link>https://withintrend.org/posts/2026-05-09-anthropic-claude-financial-services-agents/</link>
+      <pubDate>Sat, 09 May 2026 05:55:00 +0900</pubDate>
+      <guid>https://withintrend.org/posts/2026-05-09-anthropic-claude-financial-services-agents/</guid>
+      <description>Anthropic이 5월 5일 공개한 Claude for Financial Services 묶음 — 에이전트 10개·데이터 커넥터 16개·MS 365 통합.</description>
+    </item>
+  </channel>
+</rss>

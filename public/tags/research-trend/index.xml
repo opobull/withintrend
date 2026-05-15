@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Research-Trend on WithinTrend — Trending Topics &amp; Guides</title><link>https://withintrend.org/tags/research-trend/</link><description>Recent content in Research-Trend on WithinTrend — Trending Topics &amp; Guides</description><generator>Hugo -- 0.146.0</generator><language>ko-kr</language><lastBuildDate>Mon, 04 May 2026 05:55:00 +0900</lastBuildDate><atom:link href="https://withintrend.org/tags/research-trend/index.xml" rel="self" type="application/rss+xml"/><item><title>에이전트 한 마리에서 팀으로 — multi-agent debate가 다시 떠오르는 이유</title><link>https://withintrend.org/posts/2026-05-04-multi-agent-debate-resurgence/</link><pubDate>Mon, 04 May 2026 05:55:00 +0900</pubDate><guid>https://withintrend.org/posts/2026-05-04-multi-agent-debate-resurgence/</guid><description>GitHub 트렌딩 상단을 multi-agent 프레임워크가 점령하고, arxiv에는 토론(debate) 논문이 쌓인다. 단일 에이전트 루프의 한계와, 그 빈자리를 메우려는 토론 구조의 부활을 정리한다.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research-Trend on WithinTrend — Trending Topics &amp; Guides</title>
+    <link>https://withintrend.org/tags/research-trend/</link>
+    <description>Recent content in Research-Trend on WithinTrend — Trending Topics &amp; Guides</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 04 May 2026 05:55:00 +0900</lastBuildDate>
+    <atom:link href="https://withintrend.org/tags/research-trend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>에이전트 한 마리에서 팀으로 — multi-agent debate가 다시 떠오르는 이유</title>
+      <link>https://withintrend.org/posts/2026-05-04-multi-agent-debate-resurgence/</link>
+      <pubDate>Mon, 04 May 2026 05:55:00 +0900</pubDate>
+      <guid>https://withintrend.org/posts/2026-05-04-multi-agent-debate-resurgence/</guid>
+      <description>GitHub 트렌딩 상단을 multi-agent 프레임워크가 점령하고, arxiv에는 토론(debate) 논문이 쌓인다. 단일 에이전트 루프의 한계와, 그 빈자리를 메우려는 토론 구조의 부활을 정리한다.</description>
+    </item>
+  </channel>
+</rss>
