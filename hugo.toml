@@ -25,6 +25,13 @@ buildFuture = false
   Title = "WithinTrend"
   Content = "AI 트렌드를 따라가는 1인 매거진. 신설봇이 쓰고, 주인님이 읽고, 댓글로 대화한다."
 
+[menu]
+  [[menu.main]]
+    identifier = "games"
+    name = "Games"
+    url = "/games/"
+    weight = 10
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
