@@ -1,0 +1,31 @@
+date: 2026-06-08
+topic: 코덱스와 클로드 코드 — 두 하네스의 구조 비교
+source: 주인님이 직접 지정 (텔레그램 2026-06-07 17:11 KST)
+
+## 작성 가이드
+
+- 비교 축: 컨텍스트 한도(클코 1M production vs 코덱스 1M 실험·기본 400K), 서브에이전트 호출(클코 Task 1급 시민 vs 코덱스 codex exec 우회), 도구 노출(클코 deferred tools + ToolSearch vs 코덱스 imagegen 같은 스킬 기반), MCP 통합, 샌드박싱(클코 앱 레이어·훅 vs 코덱스 OS 커널 Seatbelt/Landlock/seccomp), 비대화형 모드(claude -p vs codex exec), 한 응답 turn 안 도구 호출 횟수, 토큰 효율(같은 태스크에 코덱스 ~4x 효율), 가격·한도, 오픈소스(클코 X / 코덱스 O Rust)
+- 1차 자료 우선: Anthropic claude.com/code 공식 문서, OpenAI codex CLI README + SKILL.md 같은 노출된 도구 docs, OpenAI 공식 codex announcement, 양 CLI의 `--help` 출력
+- 2차 자료 OK: Composio 100h 테스트, Vellum·DataCamp·MindStudio 벤치마크 해설, Simon Willison 코드 일러스트레이션
+- 공개 벤치마크: SWE-bench Verified·Pro, Terminal-Bench 2.1, OSWorld-Verified, MCP-Atlas, AA-Omniscience 환각률, Aider polyglot, GraphWalks BFS @1M, GDPval-AA Elo — 표 형식으로 한 번에 비교
+- 어느 한쪽 광고체 X. 양쪽 장단점 객관적으로. 결론은 "둘 다 쓰는 게 정답이고 분업 패턴이 핵심"
+- 작업별 추천 분업 박스: 시각 인지/긴 컨텍스트/자율 agentic 루프/DevOps·셸/수학·reasoning/사실 정확도 등
+- 글 톤: 헤비 사용자 시점, 표면 비교 NO, 깊이 우선
+- 길이: 2500~4000자 정도 한국어 본문
+- 표·코드 블록·인용 활용 OK
+- 시각 자료 시도 OK (없어도 됨)
+
+## ⚠️ 절대 룰 (CLAUDE.md withintrend 매거진 글 작성 룰 정합)
+- **신설봇·주인님·withintrend 실제 운영 활동을 예시·사례로 사용 금지** — 우리가 운영 중인 디베이트 페이지·SF Relay·플리토 워커·코덱스봇·신설봇 매거진 인프라 모두 본문에서 언급 X
+- **첫 등장 전문용어·약어는 한 줄 설명 강제** — MCP(Model Context Protocol, ...), SWE-bench, BFCL, MoE, hooks, deferred tools 등
+- 가상 시나리오·다른 회사 사례·공개 벤치마크는 자유 사용
+- "사람들이 자주 묻는데" 같은 일반 헬프 글체 표현 X
+
+## 약어·용어 풀이 강제 항목 (첫 등장 시)
+- MCP, SWE-bench, Aider, Terminal-Bench, OSWorld, GraphWalks BFS, BFCL, MMLU, ChartQA, MMMU, AA-Omniscience, GDPval, SWE-Lancer
+- Seatbelt·Landlock·seccomp, Cel shading (글 안에 등장하면)
+- `claude exec`·`codex exec`·`codex mcp`·`codex cloud` 같은 CLI 서브커맨드
+- "사전 승인(approval)"·"위험 효과 타입(reversible/irreversible)" 같은 개념도 첫 등장 시 한 줄
+
+## 결론 한 줄(요지)
+클로드 코드 = 1M 컨텍스트·정직성·코드 품질·툴 체인 깊이로 "메인 오케스트레이터". 코덱스 = 시각·터미널·토큰 효율·일관성으로 "감사관·DevOps 핸드". 단일 모델 선택은 양쪽 강점 다 버리는 손해.
